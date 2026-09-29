@@ -1,0 +1,4333 @@
+{
+  "version": 1,
+  "locale": "nl_NL",
+  "platform": "4.2.3",
+  "metadata": {
+    "appmode": "static",
+    "primary_rmd": null,
+    "primary_html": "R/win-library/4.2/bit/doc/index.html",
+    "content_category": null,
+    "has_parameters": false
+  },
+  "packages": null,
+  "files": {
+    "$RECYCLE.BIN/desktop.ini": {
+      "checksum": "a526b9e7c716b3489d8cc062fbce4005"
+    },
+    "desktop.ini": {
+      "checksum": "cb169a2b58f9a902f03f63e0ee9a3dcc"
+    },
+    "EXPAT_dataset_bachelorthesis.csv": {
+      "checksum": "c9386771fd27bc1e224e0dd24269608a"
+    },
+    "EXPAT_leerlingdata_bachelorthesis.csv": {
+      "checksum": "c9386771fd27bc1e224e0dd24269608a"
+    },
+    "EXPAT_leraardata_bachelorthesis.csv": {
+      "checksum": "f6fde0533c86a9e8bfd7d8e3445b998f"
+    },
+    "R/.Renviron": {
+      "checksum": "b31713787feb11169791aabbd0c5b190"
+    },
+    "R/win-library/4.2/bit/DESCRIPTION": {
+      "checksum": "c9620525b65c360918a0419b418d704f"
+    },
+    "R/win-library/4.2/bit/doc/bit-demo.pdf": {
+      "checksum": "ca33ce16d7224920d746bf786f0e0315"
+    },
+    "R/win-library/4.2/bit/doc/bit-demo.R": {
+      "checksum": "0a019399dff882bf59e303129925f049"
+    },
+    "R/win-library/4.2/bit/doc/bit-demo.Rmd": {
+      "checksum": "a49573888c2ae41703823baa997478cb"
+    },
+    "R/win-library/4.2/bit/doc/bit-performance.pdf": {
+      "checksum": "1dbf54f76feba3558ce9d4ca42452362"
+    },
+    "R/win-library/4.2/bit/doc/bit-performance.R": {
+      "checksum": "643a2d3bb0059db2ad0902c5019208e0"
+    },
+    "R/win-library/4.2/bit/doc/bit-performance.Rmd": {
+      "checksum": "60ff873d12856ab5f37e6ad10e86f46d"
+    },
+    "R/win-library/4.2/bit/doc/bit-usage.pdf": {
+      "checksum": "e3c1879cf7629a78323887d5010da177"
+    },
+    "R/win-library/4.2/bit/doc/bit-usage.R": {
+      "checksum": "25b95bd747a565a9136f75cfa1e51850"
+    },
+    "R/win-library/4.2/bit/doc/bit-usage.Rmd": {
+      "checksum": "b130523ff2becca83b9f94de633da5ea"
+    },
+    "R/win-library/4.2/bit/doc/index.html": {
+      "checksum": "e79e0cb4937fea95cc7ffe0e160dd556"
+    },
+    "R/win-library/4.2/bit/help/aliases.rds": {
+      "checksum": "7c38d8615c98f3ae26dc64fc27c52a4c"
+    },
+    "R/win-library/4.2/bit/help/AnIndex": {
+      "checksum": "a7ac35382c960ed7e6e21e6bd0387ca7"
+    },
+    "R/win-library/4.2/bit/help/bit.rdb": {
+      "checksum": "865a8e8487e7cdabff69cad4a5f05605"
+    },
+    "R/win-library/4.2/bit/help/bit.rdx": {
+      "checksum": "ce60bd9f5fc56576bd9cbc8eb1efe6dc"
+    },
+    "R/win-library/4.2/bit/help/paths.rds": {
+      "checksum": "4d18c9fece02b44b29eccba7d01edf51"
+    },
+    "R/win-library/4.2/bit/html/00Index.html": {
+      "checksum": "43023c547b0eb9f4c786d883e5ebc97d"
+    },
+    "R/win-library/4.2/bit/html/R.css": {
+      "checksum": "3845aef6126cf18c45937f292f23508c"
+    },
+    "R/win-library/4.2/bit/INDEX": {
+      "checksum": "ca3d1c9daa37c721985e214ab31a2255"
+    },
+    "R/win-library/4.2/bit/libs/x64/bit.dll": {
+      "checksum": "b3d005e715783b4ae99885b9f970694e"
+    },
+    "R/win-library/4.2/bit/libs/x64/symbols.rds": {
+      "checksum": "ce83351174a4b3be09e30c5bb9e1302d"
+    },
+    "R/win-library/4.2/bit/MD5": {
+      "checksum": "f0b9adf7fd46b74bac7f9410a1506b32"
+    },
+    "R/win-library/4.2/bit/Meta/features.rds": {
+      "checksum": "9f7a4637f056aa0787fb29bc9c21a1ff"
+    },
+    "R/win-library/4.2/bit/Meta/hsearch.rds": {
+      "checksum": "8e65f3f2ad5207f5aa4f6ec27717c565"
+    },
+    "R/win-library/4.2/bit/Meta/links.rds": {
+      "checksum": "d843394f910407b8b855c6c87ea1b5dd"
+    },
+    "R/win-library/4.2/bit/Meta/nsInfo.rds": {
+      "checksum": "18c56c304b29189eb798e5b43d3e0132"
+    },
+    "R/win-library/4.2/bit/Meta/package.rds": {
+      "checksum": "91be24d9179de8772eb14e3ff6e9e685"
+    },
+    "R/win-library/4.2/bit/Meta/Rd.rds": {
+      "checksum": "3022eb6f1816d20edf1863ba483de833"
+    },
+    "R/win-library/4.2/bit/Meta/vignette.rds": {
+      "checksum": "5161c674c1763f95672422fad7089da5"
+    },
+    "R/win-library/4.2/bit/NAMESPACE": {
+      "checksum": "b0a0eebac0d76e578fac9bde35d49f64"
+    },
+    "R/win-library/4.2/bit/NEWS": {
+      "checksum": "04440870c1fd627c4d37c76505848274"
+    },
+    "R/win-library/4.2/bit/R/bit": {
+      "checksum": "d6c68f1fe41ced6e98a766a3757313da"
+    },
+    "R/win-library/4.2/bit/R/bit.rdb": {
+      "checksum": "71ebe2e0eae5cdee38cd366b67980194"
+    },
+    "R/win-library/4.2/bit/R/bit.rdx": {
+      "checksum": "6c3df35f578193cfb2a97869aedf4968"
+    },
+    "R/win-library/4.2/bit64/data/benchmark64.data.rda": {
+      "checksum": "2787a2901d07a3f824612ff7b82903e8"
+    },
+    "R/win-library/4.2/bit64/data/optimizer64.data.rda": {
+      "checksum": "340bec5a67dd525a3ef1c0615800cb63"
+    },
+    "R/win-library/4.2/bit64/DESCRIPTION": {
+      "checksum": "74cdfb0d2477ca1f6e0d8dd8ca493359"
+    },
+    "R/win-library/4.2/bit64/doc/ANNOUNCEMENT-0.8.txt": {
+      "checksum": "43769b6b11285e3965e8596623489833"
+    },
+    "R/win-library/4.2/bit64/doc/ANNOUNCEMENT-0.9-Details.txt": {
+      "checksum": "95d3e36e2e547b1f2d43a1d96ed79bf0"
+    },
+    "R/win-library/4.2/bit64/doc/ANNOUNCEMENT-0.9.txt": {
+      "checksum": "9dcd6f7db12489e423e98069ca9d780e"
+    },
+    "R/win-library/4.2/bit64/doc/README_devel.txt": {
+      "checksum": "23043832de5e1e9d49916ac1e5c0d2a1"
+    },
+    "R/win-library/4.2/bit64/exec/make_rd.pl": {
+      "checksum": "f4a44e82447e3ecac68ac6d49cb18d34"
+    },
+    "R/win-library/4.2/bit64/exec/prebuild.sh": {
+      "checksum": "77253c3f127e634ce6b495ac8ffd16b5"
+    },
+    "R/win-library/4.2/bit64/help/aliases.rds": {
+      "checksum": "d7ea8249474f1901a21c2463479978f6"
+    },
+    "R/win-library/4.2/bit64/help/AnIndex": {
+      "checksum": "440b853393d9805073ff5fe5af600a53"
+    },
+    "R/win-library/4.2/bit64/help/bit64.rdb": {
+      "checksum": "a1a76afe470d6bc0f5f8d551bd1adfd7"
+    },
+    "R/win-library/4.2/bit64/help/bit64.rdx": {
+      "checksum": "033cdb77150fa6a2c47281549697a632"
+    },
+    "R/win-library/4.2/bit64/help/paths.rds": {
+      "checksum": "0d004950b6f57bb2dcf862397b3aedee"
+    },
+    "R/win-library/4.2/bit64/html/00Index.html": {
+      "checksum": "00aff0edd5e6b9465c7d629e409d0e51"
+    },
+    "R/win-library/4.2/bit64/html/R.css": {
+      "checksum": "3845aef6126cf18c45937f292f23508c"
+    },
+    "R/win-library/4.2/bit64/INDEX": {
+      "checksum": "aa641bc8e48449c741fa1bfda046f2bd"
+    },
+    "R/win-library/4.2/bit64/libs/x64/bit64.dll": {
+      "checksum": "2a90da5e76af0419a980542d3e59d7d8"
+    },
+    "R/win-library/4.2/bit64/libs/x64/symbols.rds": {
+      "checksum": "979e907013818e5c73a7d75dd74bc886"
+    },
+    "R/win-library/4.2/bit64/MD5": {
+      "checksum": "595a906ba78c77212742865813814010"
+    },
+    "R/win-library/4.2/bit64/Meta/data.rds": {
+      "checksum": "1ea40476a65ec8a3a91233278e90f641"
+    },
+    "R/win-library/4.2/bit64/Meta/features.rds": {
+      "checksum": "9f7a4637f056aa0787fb29bc9c21a1ff"
+    },
+    "R/win-library/4.2/bit64/Meta/hsearch.rds": {
+      "checksum": "a6f2e807d5a8c460a6f3c2c630a948d4"
+    },
+    "R/win-library/4.2/bit64/Meta/links.rds": {
+      "checksum": "16a41be293a9ae27d0c8813412812c71"
+    },
+    "R/win-library/4.2/bit64/Meta/nsInfo.rds": {
+      "checksum": "3d2a904deac59c5fdf17a0f1d5c7891d"
+    },
+    "R/win-library/4.2/bit64/Meta/package.rds": {
+      "checksum": "454aec1801f24e7dbac52a608b66cbe1"
+    },
+    "R/win-library/4.2/bit64/Meta/Rd.rds": {
+      "checksum": "93c5420eac2afb36f473625807179d13"
+    },
+    "R/win-library/4.2/bit64/NAMESPACE": {
+      "checksum": "ae8b7af6542978091f0acfbf00cc6238"
+    },
+    "R/win-library/4.2/bit64/NEWS": {
+      "checksum": "7a19f6569ad1182e1bd200b189526cb9"
+    },
+    "R/win-library/4.2/bit64/R/bit64": {
+      "checksum": "d6c68f1fe41ced6e98a766a3757313da"
+    },
+    "R/win-library/4.2/bit64/R/bit64.rdb": {
+      "checksum": "c280e05143f4b2f5aefa31a4c2975292"
+    },
+    "R/win-library/4.2/bit64/R/bit64.rdx": {
+      "checksum": "8b49d1ec576ec9b9c2488e1165241717"
+    },
+    "R/win-library/4.2/cli/DESCRIPTION": {
+      "checksum": "7f925748a745201989b1a83d02603a6f"
+    },
+    "R/win-library/4.2/cli/examples/apps/news.R": {
+      "checksum": "b92af83cdf1863d79ba5db78caed49f5"
+    },
+    "R/win-library/4.2/cli/examples/apps/outdated.R": {
+      "checksum": "d71030204ac721b2b6fb9dd1f013066b"
+    },
+    "R/win-library/4.2/cli/examples/apps/search.R": {
+      "checksum": "e3540d59292af42b3b1570c25cb55260"
+    },
+    "R/win-library/4.2/cli/examples/apps/up.R": {
+      "checksum": "234ede852bac1dc638fc0d774a764ee8"
+    },
+    "R/win-library/4.2/cli/exec/news.R": {
+      "checksum": "b92af83cdf1863d79ba5db78caed49f5"
+    },
+    "R/win-library/4.2/cli/exec/outdated.R": {
+      "checksum": "b6a34628690fc7587a54c6f271956f3c"
+    },
+    "R/win-library/4.2/cli/exec/search.R": {
+      "checksum": "7b3b382306a00ed2ed4751dc20684556"
+    },
+    "R/win-library/4.2/cli/exec/up.R": {
+      "checksum": "004ffa924d426a2165686502c0aab396"
+    },
+    "R/win-library/4.2/cli/help/aliases.rds": {
+      "checksum": "b5f9101b32338ea5759b14753c5ce4bd"
+    },
+    "R/win-library/4.2/cli/help/AnIndex": {
+      "checksum": "70bd1347610c6cba409f3fde9d25446f"
+    },
+    "R/win-library/4.2/cli/help/cli.rdb": {
+      "checksum": "db05fcce9d9399382bf3a53e1512c297"
+    },
+    "R/win-library/4.2/cli/help/cli.rdx": {
+      "checksum": "7c88b0811908d9979d93aa42686cc6b6"
+    },
+    "R/win-library/4.2/cli/help/figures/demo-spinners.svg": {
+      "checksum": "bd84cb28693c63aa23bbe74512417665"
+    },
+    "R/win-library/4.2/cli/help/figures/get-spinner.svg": {
+      "checksum": "ab6de8f8eec056c56e44b5de2edca236"
+    },
+    "R/win-library/4.2/cli/help/figures/make-spinner-custom.svg": {
+      "checksum": "e7bad1f8dceb766729a88ab41beb7deb"
+    },
+    "R/win-library/4.2/cli/help/figures/make-spinner-default.svg": {
+      "checksum": "bfb1c13e199f4f29a8691059e929f63a"
+    },
+    "R/win-library/4.2/cli/help/figures/make-spinner-template.svg": {
+      "checksum": "9b254f89709a46381b3b47521dc52bae"
+    },
+    "R/win-library/4.2/cli/help/figures/progress-1.svg": {
+      "checksum": "f760025377f8f89e3b7e9b1703c07fbd"
+    },
+    "R/win-library/4.2/cli/help/figures/progress-after.svg": {
+      "checksum": "f8e74bd6560da27db0d89036d1626d3e"
+    },
+    "R/win-library/4.2/cli/help/figures/progress-along-1.svg": {
+      "checksum": "901d317546a5b3b94bf28ee39935e55d"
+    },
+    "R/win-library/4.2/cli/help/figures/progress-along-2.svg": {
+      "checksum": "f449ae9ad17d71f33c2bfb4e9ae48983"
+    },
+    "R/win-library/4.2/cli/help/figures/progress-along-3.svg": {
+      "checksum": "08e3bb15ccf8fde1abbc2727a7739e5d"
+    },
+    "R/win-library/4.2/cli/help/figures/progress-clear.svg": {
+      "checksum": "88f13eca244f1eb182ef028fafe2288d"
+    },
+    "R/win-library/4.2/cli/help/figures/progress-current.svg": {
+      "checksum": "b36eb4f1a2fc8f22d55f9380a607a61c"
+    },
+    "R/win-library/4.2/cli/help/figures/progress-format.svg": {
+      "checksum": "7f5826300ef1ba2d253f5bc9a1211cb9"
+    },
+    "R/win-library/4.2/cli/help/figures/progress-message.svg": {
+      "checksum": "cd2640b2e121b3d38197922db06d18c2"
+    },
+    "R/win-library/4.2/cli/help/figures/progress-natotal.svg": {
+      "checksum": "2bb2a2910743123c0670b7be2568e3e8"
+    },
+    "R/win-library/4.2/cli/help/figures/progress-output.svg": {
+      "checksum": "1003a95e281792562549e4ac6118da3a"
+    },
+    "R/win-library/4.2/cli/help/figures/progress-output2.svg": {
+      "checksum": "e19cc09fc7bd3dd9e6da86b8867db773"
+    },
+    "R/win-library/4.2/cli/help/figures/progress-step-dynamic.svg": {
+      "checksum": "5a3b43377c4823fca54b44b18769fe99"
+    },
+    "R/win-library/4.2/cli/help/figures/progress-step-msg.svg": {
+      "checksum": "289df71c958c7758bc454af70ca53f0f"
+    },
+    "R/win-library/4.2/cli/help/figures/progress-step-spin.svg": {
+      "checksum": "6b058035deee58362c340d48cb07d43c"
+    },
+    "R/win-library/4.2/cli/help/figures/progress-step.svg": {
+      "checksum": "6bdd5f1d130daa4fb09acdefd9a0d0a0"
+    },
+    "R/win-library/4.2/cli/help/figures/progress-tasks.svg": {
+      "checksum": "f2e74e2e161402e874a8b7e168fcf250"
+    },
+    "R/win-library/4.2/cli/help/paths.rds": {
+      "checksum": "a77a273c34aab64fdb729b94c4b8d84f"
+    },
+    "R/win-library/4.2/cli/html/00Index.html": {
+      "checksum": "eeeb01c6307484f4b9df660ad2ac49a5"
+    },
+    "R/win-library/4.2/cli/html/R.css": {
+      "checksum": "3845aef6126cf18c45937f292f23508c"
+    },
+    "R/win-library/4.2/cli/include/cli/progress.h": {
+      "checksum": "f07e6e168985b8a6dd63dafd2894d514"
+    },
+    "R/win-library/4.2/cli/INDEX": {
+      "checksum": "8c19d7c72329dbfbdddaf621027b4cae"
+    },
+    "R/win-library/4.2/cli/libs/x64/cli.dll": {
+      "checksum": "38813322e8795e5789534fb5eb0ea8f3"
+    },
+    "R/win-library/4.2/cli/libs/x64/symbols.rds": {
+      "checksum": "353b9d34834b40ded98a2c955be33a13"
+    },
+    "R/win-library/4.2/cli/LICENSE": {
+      "checksum": "6f22fdde441ec9cbaddb626d704887aa"
+    },
+    "R/win-library/4.2/cli/logo.txt": {
+      "checksum": "aaffd10fd0246bb9d2333d0d2c920093"
+    },
+    "R/win-library/4.2/cli/MD5": {
+      "checksum": "e300d60dd1e4d8e339fa0a0d72defdee"
+    },
+    "R/win-library/4.2/cli/Meta/features.rds": {
+      "checksum": "9f7a4637f056aa0787fb29bc9c21a1ff"
+    },
+    "R/win-library/4.2/cli/Meta/hsearch.rds": {
+      "checksum": "5dad88892cbdd8c4ba3060c14f1c364c"
+    },
+    "R/win-library/4.2/cli/Meta/links.rds": {
+      "checksum": "600b6f78b33207bba417847b1f4a0ad0"
+    },
+    "R/win-library/4.2/cli/Meta/nsInfo.rds": {
+      "checksum": "c99a7ef6e9af469fd880bbade0e73fd8"
+    },
+    "R/win-library/4.2/cli/Meta/package.rds": {
+      "checksum": "133fea4bdaabf426f934a5da1ee4837d"
+    },
+    "R/win-library/4.2/cli/Meta/Rd.rds": {
+      "checksum": "26bf2a20e8578206b100565245839bb7"
+    },
+    "R/win-library/4.2/cli/NAMESPACE": {
+      "checksum": "30fe1f82e394739a4696a7a929140a83"
+    },
+    "R/win-library/4.2/cli/NEWS.md": {
+      "checksum": "27cb80b21fd6682d51141bc37ce708e2"
+    },
+    "R/win-library/4.2/cli/R/cli": {
+      "checksum": "d6c68f1fe41ced6e98a766a3757313da"
+    },
+    "R/win-library/4.2/cli/R/cli.rdb": {
+      "checksum": "c5deb32fb92c40fcecb5dadd0a9897c9"
+    },
+    "R/win-library/4.2/cli/R/cli.rdx": {
+      "checksum": "5ee74597ee2a58d38c0a135833a597fd"
+    },
+    "R/win-library/4.2/cli/R/sysdata.rdb": {
+      "checksum": "69dc1742d8c6e273bb4413dc3a2b260b"
+    },
+    "R/win-library/4.2/cli/R/sysdata.rdx": {
+      "checksum": "1a039e6ae6b3b3cf377fd17358d2863b"
+    },
+    "R/win-library/4.2/cli/shiny/along/app.R": {
+      "checksum": "a8a10e10ed0b9a9cc92cda3e58e487af"
+    },
+    "R/win-library/4.2/cli/shiny/format/app.R": {
+      "checksum": "5590d85218e87a0c1d1071c37db6d382"
+    },
+    "R/win-library/4.2/cli/shiny/nested/app.R": {
+      "checksum": "23a60b6905cfc334e4b021f04113b043"
+    },
+    "R/win-library/4.2/cli/shiny/output/app.R": {
+      "checksum": "8020185d6a15e38bc931667419f6c4c7"
+    },
+    "R/win-library/4.2/cli/shiny/simple/app.R": {
+      "checksum": "bcc9a5722e9728e99017db12f690f194"
+    },
+    "R/win-library/4.2/clipr/DESCRIPTION": {
+      "checksum": "5464b3b1cded56419934b4e5121b4e71"
+    },
+    "R/win-library/4.2/clipr/doc/developing-with-clipr.html": {
+      "checksum": "9aa4255a8359053bf070e72698d1fc4d"
+    },
+    "R/win-library/4.2/clipr/doc/developing-with-clipr.R": {
+      "checksum": "46750e778a5cdb4d65c347f8e43df623"
+    },
+    "R/win-library/4.2/clipr/doc/developing-with-clipr.Rmd": {
+      "checksum": "84e33d5522227cda21ffbb2c43045ee9"
+    },
+    "R/win-library/4.2/clipr/doc/index.html": {
+      "checksum": "6876322931ca344a69ff6658b8945aa1"
+    },
+    "R/win-library/4.2/clipr/help/aliases.rds": {
+      "checksum": "3f733e833b7b9627a8e9e550b7ad3604"
+    },
+    "R/win-library/4.2/clipr/help/AnIndex": {
+      "checksum": "eb4617ca0c605e9fa08eb72091239bff"
+    },
+    "R/win-library/4.2/clipr/help/clipr.rdb": {
+      "checksum": "4d3f57b0192d3641ea5ebbab2acc9e75"
+    },
+    "R/win-library/4.2/clipr/help/clipr.rdx": {
+      "checksum": "15a2d60282f5363f9753b3366f1447a3"
+    },
+    "R/win-library/4.2/clipr/help/paths.rds": {
+      "checksum": "24e8ea25dccc66f780c58fb21564bf4a"
+    },
+    "R/win-library/4.2/clipr/html/00Index.html": {
+      "checksum": "8330b09c9543a97e9801a4151eeb6daf"
+    },
+    "R/win-library/4.2/clipr/html/R.css": {
+      "checksum": "3845aef6126cf18c45937f292f23508c"
+    },
+    "R/win-library/4.2/clipr/INDEX": {
+      "checksum": "7a61327b56de9c49b5011661ab06f3a4"
+    },
+    "R/win-library/4.2/clipr/Meta/features.rds": {
+      "checksum": "2fc7c8f33ded19611739c12d9aa85e03"
+    },
+    "R/win-library/4.2/clipr/Meta/hsearch.rds": {
+      "checksum": "7f462c9c3959f48470a814ca9cf58278"
+    },
+    "R/win-library/4.2/clipr/Meta/links.rds": {
+      "checksum": "0930d0d23c3fc945687f6f27b01aa21e"
+    },
+    "R/win-library/4.2/clipr/Meta/nsInfo.rds": {
+      "checksum": "ec354cd0d84cafdedfafd960a1135a20"
+    },
+    "R/win-library/4.2/clipr/Meta/package.rds": {
+      "checksum": "b13ca4d611514a8c99c28e3998250a4f"
+    },
+    "R/win-library/4.2/clipr/Meta/Rd.rds": {
+      "checksum": "77b8ccbfdab0ff1ae0e80b8c0315eff8"
+    },
+    "R/win-library/4.2/clipr/Meta/vignette.rds": {
+      "checksum": "3ba964820385d40779005d48acf758ab"
+    },
+    "R/win-library/4.2/clipr/NAMESPACE": {
+      "checksum": "ac9216bb379e4dad41fcf47ac889c3d9"
+    },
+    "R/win-library/4.2/clipr/NEWS.md": {
+      "checksum": "062c3cb938f46fa256a0af188bda8dbd"
+    },
+    "R/win-library/4.2/clipr/R/clipr": {
+      "checksum": "d6c68f1fe41ced6e98a766a3757313da"
+    },
+    "R/win-library/4.2/clipr/R/clipr.rdb": {
+      "checksum": "1fe5cacdbd12f8b0f3939a0ff4739a63"
+    },
+    "R/win-library/4.2/clipr/R/clipr.rdx": {
+      "checksum": "0a249ff1cdeb19f1f4e84518083942e1"
+    },
+    "R/win-library/4.2/clipr/rstudio/addins.dcf": {
+      "checksum": "c5d91ccff2716bd64fd3dbf351507c07"
+    },
+    "R/win-library/4.2/cpp11/DESCRIPTION": {
+      "checksum": "ae1bccba47fe990ce5de9f23d955708c"
+    },
+    "R/win-library/4.2/cpp11/doc/converting.html": {
+      "checksum": "fff67ba8c8d02bc884021fb1ccf62843"
+    },
+    "R/win-library/4.2/cpp11/doc/converting.R": {
+      "checksum": "5e270ae6034b339c2a13d20a5f7d2dec"
+    },
+    "R/win-library/4.2/cpp11/doc/converting.Rmd": {
+      "checksum": "21b2a5a8ff9a18544a877b6da18c6bbb"
+    },
+    "R/win-library/4.2/cpp11/doc/cpp11.html": {
+      "checksum": "3244161bf5f2c85fdc4a88dbf5f058af"
+    },
+    "R/win-library/4.2/cpp11/doc/cpp11.R": {
+      "checksum": "923c2c22698ab6d673a2e6e8ed726306"
+    },
+    "R/win-library/4.2/cpp11/doc/cpp11.Rmd": {
+      "checksum": "2a861bafbec0564efcaa7ceeced8874c"
+    },
+    "R/win-library/4.2/cpp11/doc/FAQ.html": {
+      "checksum": "729ab9e49974b212a0af8ff0dafd5c5c"
+    },
+    "R/win-library/4.2/cpp11/doc/FAQ.R": {
+      "checksum": "a2ce2881b6ae40580db0456fadfa8319"
+    },
+    "R/win-library/4.2/cpp11/doc/FAQ.Rmd": {
+      "checksum": "c13aba22c8a65767028879fbd49bd837"
+    },
+    "R/win-library/4.2/cpp11/doc/index.html": {
+      "checksum": "20f2344d612f4c7377da7a6a80538d33"
+    },
+    "R/win-library/4.2/cpp11/doc/internals.html": {
+      "checksum": "255cbc835ba08291ae426bf4bbbbd29e"
+    },
+    "R/win-library/4.2/cpp11/doc/internals.R": {
+      "checksum": "5e270ae6034b339c2a13d20a5f7d2dec"
+    },
+    "R/win-library/4.2/cpp11/doc/internals.Rmd": {
+      "checksum": "17f5a7d44e71741a7784dbc5d5041ae0"
+    },
+    "R/win-library/4.2/cpp11/doc/motivations.html": {
+      "checksum": "b3d554018cf53d8635930a20206e9585"
+    },
+    "R/win-library/4.2/cpp11/doc/motivations.R": {
+      "checksum": "b9808cf1f0ed5e34c543c6c4b0cab59c"
+    },
+    "R/win-library/4.2/cpp11/doc/motivations.Rmd": {
+      "checksum": "2a13d6fbe4cd2df1cea03d652026fba2"
+    },
+    "R/win-library/4.2/cpp11/help/aliases.rds": {
+      "checksum": "7bf09cefaf57cad25f3373f2b65081e1"
+    },
+    "R/win-library/4.2/cpp11/help/AnIndex": {
+      "checksum": "f7946bc556e26351e69a8f7bcfe5961c"
+    },
+    "R/win-library/4.2/cpp11/help/cpp11.rdb": {
+      "checksum": "f6a09621bc33b000a454581b62e37c46"
+    },
+    "R/win-library/4.2/cpp11/help/cpp11.rdx": {
+      "checksum": "ed9299f51973bd931222f58fa05e4345"
+    },
+    "R/win-library/4.2/cpp11/help/paths.rds": {
+      "checksum": "3af6d46987e9788abd9a6efaae6389f3"
+    },
+    "R/win-library/4.2/cpp11/html/00Index.html": {
+      "checksum": "353aefede0b0b152edac5f268dc84709"
+    },
+    "R/win-library/4.2/cpp11/html/R.css": {
+      "checksum": "3845aef6126cf18c45937f292f23508c"
+    },
+    "R/win-library/4.2/cpp11/include/cpp11.hpp": {
+      "checksum": "5285ae2dfd6c4f8cc939a40418ddb470"
+    },
+    "R/win-library/4.2/cpp11/include/cpp11/altrep.hpp": {
+      "checksum": "5f358e0fc48591d7852aed07d189806b"
+    },
+    "R/win-library/4.2/cpp11/include/cpp11/as.hpp": {
+      "checksum": "a6b84992041f280d74b4328f5c9fb1f9"
+    },
+    "R/win-library/4.2/cpp11/include/cpp11/attribute_proxy.hpp": {
+      "checksum": "b70ab7b50907184aae72442e2466daba"
+    },
+    "R/win-library/4.2/cpp11/include/cpp11/data_frame.hpp": {
+      "checksum": "ffab4b689d3c6968a954607227f02fba"
+    },
+    "R/win-library/4.2/cpp11/include/cpp11/declarations.hpp": {
+      "checksum": "3614ec35fa6c2bb0f110c6ed1348508f"
+    },
+    "R/win-library/4.2/cpp11/include/cpp11/doubles.hpp": {
+      "checksum": "70bc896abebfe065d7fd1eb348b55e02"
+    },
+    "R/win-library/4.2/cpp11/include/cpp11/environment.hpp": {
+      "checksum": "53ecebe908baee486b233ab2ed49b2ef"
+    },
+    "R/win-library/4.2/cpp11/include/cpp11/external_pointer.hpp": {
+      "checksum": "a3b8a4058b5604620c83ef77719f0f54"
+    },
+    "R/win-library/4.2/cpp11/include/cpp11/function.hpp": {
+      "checksum": "903bda19d9f706ab3b8c729bc43b3f50"
+    },
+    "R/win-library/4.2/cpp11/include/cpp11/integers.hpp": {
+      "checksum": "13eb3adc823c55ba15b2e1ddb05ee147"
+    },
+    "R/win-library/4.2/cpp11/include/cpp11/list.hpp": {
+      "checksum": "8f4b999524347e972db50c8d5c8a71a4"
+    },
+    "R/win-library/4.2/cpp11/include/cpp11/list_of.hpp": {
+      "checksum": "41d357aa6837f8d73acc95a20f25bf7f"
+    },
+    "R/win-library/4.2/cpp11/include/cpp11/logicals.hpp": {
+      "checksum": "1670db444994e630b100dd319980b8f4"
+    },
+    "R/win-library/4.2/cpp11/include/cpp11/matrix.hpp": {
+      "checksum": "fd34e653ada0c39247f190248d0e44ee"
+    },
+    "R/win-library/4.2/cpp11/include/cpp11/named_arg.hpp": {
+      "checksum": "c75c56e75552938d222e5d0bca351373"
+    },
+    "R/win-library/4.2/cpp11/include/cpp11/protect.hpp": {
+      "checksum": "bbe1e43de5536e36c3d39e86391f584c"
+    },
+    "R/win-library/4.2/cpp11/include/cpp11/R.hpp": {
+      "checksum": "48c049701055c4493cced11e9b966b32"
+    },
+    "R/win-library/4.2/cpp11/include/cpp11/r_bool.hpp": {
+      "checksum": "787a71bd7af834036c6cef76ec723e6c"
+    },
+    "R/win-library/4.2/cpp11/include/cpp11/r_string.hpp": {
+      "checksum": "208e3ef4e75dc0d4afb012ffc38c9a25"
+    },
+    "R/win-library/4.2/cpp11/include/cpp11/r_vector.hpp": {
+      "checksum": "b0a753bec825d0342c691a30b99c65f3"
+    },
+    "R/win-library/4.2/cpp11/include/cpp11/raws.hpp": {
+      "checksum": "564746dd95efa01d6d7a3776fe3b0ae4"
+    },
+    "R/win-library/4.2/cpp11/include/cpp11/sexp.hpp": {
+      "checksum": "52d43c13c01fb6ba2d683c996fd4ae3d"
+    },
+    "R/win-library/4.2/cpp11/include/cpp11/strings.hpp": {
+      "checksum": "23fd80619ab785acf699aeb4afcbaaf3"
+    },
+    "R/win-library/4.2/cpp11/include/fmt/core.h": {
+      "checksum": "8eff5dd4e380f63ebdb50936b407d741"
+    },
+    "R/win-library/4.2/cpp11/include/fmt/format-inl.h": {
+      "checksum": "fc80debc11fb314f5f83f1bfa793a729"
+    },
+    "R/win-library/4.2/cpp11/include/fmt/format.h": {
+      "checksum": "bdc00b2f701a2d707e088eea51c6528c"
+    },
+    "R/win-library/4.2/cpp11/INDEX": {
+      "checksum": "2503942b7f6c4385c3ffab1d6c9cba89"
+    },
+    "R/win-library/4.2/cpp11/LICENSE": {
+      "checksum": "fb63bee874b625564e29f34b844c842f"
+    },
+    "R/win-library/4.2/cpp11/Meta/features.rds": {
+      "checksum": "2fc7c8f33ded19611739c12d9aa85e03"
+    },
+    "R/win-library/4.2/cpp11/Meta/hsearch.rds": {
+      "checksum": "6dc14afa521678d05445fcd77892e69f"
+    },
+    "R/win-library/4.2/cpp11/Meta/links.rds": {
+      "checksum": "aaf0dd2b83b149c0e7e114826600de8c"
+    },
+    "R/win-library/4.2/cpp11/Meta/nsInfo.rds": {
+      "checksum": "7f3f86f7e5a2f3d2008ba9a50e353a43"
+    },
+    "R/win-library/4.2/cpp11/Meta/package.rds": {
+      "checksum": "67b61449240167dcbcf44c543179fac5"
+    },
+    "R/win-library/4.2/cpp11/Meta/Rd.rds": {
+      "checksum": "1270b99f0917c1210be0a63a6c475330"
+    },
+    "R/win-library/4.2/cpp11/Meta/vignette.rds": {
+      "checksum": "4932c23efa81a7fb6338dc742260bc0a"
+    },
+    "R/win-library/4.2/cpp11/NAMESPACE": {
+      "checksum": "3a9298876794331325c170d77feb1164"
+    },
+    "R/win-library/4.2/cpp11/NEWS.md": {
+      "checksum": "274be73bfd3b29dc0e734cc63df16eed"
+    },
+    "R/win-library/4.2/cpp11/R/cpp11": {
+      "checksum": "d6c68f1fe41ced6e98a766a3757313da"
+    },
+    "R/win-library/4.2/cpp11/R/cpp11.rdb": {
+      "checksum": "adcfaaf4a7576e9840d07ad95e939b44"
+    },
+    "R/win-library/4.2/cpp11/R/cpp11.rdx": {
+      "checksum": "36c4e5394a176ec18f172d40eb6db9cf"
+    },
+    "R/win-library/4.2/crayon/DESCRIPTION": {
+      "checksum": "d486d94e7cace110f3cd989edf927a1a"
+    },
+    "R/win-library/4.2/crayon/help/aliases.rds": {
+      "checksum": "b8120f70670e1dfbb5946b4234c54c72"
+    },
+    "R/win-library/4.2/crayon/help/AnIndex": {
+      "checksum": "5ba90589c62552a109a45071827555f1"
+    },
+    "R/win-library/4.2/crayon/help/crayon.rdb": {
+      "checksum": "10a5940284734a98c3e9591d2822438e"
+    },
+    "R/win-library/4.2/crayon/help/crayon.rdx": {
+      "checksum": "656724187e628d2de7db9c55d8fcaf80"
+    },
+    "R/win-library/4.2/crayon/help/paths.rds": {
+      "checksum": "808bcc94f8a01bd28ce67c4dc88ef3c5"
+    },
+    "R/win-library/4.2/crayon/html/00Index.html": {
+      "checksum": "a7e065c75126aaf757919221a9c32f19"
+    },
+    "R/win-library/4.2/crayon/html/R.css": {
+      "checksum": "3845aef6126cf18c45937f292f23508c"
+    },
+    "R/win-library/4.2/crayon/INDEX": {
+      "checksum": "0a67e0302f67b9e5d4c992e67e7b1322"
+    },
+    "R/win-library/4.2/crayon/LICENSE": {
+      "checksum": "14bda9bd738bac140a00020b610edf61"
+    },
+    "R/win-library/4.2/crayon/Meta/features.rds": {
+      "checksum": "2fc7c8f33ded19611739c12d9aa85e03"
+    },
+    "R/win-library/4.2/crayon/Meta/hsearch.rds": {
+      "checksum": "34546de7a227893be55ffe0dc9709405"
+    },
+    "R/win-library/4.2/crayon/Meta/links.rds": {
+      "checksum": "cabad891dc8f9dcc3c980540b2a1c610"
+    },
+    "R/win-library/4.2/crayon/Meta/nsInfo.rds": {
+      "checksum": "81df483326f2161a3a04f7d1c823abef"
+    },
+    "R/win-library/4.2/crayon/Meta/package.rds": {
+      "checksum": "02b0e38479115e58d4c611bb9284cf01"
+    },
+    "R/win-library/4.2/crayon/Meta/Rd.rds": {
+      "checksum": "e3726907cc1265411d84dc6c8d5e787a"
+    },
+    "R/win-library/4.2/crayon/NAMESPACE": {
+      "checksum": "e2c013428a135455a1a7d0ae7a893385"
+    },
+    "R/win-library/4.2/crayon/NEWS.md": {
+      "checksum": "fc145f56f7de29a721483d68cd6c2bbc"
+    },
+    "R/win-library/4.2/crayon/R/crayon": {
+      "checksum": "d6c68f1fe41ced6e98a766a3757313da"
+    },
+    "R/win-library/4.2/crayon/R/crayon.rdb": {
+      "checksum": "6870bc299bc792f54dc0f69ae0c9fb2f"
+    },
+    "R/win-library/4.2/crayon/R/crayon.rdx": {
+      "checksum": "08b7cfae03dd9a86fe24caf2b17bdb1c"
+    },
+    "R/win-library/4.2/dplyr/data/Rdata.rdb": {
+      "checksum": "9868587a4d52ffad3dac7fd0bbcd1de4"
+    },
+    "R/win-library/4.2/dplyr/data/Rdata.rds": {
+      "checksum": "0c79caca4392e7726a1a0b667b76331a"
+    },
+    "R/win-library/4.2/dplyr/data/Rdata.rdx": {
+      "checksum": "e3aafae0a61c7746571ca0804a96cd77"
+    },
+    "R/win-library/4.2/dplyr/DESCRIPTION": {
+      "checksum": "d39f1bd0e7da53a4a74ac80314295488"
+    },
+    "R/win-library/4.2/dplyr/doc/base.html": {
+      "checksum": "af178180602eabac5bb5b28e767d9177"
+    },
+    "R/win-library/4.2/dplyr/doc/base.R": {
+      "checksum": "e91f30b848a747c9cb9c94b0c0c492c8"
+    },
+    "R/win-library/4.2/dplyr/doc/base.Rmd": {
+      "checksum": "d05ab21a50c52118a742f9357fd9552d"
+    },
+    "R/win-library/4.2/dplyr/doc/colwise.html": {
+      "checksum": "030d53dce6b8365affe53062bdacdb29"
+    },
+    "R/win-library/4.2/dplyr/doc/colwise.R": {
+      "checksum": "3a77f6f09c00cf092b4f99f1299e6226"
+    },
+    "R/win-library/4.2/dplyr/doc/colwise.Rmd": {
+      "checksum": "a6504b70bb56595da80ebdeacb3a4571"
+    },
+    "R/win-library/4.2/dplyr/doc/dplyr.html": {
+      "checksum": "1cbb089611ba69fe8b521394f40e7169"
+    },
+    "R/win-library/4.2/dplyr/doc/dplyr.R": {
+      "checksum": "b27f1d5cd903bd6b1dc42ee5f3284248"
+    },
+    "R/win-library/4.2/dplyr/doc/dplyr.Rmd": {
+      "checksum": "f2dccae5a13cc4e1d7c6f80b6d7bd67c"
+    },
+    "R/win-library/4.2/dplyr/doc/grouping.html": {
+      "checksum": "8b87fbc57a2d3b9f10304c23459b9063"
+    },
+    "R/win-library/4.2/dplyr/doc/grouping.R": {
+      "checksum": "7c9f649afc138fdd9961fab1a1c48511"
+    },
+    "R/win-library/4.2/dplyr/doc/grouping.Rmd": {
+      "checksum": "13adad66b3809dea3a6a5ff412f0763e"
+    },
+    "R/win-library/4.2/dplyr/doc/in-packages.html": {
+      "checksum": "c2b4e5bcd9cac85c194d500346e2f85a"
+    },
+    "R/win-library/4.2/dplyr/doc/in-packages.R": {
+      "checksum": "6748002b790124a139476c97170a5102"
+    },
+    "R/win-library/4.2/dplyr/doc/in-packages.Rmd": {
+      "checksum": "aef8e1d6c3de3710586366a8b3ea46f9"
+    },
+    "R/win-library/4.2/dplyr/doc/index.html": {
+      "checksum": "f05a298342de202e8ffa4d0e342ba196"
+    },
+    "R/win-library/4.2/dplyr/doc/programming.html": {
+      "checksum": "f2e4665ea5c7f2c6a98f716f3c9bc61d"
+    },
+    "R/win-library/4.2/dplyr/doc/programming.R": {
+      "checksum": "89e58f52075147000042e2bf97285837"
+    },
+    "R/win-library/4.2/dplyr/doc/programming.Rmd": {
+      "checksum": "7755a76ddfed8b48450ff7663b01fd6f"
+    },
+    "R/win-library/4.2/dplyr/doc/rowwise.html": {
+      "checksum": "2b236b0719e9dfb920bcd0414f92c365"
+    },
+    "R/win-library/4.2/dplyr/doc/rowwise.R": {
+      "checksum": "32fb28c9968edbd66d3ded9e659eafa1"
+    },
+    "R/win-library/4.2/dplyr/doc/rowwise.Rmd": {
+      "checksum": "e7d21f3fe88c93594c939b38ac1c1205"
+    },
+    "R/win-library/4.2/dplyr/doc/two-table.html": {
+      "checksum": "077e9cb8d683bda448461354194f34f5"
+    },
+    "R/win-library/4.2/dplyr/doc/two-table.R": {
+      "checksum": "703c679de2fb9dc99a171c24ec974776"
+    },
+    "R/win-library/4.2/dplyr/doc/two-table.Rmd": {
+      "checksum": "fdb7682a8f09c1976c19f30eaabc8133"
+    },
+    "R/win-library/4.2/dplyr/doc/window-functions.html": {
+      "checksum": "918e48a1f96b6f0e4e404e4cb597ef12"
+    },
+    "R/win-library/4.2/dplyr/doc/window-functions.R": {
+      "checksum": "000a0fd0738f55f98a3569fe3f558519"
+    },
+    "R/win-library/4.2/dplyr/doc/window-functions.Rmd": {
+      "checksum": "976537d75de5855dbab47dc63d638545"
+    },
+    "R/win-library/4.2/dplyr/help/aliases.rds": {
+      "checksum": "ee4d4b86e55614ebdc410df112105969"
+    },
+    "R/win-library/4.2/dplyr/help/AnIndex": {
+      "checksum": "46c601b60b87782186ef43ed742d98be"
+    },
+    "R/win-library/4.2/dplyr/help/dplyr.rdb": {
+      "checksum": "79bfaeb4d125eb7bcdf3e8daccaa3061"
+    },
+    "R/win-library/4.2/dplyr/help/dplyr.rdx": {
+      "checksum": "5770faa8fb89279642a34c6f62e143f1"
+    },
+    "R/win-library/4.2/dplyr/help/figures/lifecycle-archived.svg": {
+      "checksum": "cb1e46f469cfbbbde29c8b5113e1d789"
+    },
+    "R/win-library/4.2/dplyr/help/figures/lifecycle-defunct.svg": {
+      "checksum": "c0d2e5a54f1fa4ff02bf9533079dd1f7"
+    },
+    "R/win-library/4.2/dplyr/help/figures/lifecycle-deprecated.svg": {
+      "checksum": "a1b8c987c676c16af790f563f96cbb1f"
+    },
+    "R/win-library/4.2/dplyr/help/figures/lifecycle-experimental.svg": {
+      "checksum": "c3978703d8f40f2679795335715e98f4"
+    },
+    "R/win-library/4.2/dplyr/help/figures/lifecycle-maturing.svg": {
+      "checksum": "952b59dc07b171b97d5d982924244f61"
+    },
+    "R/win-library/4.2/dplyr/help/figures/lifecycle-questioning.svg": {
+      "checksum": "27b879bf3677ea76e3991d56ab324081"
+    },
+    "R/win-library/4.2/dplyr/help/figures/lifecycle-retired.svg": {
+      "checksum": "46de21252239c5a23d400eae83ec6b2d"
+    },
+    "R/win-library/4.2/dplyr/help/figures/lifecycle-soft-deprecated.svg": {
+      "checksum": "6902bbfaf963fbc4ed98b86bda80caa2"
+    },
+    "R/win-library/4.2/dplyr/help/figures/lifecycle-stable.svg": {
+      "checksum": "53b3f893324260b737b3c46ed2a0e643"
+    },
+    "R/win-library/4.2/dplyr/help/figures/lifecycle-superseded.svg": {
+      "checksum": "1c1fe7a759b86dc6dbcbe7797ab8246c"
+    },
+    "R/win-library/4.2/dplyr/help/figures/logo.png": {
+      "checksum": "1c9275a703baa038ba079452e917859c"
+    },
+    "R/win-library/4.2/dplyr/help/paths.rds": {
+      "checksum": "1c49f73d3e96094ce9e340bbc4a1c82a"
+    },
+    "R/win-library/4.2/dplyr/html/00Index.html": {
+      "checksum": "59ef851ebfc9aa1888d3f172328bc34b"
+    },
+    "R/win-library/4.2/dplyr/html/R.css": {
+      "checksum": "3845aef6126cf18c45937f292f23508c"
+    },
+    "R/win-library/4.2/dplyr/INDEX": {
+      "checksum": "b48becbd5cef443c4587485c5c422e84"
+    },
+    "R/win-library/4.2/dplyr/libs/x64/dplyr.dll": {
+      "checksum": "6cf86fe7fc3433e47d82b5309765a2b3"
+    },
+    "R/win-library/4.2/dplyr/libs/x64/symbols.rds": {
+      "checksum": "13f33a6ac8a212a82fb60f0c6f9f5557"
+    },
+    "R/win-library/4.2/dplyr/LICENSE": {
+      "checksum": "371bde6d0dbcacd6d7b0e203b5425671"
+    },
+    "R/win-library/4.2/dplyr/MD5": {
+      "checksum": "9a639c69fdd83c953ed766cd14f7408b"
+    },
+    "R/win-library/4.2/dplyr/Meta/data.rds": {
+      "checksum": "669127e99bb237a53a9f0b109c38600d"
+    },
+    "R/win-library/4.2/dplyr/Meta/features.rds": {
+      "checksum": "9f7a4637f056aa0787fb29bc9c21a1ff"
+    },
+    "R/win-library/4.2/dplyr/Meta/hsearch.rds": {
+      "checksum": "a5c59ae11a84237d958a51669e543bdc"
+    },
+    "R/win-library/4.2/dplyr/Meta/links.rds": {
+      "checksum": "ebd9bb1369694d7ba29ecd726f84f47f"
+    },
+    "R/win-library/4.2/dplyr/Meta/nsInfo.rds": {
+      "checksum": "fa11c574bc6aa979397f66f1a8011d18"
+    },
+    "R/win-library/4.2/dplyr/Meta/package.rds": {
+      "checksum": "5fe4a3533f35d3070f244dcbef11ebc6"
+    },
+    "R/win-library/4.2/dplyr/Meta/Rd.rds": {
+      "checksum": "2813b37a3ead4730d46afd428b10e061"
+    },
+    "R/win-library/4.2/dplyr/Meta/vignette.rds": {
+      "checksum": "dde52aa62da304e8c87bf65b95063740"
+    },
+    "R/win-library/4.2/dplyr/NAMESPACE": {
+      "checksum": "61dc69480c92fcfed18bf122d5dc458f"
+    },
+    "R/win-library/4.2/dplyr/NEWS.md": {
+      "checksum": "dff112d4c7c2f08a57d78618cac185d5"
+    },
+    "R/win-library/4.2/dplyr/R/dplyr": {
+      "checksum": "d6c68f1fe41ced6e98a766a3757313da"
+    },
+    "R/win-library/4.2/dplyr/R/dplyr.rdb": {
+      "checksum": "2e5376c3b9804b17aeec0ba75600798e"
+    },
+    "R/win-library/4.2/dplyr/R/dplyr.rdx": {
+      "checksum": "8b7da394b80bb909735e83877261b6d7"
+    },
+    "R/win-library/4.2/forcats/data/Rdata.rdb": {
+      "checksum": "45886a548afb3ef7232f376e8ca67df5"
+    },
+    "R/win-library/4.2/forcats/data/Rdata.rds": {
+      "checksum": "320708a9e570cd8dbb0df4927ed7347c"
+    },
+    "R/win-library/4.2/forcats/data/Rdata.rdx": {
+      "checksum": "e7dfac4e2cb951c02f8cdc03f4b3a225"
+    },
+    "R/win-library/4.2/forcats/DESCRIPTION": {
+      "checksum": "fb4d217492f083035269ad7fb4cbaf14"
+    },
+    "R/win-library/4.2/forcats/doc/forcats.html": {
+      "checksum": "9969dc9a7018959c2ca816d718bd6aa1"
+    },
+    "R/win-library/4.2/forcats/doc/forcats.R": {
+      "checksum": "d77346f571594410324d5f32b1efeb1b"
+    },
+    "R/win-library/4.2/forcats/doc/forcats.Rmd": {
+      "checksum": "640b4b46e9980b5a42b8dc8e04add99f"
+    },
+    "R/win-library/4.2/forcats/doc/index.html": {
+      "checksum": "8f83c5ebd238ceaf94b1ba8c642d897c"
+    },
+    "R/win-library/4.2/forcats/help/aliases.rds": {
+      "checksum": "f021dfbfcced8963a971656a925a2f1f"
+    },
+    "R/win-library/4.2/forcats/help/AnIndex": {
+      "checksum": "cbb85f3e5f2a162fb3649a9df58e987f"
+    },
+    "R/win-library/4.2/forcats/help/figures/lifecycle-archived.svg": {
+      "checksum": "cb1e46f469cfbbbde29c8b5113e1d789"
+    },
+    "R/win-library/4.2/forcats/help/figures/lifecycle-defunct.svg": {
+      "checksum": "c0d2e5a54f1fa4ff02bf9533079dd1f7"
+    },
+    "R/win-library/4.2/forcats/help/figures/lifecycle-deprecated.svg": {
+      "checksum": "a1b8c987c676c16af790f563f96cbb1f"
+    },
+    "R/win-library/4.2/forcats/help/figures/lifecycle-experimental.svg": {
+      "checksum": "c3978703d8f40f2679795335715e98f4"
+    },
+    "R/win-library/4.2/forcats/help/figures/lifecycle-maturing.svg": {
+      "checksum": "952b59dc07b171b97d5d982924244f61"
+    },
+    "R/win-library/4.2/forcats/help/figures/lifecycle-questioning.svg": {
+      "checksum": "27b879bf3677ea76e3991d56ab324081"
+    },
+    "R/win-library/4.2/forcats/help/figures/lifecycle-stable.svg": {
+      "checksum": "53b3f893324260b737b3c46ed2a0e643"
+    },
+    "R/win-library/4.2/forcats/help/figures/lifecycle-superseded.svg": {
+      "checksum": "1c1fe7a759b86dc6dbcbe7797ab8246c"
+    },
+    "R/win-library/4.2/forcats/help/figures/logo.png": {
+      "checksum": "9c20661f25a3ccfe6f9d169c6b63fc86"
+    },
+    "R/win-library/4.2/forcats/help/figures/README-ordered-plot-1.png": {
+      "checksum": "283fc49792198c0b132add3a4a7169fb"
+    },
+    "R/win-library/4.2/forcats/help/figures/README-unordered-plot-1.png": {
+      "checksum": "472495682a824c9b876005bd0ab7841d"
+    },
+    "R/win-library/4.2/forcats/help/forcats.rdb": {
+      "checksum": "df088d7a6594f694d34de1d8d064ce15"
+    },
+    "R/win-library/4.2/forcats/help/forcats.rdx": {
+      "checksum": "d2c22fa05fb174f6fb8e680bd6702843"
+    },
+    "R/win-library/4.2/forcats/help/paths.rds": {
+      "checksum": "3ea888d550c4043b55d4a283cfe628dc"
+    },
+    "R/win-library/4.2/forcats/html/00Index.html": {
+      "checksum": "a66701b6952ddc4b204ce9641da29745"
+    },
+    "R/win-library/4.2/forcats/html/R.css": {
+      "checksum": "3845aef6126cf18c45937f292f23508c"
+    },
+    "R/win-library/4.2/forcats/INDEX": {
+      "checksum": "e23b9590b0e548a36e6ae7e501335510"
+    },
+    "R/win-library/4.2/forcats/LICENSE": {
+      "checksum": "3b86792d701ca560042d44142b6e0b78"
+    },
+    "R/win-library/4.2/forcats/Meta/data.rds": {
+      "checksum": "1031077d528485ab6859b61becb20bee"
+    },
+    "R/win-library/4.2/forcats/Meta/features.rds": {
+      "checksum": "2fc7c8f33ded19611739c12d9aa85e03"
+    },
+    "R/win-library/4.2/forcats/Meta/hsearch.rds": {
+      "checksum": "5d1db3bb49251866af10b475d521abd6"
+    },
+    "R/win-library/4.2/forcats/Meta/links.rds": {
+      "checksum": "fe702de76f7b8f1a8d22cfcb65281289"
+    },
+    "R/win-library/4.2/forcats/Meta/nsInfo.rds": {
+      "checksum": "3325614f75aaccfccb66c99f9a7b2f8d"
+    },
+    "R/win-library/4.2/forcats/Meta/package.rds": {
+      "checksum": "ecc7b6d7566c3735d30c90e4c4802549"
+    },
+    "R/win-library/4.2/forcats/Meta/Rd.rds": {
+      "checksum": "2cbc78bb8b8f978aaef0d46e513705f0"
+    },
+    "R/win-library/4.2/forcats/Meta/vignette.rds": {
+      "checksum": "ea8109411995a34111e76d9188ae17b0"
+    },
+    "R/win-library/4.2/forcats/NAMESPACE": {
+      "checksum": "d8643b38be14ae3050e4c946bcf48fd0"
+    },
+    "R/win-library/4.2/forcats/NEWS.md": {
+      "checksum": "08a5e35383e48c2022507709933d0f01"
+    },
+    "R/win-library/4.2/forcats/R/forcats": {
+      "checksum": "d6c68f1fe41ced6e98a766a3757313da"
+    },
+    "R/win-library/4.2/forcats/R/forcats.rdb": {
+      "checksum": "52fdc9a2b17c0175c3f0f236fb4e3b09"
+    },
+    "R/win-library/4.2/forcats/R/forcats.rdx": {
+      "checksum": "5f5f397bbac7c6d20291d3e69d6867bb"
+    },
+    "R/win-library/4.2/generics/DESCRIPTION": {
+      "checksum": "6b2f8988eefd8a83432bc9bdd5c0bfeb"
+    },
+    "R/win-library/4.2/generics/help/aliases.rds": {
+      "checksum": "164309af9eba024fb665d6d4eb19932e"
+    },
+    "R/win-library/4.2/generics/help/AnIndex": {
+      "checksum": "2803fb96c8b39c5891c7abea51916ebd"
+    },
+    "R/win-library/4.2/generics/help/generics.rdb": {
+      "checksum": "8d72c46cdff325e3ea1cbd2e3d6d09d2"
+    },
+    "R/win-library/4.2/generics/help/generics.rdx": {
+      "checksum": "f8290fbb461884c60be1379f1b9dc72a"
+    },
+    "R/win-library/4.2/generics/help/paths.rds": {
+      "checksum": "e348d5d7806526fe381140830d09fab8"
+    },
+    "R/win-library/4.2/generics/html/00Index.html": {
+      "checksum": "449fff2c571807d8398d8f4c5925339d"
+    },
+    "R/win-library/4.2/generics/html/R.css": {
+      "checksum": "3845aef6126cf18c45937f292f23508c"
+    },
+    "R/win-library/4.2/generics/INDEX": {
+      "checksum": "629c550f9223245d4b9b4518a82d15a9"
+    },
+    "R/win-library/4.2/generics/LICENSE": {
+      "checksum": "e410b4547b55e88d2d7036bfe47d4599"
+    },
+    "R/win-library/4.2/generics/Meta/features.rds": {
+      "checksum": "2fc7c8f33ded19611739c12d9aa85e03"
+    },
+    "R/win-library/4.2/generics/Meta/hsearch.rds": {
+      "checksum": "70882310e2f11c3fc5188804923d792b"
+    },
+    "R/win-library/4.2/generics/Meta/links.rds": {
+      "checksum": "5dfdab75fccc1d3da563367e90432c15"
+    },
+    "R/win-library/4.2/generics/Meta/nsInfo.rds": {
+      "checksum": "e1d086109e46375d2ffd77384d6ca6ac"
+    },
+    "R/win-library/4.2/generics/Meta/package.rds": {
+      "checksum": "139040778245f79e3521dc3a55dc8859"
+    },
+    "R/win-library/4.2/generics/Meta/Rd.rds": {
+      "checksum": "13eb66322d83e4429d8c2f4cb260721e"
+    },
+    "R/win-library/4.2/generics/NAMESPACE": {
+      "checksum": "0eccfbba71ea2096f55f68d3345a2ddf"
+    },
+    "R/win-library/4.2/generics/NEWS.md": {
+      "checksum": "e8e6f588eb7acca1f11be8b5e9b27500"
+    },
+    "R/win-library/4.2/generics/R/generics": {
+      "checksum": "d6c68f1fe41ced6e98a766a3757313da"
+    },
+    "R/win-library/4.2/generics/R/generics.rdb": {
+      "checksum": "c97d3ef62c40dcd5cc471bff28b310e8"
+    },
+    "R/win-library/4.2/generics/R/generics.rdx": {
+      "checksum": "4a29e3dd8e5a9f73d64965a73f46fb23"
+    },
+    "R/win-library/4.2/glue/DESCRIPTION": {
+      "checksum": "e1858fca7d420848bb43e0337b20e648"
+    },
+    "R/win-library/4.2/glue/doc/engines.html": {
+      "checksum": "4a082717bbbbc49f62a719423917a596"
+    },
+    "R/win-library/4.2/glue/doc/engines.R": {
+      "checksum": "9523369b7eb6dc1cabd769ecdf851ddb"
+    },
+    "R/win-library/4.2/glue/doc/engines.Rmd": {
+      "checksum": "691527d720a40e95c1fb335c5c36f1e7"
+    },
+    "R/win-library/4.2/glue/doc/index.html": {
+      "checksum": "e77d0198ef61b3a20c8f59e4bad27da1"
+    },
+    "R/win-library/4.2/glue/doc/transformers.html": {
+      "checksum": "c0af4af8b7c394bc4bf0f0a5c6b6c6d5"
+    },
+    "R/win-library/4.2/glue/doc/transformers.R": {
+      "checksum": "60d1d75d9de750af918f793fb9cc63d9"
+    },
+    "R/win-library/4.2/glue/doc/transformers.Rmd": {
+      "checksum": "6468ffbb31bed10a616346ca3f9e79b7"
+    },
+    "R/win-library/4.2/glue/help/aliases.rds": {
+      "checksum": "16e10317c7984072df51547fca6ed7df"
+    },
+    "R/win-library/4.2/glue/help/AnIndex": {
+      "checksum": "7308fcfda2ee47f56c555e4441cfb546"
+    },
+    "R/win-library/4.2/glue/help/figures/logo.png": {
+      "checksum": "1fbc65371dbfccd81b8863756e28e082"
+    },
+    "R/win-library/4.2/glue/help/glue.rdb": {
+      "checksum": "410439f4f6302fdebadb7cd593b2fcf8"
+    },
+    "R/win-library/4.2/glue/help/glue.rdx": {
+      "checksum": "26a58d88090d99c70257d1227e0aacd6"
+    },
+    "R/win-library/4.2/glue/help/paths.rds": {
+      "checksum": "a2cf6c8735625cad0a125ca05f441641"
+    },
+    "R/win-library/4.2/glue/html/00Index.html": {
+      "checksum": "1e44cfe3de04aac96dac92b583a3aec9"
+    },
+    "R/win-library/4.2/glue/html/R.css": {
+      "checksum": "3845aef6126cf18c45937f292f23508c"
+    },
+    "R/win-library/4.2/glue/INDEX": {
+      "checksum": "fc9e9813d14c9b8a8316f3eb0b4728fa"
+    },
+    "R/win-library/4.2/glue/libs/x64/glue.dll": {
+      "checksum": "2f65e2362ad4abe5df8cc6dd1f3f2c0e"
+    },
+    "R/win-library/4.2/glue/libs/x64/symbols.rds": {
+      "checksum": "b120256c408c3f2ad793db911e7103e5"
+    },
+    "R/win-library/4.2/glue/LICENSE": {
+      "checksum": "37e6ec28ac4b70ebe41bd251c25d1c2b"
+    },
+    "R/win-library/4.2/glue/MD5": {
+      "checksum": "1e4a575b2aedf0a67152004e1e7db7f4"
+    },
+    "R/win-library/4.2/glue/Meta/features.rds": {
+      "checksum": "9f7a4637f056aa0787fb29bc9c21a1ff"
+    },
+    "R/win-library/4.2/glue/Meta/hsearch.rds": {
+      "checksum": "e85a4b48b9bb7d09a564ef7aa63884eb"
+    },
+    "R/win-library/4.2/glue/Meta/links.rds": {
+      "checksum": "8e50c6c7cfd83722502fe4b3f1dfece5"
+    },
+    "R/win-library/4.2/glue/Meta/nsInfo.rds": {
+      "checksum": "f8551f06b3bd4cd644fb0aec06792efa"
+    },
+    "R/win-library/4.2/glue/Meta/package.rds": {
+      "checksum": "de0766221ae17e4d2a039927ecc5a787"
+    },
+    "R/win-library/4.2/glue/Meta/Rd.rds": {
+      "checksum": "765fe4a611b3081ff29c81850d6658e5"
+    },
+    "R/win-library/4.2/glue/Meta/vignette.rds": {
+      "checksum": "8fdedad05ebd08e0f379d127810df3fa"
+    },
+    "R/win-library/4.2/glue/NAMESPACE": {
+      "checksum": "5f7a0689117abfe9ca4956b1b044e768"
+    },
+    "R/win-library/4.2/glue/NEWS.md": {
+      "checksum": "5a2a6db0d128dcfc22c9d745410b6a8b"
+    },
+    "R/win-library/4.2/glue/R/glue": {
+      "checksum": "d6c68f1fe41ced6e98a766a3757313da"
+    },
+    "R/win-library/4.2/glue/R/glue.rdb": {
+      "checksum": "32c81631a8def018173ac714b5fd9cac"
+    },
+    "R/win-library/4.2/glue/R/glue.rdx": {
+      "checksum": "da450d238c4012ac243fdce961976db1"
+    },
+    "R/win-library/4.2/GPArotation/CITATION": {
+      "checksum": "e8a386c68402ae9d8f05c7a9bea60c51"
+    },
+    "R/win-library/4.2/GPArotation/data/Rdata.rdb": {
+      "checksum": "eacafa38bcfed8124a41240d9962f64e"
+    },
+    "R/win-library/4.2/GPArotation/data/Rdata.rds": {
+      "checksum": "ee94728eaf5100183b9cf61d7f41ba49"
+    },
+    "R/win-library/4.2/GPArotation/data/Rdata.rdx": {
+      "checksum": "0cc320b1921b40024b5b03ca3030ea1e"
+    },
+    "R/win-library/4.2/GPArotation/DESCRIPTION": {
+      "checksum": "0e4f5e48464da9b4c054e57f8550da4c"
+    },
+    "R/win-library/4.2/GPArotation/doc/GPA1guide.pdf": {
+      "checksum": "36b58b605d7193f115f204130caa54ab"
+    },
+    "R/win-library/4.2/GPArotation/doc/GPA1guide.R": {
+      "checksum": "860593eae4190489ab8f3e648bc9e6de"
+    },
+    "R/win-library/4.2/GPArotation/doc/GPA1guide.Rnw": {
+      "checksum": "13cd1e5f1b9de3a9eee765b16d8c1af3"
+    },
+    "R/win-library/4.2/GPArotation/doc/GPA2local.pdf": {
+      "checksum": "966cd2a67eddea3b22f3c362c9d46993"
+    },
+    "R/win-library/4.2/GPArotation/doc/GPA2local.R": {
+      "checksum": "605abb2355d7c7ab8a1eae94020db0da"
+    },
+    "R/win-library/4.2/GPArotation/doc/GPA2local.Rnw": {
+      "checksum": "7ed4cb4f5dd696f52ee1d8126161489c"
+    },
+    "R/win-library/4.2/GPArotation/doc/GPA3bifactor.pdf": {
+      "checksum": "294be23457714eca143cb6634f1b1dc2"
+    },
+    "R/win-library/4.2/GPArotation/doc/GPA3bifactor.R": {
+      "checksum": "cf8650ae65a36378768a42d81ac2e302"
+    },
+    "R/win-library/4.2/GPArotation/doc/GPA3bifactor.Rnw": {
+      "checksum": "5e676390a822dc9b64c61fa3eab284d0"
+    },
+    "R/win-library/4.2/GPArotation/doc/GPA4fitstats.pdf": {
+      "checksum": "eac030c11f56aa13202306995e30dddf"
+    },
+    "R/win-library/4.2/GPArotation/doc/GPA4fitstats.R": {
+      "checksum": "d7c87ba7d194b66912b83ada24c026ee"
+    },
+    "R/win-library/4.2/GPArotation/doc/GPA4fitstats.Rnw": {
+      "checksum": "03d567766b58d5210323cb7a42dfed10"
+    },
+    "R/win-library/4.2/GPArotation/doc/index.html": {
+      "checksum": "9562a6a02f65e559dc5104d33d1bd398"
+    },
+    "R/win-library/4.2/GPArotation/help/aliases.rds": {
+      "checksum": "fcbc42c12559e4da186d44587b20669a"
+    },
+    "R/win-library/4.2/GPArotation/help/AnIndex": {
+      "checksum": "d8518a2191eb8bafc87274046f792c96"
+    },
+    "R/win-library/4.2/GPArotation/help/GPArotation.rdb": {
+      "checksum": "25cde4e93e760944a0f73577b36a5a0d"
+    },
+    "R/win-library/4.2/GPArotation/help/GPArotation.rdx": {
+      "checksum": "19e9ca5b956910bfcc900a95ab2ff301"
+    },
+    "R/win-library/4.2/GPArotation/help/paths.rds": {
+      "checksum": "21dd1fc0bd89f36dd4a84f0ed27a393f"
+    },
+    "R/win-library/4.2/GPArotation/html/00Index.html": {
+      "checksum": "ceda122626588d12ef022720d4defa44"
+    },
+    "R/win-library/4.2/GPArotation/html/R.css": {
+      "checksum": "3845aef6126cf18c45937f292f23508c"
+    },
+    "R/win-library/4.2/GPArotation/INDEX": {
+      "checksum": "b599a8f107b98be096421b8f6365343b"
+    },
+    "R/win-library/4.2/GPArotation/Meta/data.rds": {
+      "checksum": "ea052568cebe4bada81a9a29cde75a5f"
+    },
+    "R/win-library/4.2/GPArotation/Meta/features.rds": {
+      "checksum": "2fc7c8f33ded19611739c12d9aa85e03"
+    },
+    "R/win-library/4.2/GPArotation/Meta/hsearch.rds": {
+      "checksum": "e500e8d3eecb51032f8f78b059018b68"
+    },
+    "R/win-library/4.2/GPArotation/Meta/links.rds": {
+      "checksum": "96e610e6fc35aa3a8fd2528f5c384e78"
+    },
+    "R/win-library/4.2/GPArotation/Meta/nsInfo.rds": {
+      "checksum": "b71c4d3e20eee7b92a7c38240ec7b52b"
+    },
+    "R/win-library/4.2/GPArotation/Meta/package.rds": {
+      "checksum": "a8db63424926c3c77a73a84df05e1fe8"
+    },
+    "R/win-library/4.2/GPArotation/Meta/Rd.rds": {
+      "checksum": "b8d60164d4791465554bd2289517debc"
+    },
+    "R/win-library/4.2/GPArotation/Meta/vignette.rds": {
+      "checksum": "faa8e0f163456e443cbb1b45e45f0b7a"
+    },
+    "R/win-library/4.2/GPArotation/NAMESPACE": {
+      "checksum": "41b72f96511d20e43dbd765a7d7d2dcf"
+    },
+    "R/win-library/4.2/GPArotation/NEWS": {
+      "checksum": "545f65d4240095f1335660815480d60a"
+    },
+    "R/win-library/4.2/GPArotation/R/GPArotation": {
+      "checksum": "d6c68f1fe41ced6e98a766a3757313da"
+    },
+    "R/win-library/4.2/GPArotation/R/GPArotation.rdb": {
+      "checksum": "95e3cb2246e9e9ace0cdc0fe1b59ab30"
+    },
+    "R/win-library/4.2/GPArotation/R/GPArotation.rdx": {
+      "checksum": "3e2db35ef0efc0ca42fabb6d63cf631b"
+    },
+    "R/win-library/4.2/haven/DESCRIPTION": {
+      "checksum": "828c41da1446aaef32ff744c8960194b"
+    },
+    "R/win-library/4.2/haven/doc/datetimes.html": {
+      "checksum": "ae1ee5fe5afb7d277cbfe667dafc27c0"
+    },
+    "R/win-library/4.2/haven/doc/datetimes.Rmd": {
+      "checksum": "d8a370e0744296e9fa777a6a7a446431"
+    },
+    "R/win-library/4.2/haven/doc/index.html": {
+      "checksum": "33ac48a8fd72594b5eea4affb0cd2872"
+    },
+    "R/win-library/4.2/haven/doc/semantics.html": {
+      "checksum": "5fcbb931aa891c706696bc50212a3046"
+    },
+    "R/win-library/4.2/haven/doc/semantics.R": {
+      "checksum": "41fb9352a7c332ca5b36e18d8b5edc94"
+    },
+    "R/win-library/4.2/haven/doc/semantics.Rmd": {
+      "checksum": "7597ff3a37dd05812a625a401f75ab60"
+    },
+    "R/win-library/4.2/haven/examples/iris.dta": {
+      "checksum": "782776cdad132bd02616ab5e0ddbb1a6"
+    },
+    "R/win-library/4.2/haven/examples/iris.sas7bdat": {
+      "checksum": "6d7292019b3784d97ba2e2ced4ce5bac"
+    },
+    "R/win-library/4.2/haven/examples/iris.sav": {
+      "checksum": "9eec419726af6bb92009b25c5224e32b"
+    },
+    "R/win-library/4.2/haven/help/aliases.rds": {
+      "checksum": "aa86acbc641a97a276509176f4e93898"
+    },
+    "R/win-library/4.2/haven/help/AnIndex": {
+      "checksum": "fca930961c6eacda358f1b5d56211be8"
+    },
+    "R/win-library/4.2/haven/help/figures/lifecycle-archived.svg": {
+      "checksum": "cb1e46f469cfbbbde29c8b5113e1d789"
+    },
+    "R/win-library/4.2/haven/help/figures/lifecycle-defunct.svg": {
+      "checksum": "c0d2e5a54f1fa4ff02bf9533079dd1f7"
+    },
+    "R/win-library/4.2/haven/help/figures/lifecycle-deprecated.svg": {
+      "checksum": "a1b8c987c676c16af790f563f96cbb1f"
+    },
+    "R/win-library/4.2/haven/help/figures/lifecycle-experimental.svg": {
+      "checksum": "c3978703d8f40f2679795335715e98f4"
+    },
+    "R/win-library/4.2/haven/help/figures/lifecycle-maturing.svg": {
+      "checksum": "952b59dc07b171b97d5d982924244f61"
+    },
+    "R/win-library/4.2/haven/help/figures/lifecycle-questioning.svg": {
+      "checksum": "27b879bf3677ea76e3991d56ab324081"
+    },
+    "R/win-library/4.2/haven/help/figures/lifecycle-stable.svg": {
+      "checksum": "53b3f893324260b737b3c46ed2a0e643"
+    },
+    "R/win-library/4.2/haven/help/figures/lifecycle-superseded.svg": {
+      "checksum": "1c1fe7a759b86dc6dbcbe7797ab8246c"
+    },
+    "R/win-library/4.2/haven/help/figures/logo.png": {
+      "checksum": "9b6682afa4c73e3df70f7d2b37433ad3"
+    },
+    "R/win-library/4.2/haven/help/haven.rdb": {
+      "checksum": "232054dfa800d524904114111f3fe4b6"
+    },
+    "R/win-library/4.2/haven/help/haven.rdx": {
+      "checksum": "cf0e2fbe8d3d9f8d8b4b0ca94daf7380"
+    },
+    "R/win-library/4.2/haven/help/paths.rds": {
+      "checksum": "d095fe99d34154aa370a32f7f118aefb"
+    },
+    "R/win-library/4.2/haven/html/00Index.html": {
+      "checksum": "8a92b68545538bb3aabf62157584b383"
+    },
+    "R/win-library/4.2/haven/html/R.css": {
+      "checksum": "3845aef6126cf18c45937f292f23508c"
+    },
+    "R/win-library/4.2/haven/INDEX": {
+      "checksum": "2a724eed895d5df1100377b030cfaadd"
+    },
+    "R/win-library/4.2/haven/libs/x64/haven.dll": {
+      "checksum": "f02835f86c81dedc9645c5d156626ba8"
+    },
+    "R/win-library/4.2/haven/libs/x64/symbols.rds": {
+      "checksum": "39361cf48c66240591383299c98c0976"
+    },
+    "R/win-library/4.2/haven/LICENSE": {
+      "checksum": "38e4dadd759e658ca23295b4e69c8630"
+    },
+    "R/win-library/4.2/haven/MD5": {
+      "checksum": "0d15c97d5fe48b7d6f2f8826162d7c16"
+    },
+    "R/win-library/4.2/haven/Meta/features.rds": {
+      "checksum": "9f7a4637f056aa0787fb29bc9c21a1ff"
+    },
+    "R/win-library/4.2/haven/Meta/hsearch.rds": {
+      "checksum": "97fe12fb0b455bf7e09245ba5df95282"
+    },
+    "R/win-library/4.2/haven/Meta/links.rds": {
+      "checksum": "e50006f786671ae597cd3f0f7f2f4461"
+    },
+    "R/win-library/4.2/haven/Meta/nsInfo.rds": {
+      "checksum": "ce3fd458ab17faea2730bda56443c3b3"
+    },
+    "R/win-library/4.2/haven/Meta/package.rds": {
+      "checksum": "59d22341163cdb5ef81000568b66aeea"
+    },
+    "R/win-library/4.2/haven/Meta/Rd.rds": {
+      "checksum": "81768f64eb39f9d2e5be28a66e85468c"
+    },
+    "R/win-library/4.2/haven/Meta/vignette.rds": {
+      "checksum": "982702b633f1da68408405a014604ade"
+    },
+    "R/win-library/4.2/haven/NAMESPACE": {
+      "checksum": "3069948a2b73339ed41dbfc998f4d4ed"
+    },
+    "R/win-library/4.2/haven/NEWS.md": {
+      "checksum": "7da9b46dfd96c4d24f30c320b542be92"
+    },
+    "R/win-library/4.2/haven/R/haven": {
+      "checksum": "d6c68f1fe41ced6e98a766a3757313da"
+    },
+    "R/win-library/4.2/haven/R/haven.rdb": {
+      "checksum": "0c46456b0a8c7b277d6075d628578f53"
+    },
+    "R/win-library/4.2/haven/R/haven.rdx": {
+      "checksum": "c9fce4dac9886860b9eaff5d999c7315"
+    },
+    "R/win-library/4.2/hms/DESCRIPTION": {
+      "checksum": "adcdda88400ceac68b4dde7ab2d1c1de"
+    },
+    "R/win-library/4.2/hms/help/aliases.rds": {
+      "checksum": "597e62bdca4d83ba2b7c37903a11fd85"
+    },
+    "R/win-library/4.2/hms/help/AnIndex": {
+      "checksum": "227df01eaf96c228fa28e9a295025c5f"
+    },
+    "R/win-library/4.2/hms/help/figures/lifecycle-archived.svg": {
+      "checksum": "cb1e46f469cfbbbde29c8b5113e1d789"
+    },
+    "R/win-library/4.2/hms/help/figures/lifecycle-defunct.svg": {
+      "checksum": "c0d2e5a54f1fa4ff02bf9533079dd1f7"
+    },
+    "R/win-library/4.2/hms/help/figures/lifecycle-deprecated.svg": {
+      "checksum": "a1b8c987c676c16af790f563f96cbb1f"
+    },
+    "R/win-library/4.2/hms/help/figures/lifecycle-experimental.svg": {
+      "checksum": "c3978703d8f40f2679795335715e98f4"
+    },
+    "R/win-library/4.2/hms/help/figures/lifecycle-maturing.svg": {
+      "checksum": "952b59dc07b171b97d5d982924244f61"
+    },
+    "R/win-library/4.2/hms/help/figures/lifecycle-questioning.svg": {
+      "checksum": "27b879bf3677ea76e3991d56ab324081"
+    },
+    "R/win-library/4.2/hms/help/figures/lifecycle-soft-deprecated.svg": {
+      "checksum": "6902bbfaf963fbc4ed98b86bda80caa2"
+    },
+    "R/win-library/4.2/hms/help/figures/lifecycle-stable.svg": {
+      "checksum": "53b3f893324260b737b3c46ed2a0e643"
+    },
+    "R/win-library/4.2/hms/help/figures/logo.png": {
+      "checksum": "3d561da75ad64e93abc817f5be07e6cf"
+    },
+    "R/win-library/4.2/hms/help/hms.rdb": {
+      "checksum": "f7b3fa132c7adcd34dccbf15e747098c"
+    },
+    "R/win-library/4.2/hms/help/hms.rdx": {
+      "checksum": "2882d798061f39ec76b75c7e236051e4"
+    },
+    "R/win-library/4.2/hms/help/paths.rds": {
+      "checksum": "7940e94e9562090d62869b8a19e7dbac"
+    },
+    "R/win-library/4.2/hms/html/00Index.html": {
+      "checksum": "e073ad1cd66f806169aac6c4c356d116"
+    },
+    "R/win-library/4.2/hms/html/R.css": {
+      "checksum": "3845aef6126cf18c45937f292f23508c"
+    },
+    "R/win-library/4.2/hms/INDEX": {
+      "checksum": "6a59d74216456bb3478e6cd46789e529"
+    },
+    "R/win-library/4.2/hms/LICENSE": {
+      "checksum": "95270f4d7dead91c4d44e63964b8ae2b"
+    },
+    "R/win-library/4.2/hms/Meta/features.rds": {
+      "checksum": "2fc7c8f33ded19611739c12d9aa85e03"
+    },
+    "R/win-library/4.2/hms/Meta/hsearch.rds": {
+      "checksum": "a554b102ce6f805b2740ae2935f3fc55"
+    },
+    "R/win-library/4.2/hms/Meta/links.rds": {
+      "checksum": "93c2ce3ea846f6193691d974c642f8e6"
+    },
+    "R/win-library/4.2/hms/Meta/nsInfo.rds": {
+      "checksum": "a988f3a54068d94cf8bb33026a4b1f44"
+    },
+    "R/win-library/4.2/hms/Meta/package.rds": {
+      "checksum": "f4835d7ee01f8c92174ea680a698f832"
+    },
+    "R/win-library/4.2/hms/Meta/Rd.rds": {
+      "checksum": "47b20c489fb67bf10beaef6ed7731a30"
+    },
+    "R/win-library/4.2/hms/NAMESPACE": {
+      "checksum": "d747d420b02bf188f6eab687350ad2a2"
+    },
+    "R/win-library/4.2/hms/NEWS.md": {
+      "checksum": "46dcfcf397895a980fd96a055b900a2c"
+    },
+    "R/win-library/4.2/hms/R/hms": {
+      "checksum": "d6c68f1fe41ced6e98a766a3757313da"
+    },
+    "R/win-library/4.2/hms/R/hms.rdb": {
+      "checksum": "a48287b24299fa8fd0d250e6c927ed78"
+    },
+    "R/win-library/4.2/hms/R/hms.rdx": {
+      "checksum": "1285d76725c295d7bec539a4e9bb2ecb"
+    },
+    "R/win-library/4.2/irr/data/anxiety.rda": {
+      "checksum": "aacfb8d908a734bf81420b495d8533e3"
+    },
+    "R/win-library/4.2/irr/data/diagnoses.rda": {
+      "checksum": "fd1cb9aebb767a0e1be7ed9fa10bc62c"
+    },
+    "R/win-library/4.2/irr/data/video.rda": {
+      "checksum": "4858af28416f637de53c348daeb9b1bf"
+    },
+    "R/win-library/4.2/irr/data/vision.rda": {
+      "checksum": "d8a01cdde1c03704c42d834cee919917"
+    },
+    "R/win-library/4.2/irr/DESCRIPTION": {
+      "checksum": "f7cb9a7e5529b5e54e3a67ea48b9f9f2"
+    },
+    "R/win-library/4.2/irr/help/aliases.rds": {
+      "checksum": "1b34651378b82fd0af8d7aad167708c8"
+    },
+    "R/win-library/4.2/irr/help/AnIndex": {
+      "checksum": "5efb96fbaa46d123cdb40e0ea0c60332"
+    },
+    "R/win-library/4.2/irr/help/irr.rdb": {
+      "checksum": "8289bb0321bbcb461a341232149f6fcc"
+    },
+    "R/win-library/4.2/irr/help/irr.rdx": {
+      "checksum": "171a8ed60a744ff20f5ff57d61a2efac"
+    },
+    "R/win-library/4.2/irr/help/paths.rds": {
+      "checksum": "760c71cb502d1a1719e2dd1c5ea9e6d2"
+    },
+    "R/win-library/4.2/irr/html/00Index.html": {
+      "checksum": "95737d9736facda09cb8bc309f1b35a8"
+    },
+    "R/win-library/4.2/irr/html/R.css": {
+      "checksum": "3845aef6126cf18c45937f292f23508c"
+    },
+    "R/win-library/4.2/irr/INDEX": {
+      "checksum": "318b6713bfbee3087d483b6363326b26"
+    },
+    "R/win-library/4.2/irr/Meta/data.rds": {
+      "checksum": "f8f6399104b4f042a727957e816e8474"
+    },
+    "R/win-library/4.2/irr/Meta/features.rds": {
+      "checksum": "2fc7c8f33ded19611739c12d9aa85e03"
+    },
+    "R/win-library/4.2/irr/Meta/hsearch.rds": {
+      "checksum": "332bac32b497fbe3a52de1526d21083c"
+    },
+    "R/win-library/4.2/irr/Meta/links.rds": {
+      "checksum": "182dbab4ff9d132ed3db16d118bae9a8"
+    },
+    "R/win-library/4.2/irr/Meta/nsInfo.rds": {
+      "checksum": "828469cad723b9e49d955465c702493f"
+    },
+    "R/win-library/4.2/irr/Meta/package.rds": {
+      "checksum": "4804206db85b70a82b3a52587e6b3b65"
+    },
+    "R/win-library/4.2/irr/Meta/Rd.rds": {
+      "checksum": "5c89ffb3b62313e34e2951392309c17c"
+    },
+    "R/win-library/4.2/irr/NAMESPACE": {
+      "checksum": "f07cfc60f523d12b9c2e841de5256afc"
+    },
+    "R/win-library/4.2/irr/R/irr": {
+      "checksum": "d6c68f1fe41ced6e98a766a3757313da"
+    },
+    "R/win-library/4.2/irr/R/irr.rdb": {
+      "checksum": "ba764dc6c4c42436d64f4dad0c0910d0"
+    },
+    "R/win-library/4.2/irr/R/irr.rdx": {
+      "checksum": "f2dda4444f6b5eebc43b9e17949ef75e"
+    },
+    "R/win-library/4.2/lavaan/DESCRIPTION": {
+      "checksum": "9c151e3f5318dbeb7fb6d10f5d83bac8"
+    },
+    "R/win-library/4.2/lifecycle/DESCRIPTION": {
+      "checksum": "dd88b911c31367a91c38f0489ea8c10f"
+    },
+    "R/win-library/4.2/lifecycle/doc/communicate.html": {
+      "checksum": "8c525964dae7b575abe57aca0b1617dd"
+    },
+    "R/win-library/4.2/lifecycle/doc/communicate.R": {
+      "checksum": "3866af6e28f7d585e3954ab69cef6651"
+    },
+    "R/win-library/4.2/lifecycle/doc/communicate.Rmd": {
+      "checksum": "9017954f49ef5f5900a3f9c8c3e71d30"
+    },
+    "R/win-library/4.2/lifecycle/doc/index.html": {
+      "checksum": "47141163e909d66290bd296d459d0929"
+    },
+    "R/win-library/4.2/lifecycle/doc/manage.html": {
+      "checksum": "a29b970c70d7154aa7331b5fd7b62bd0"
+    },
+    "R/win-library/4.2/lifecycle/doc/manage.R": {
+      "checksum": "7a0ac0a1af2e7ce30236c4ec4347fcde"
+    },
+    "R/win-library/4.2/lifecycle/doc/manage.Rmd": {
+      "checksum": "f9cab395a969e8dc9f4384ed7da86390"
+    },
+    "R/win-library/4.2/lifecycle/doc/stages.html": {
+      "checksum": "d7dab106e6e4f5420f2e17b306916c02"
+    },
+    "R/win-library/4.2/lifecycle/doc/stages.R": {
+      "checksum": "2f4f7dd3c670974cabb2cd35544e0a6a"
+    },
+    "R/win-library/4.2/lifecycle/doc/stages.Rmd": {
+      "checksum": "3ea966788c24054a15bd307c01f4fd77"
+    },
+    "R/win-library/4.2/lifecycle/help/aliases.rds": {
+      "checksum": "1d4f7cb40845e2f28c141a52a01a1cdf"
+    },
+    "R/win-library/4.2/lifecycle/help/AnIndex": {
+      "checksum": "733bc0651be308735f632c459cfd5936"
+    },
+    "R/win-library/4.2/lifecycle/help/figures/lifecycle-archived.svg": {
+      "checksum": "a1cbaf3f328e8d74e747faacf640c7fc"
+    },
+    "R/win-library/4.2/lifecycle/help/figures/lifecycle-defunct.svg": {
+      "checksum": "4ca48eef27b630c30a8829738708b38f"
+    },
+    "R/win-library/4.2/lifecycle/help/figures/lifecycle-deprecated.svg": {
+      "checksum": "391f696f961e28914508628a7af31b74"
+    },
+    "R/win-library/4.2/lifecycle/help/figures/lifecycle-experimental.svg": {
+      "checksum": "691b1eb2aec9e1bec96b79d11ba5e631"
+    },
+    "R/win-library/4.2/lifecycle/help/figures/lifecycle-maturing.svg": {
+      "checksum": "405e252e54a79b33522e9699e4e9051c"
+    },
+    "R/win-library/4.2/lifecycle/help/figures/lifecycle-questioning.svg": {
+      "checksum": "f41ed996be135fb35afe00641621da61"
+    },
+    "R/win-library/4.2/lifecycle/help/figures/lifecycle-retired.svg": {
+      "checksum": "6fd39f67e2fcaca13cdcad3e01fd78ce"
+    },
+    "R/win-library/4.2/lifecycle/help/figures/lifecycle-soft-deprecated.svg": {
+      "checksum": "306bef67d1c636f209024cf2403846fd"
+    },
+    "R/win-library/4.2/lifecycle/help/figures/lifecycle-stable.svg": {
+      "checksum": "ed42e3fbd7cc30bc6ca8fa9b658e24a8"
+    },
+    "R/win-library/4.2/lifecycle/help/figures/lifecycle-superseded.svg": {
+      "checksum": "bf2f1ad432ecccee3400afe533404113"
+    },
+    "R/win-library/4.2/lifecycle/help/lifecycle.rdb": {
+      "checksum": "3c9d363f2ca8e571783963c7f6eb2ef9"
+    },
+    "R/win-library/4.2/lifecycle/help/lifecycle.rdx": {
+      "checksum": "291f51b4b945d76f56da0c4811503144"
+    },
+    "R/win-library/4.2/lifecycle/help/macros/lifecycle.Rd": {
+      "checksum": "155bedac3338ac2404018d81751c5b18"
+    },
+    "R/win-library/4.2/lifecycle/help/paths.rds": {
+      "checksum": "12ed77741c25d085ea5ce4e4965b343c"
+    },
+    "R/win-library/4.2/lifecycle/html/00Index.html": {
+      "checksum": "51ac987c6d872107d1f5bafc76129f62"
+    },
+    "R/win-library/4.2/lifecycle/html/R.css": {
+      "checksum": "3845aef6126cf18c45937f292f23508c"
+    },
+    "R/win-library/4.2/lifecycle/INDEX": {
+      "checksum": "e03ea601d9617e8a9a85a27145eddae5"
+    },
+    "R/win-library/4.2/lifecycle/LICENSE": {
+      "checksum": "c928508c3f1d1c406671fc3150c2bbfd"
+    },
+    "R/win-library/4.2/lifecycle/lintr/linters.csv": {
+      "checksum": "c8fd6f4955c5e58226b87fe5227325da"
+    },
+    "R/win-library/4.2/lifecycle/Meta/features.rds": {
+      "checksum": "2fc7c8f33ded19611739c12d9aa85e03"
+    },
+    "R/win-library/4.2/lifecycle/Meta/hsearch.rds": {
+      "checksum": "44edbb9ea7c1e7d7c78cd336cd93fb08"
+    },
+    "R/win-library/4.2/lifecycle/Meta/links.rds": {
+      "checksum": "77be2db0af2f90ad94ee95a050b9bb5b"
+    },
+    "R/win-library/4.2/lifecycle/Meta/nsInfo.rds": {
+      "checksum": "f23c7fd88585feb38502ee9d16f56700"
+    },
+    "R/win-library/4.2/lifecycle/Meta/package.rds": {
+      "checksum": "622fc1df177585fdf625a072d1c717e9"
+    },
+    "R/win-library/4.2/lifecycle/Meta/Rd.rds": {
+      "checksum": "10e54850cb42120f8951a508bc47007a"
+    },
+    "R/win-library/4.2/lifecycle/Meta/vignette.rds": {
+      "checksum": "378a27b89f39e14d2e55e5ee2d6700e9"
+    },
+    "R/win-library/4.2/lifecycle/NAMESPACE": {
+      "checksum": "1461a7d63cfdc3d11add9b9d40481007"
+    },
+    "R/win-library/4.2/lifecycle/NEWS.md": {
+      "checksum": "0ce41fe4bf5c1c5f7d6a30c8f97da249"
+    },
+    "R/win-library/4.2/lifecycle/R/lifecycle": {
+      "checksum": "d6c68f1fe41ced6e98a766a3757313da"
+    },
+    "R/win-library/4.2/lifecycle/R/lifecycle.rdb": {
+      "checksum": "991f8f4f578ff3acb580fc46ddeedc35"
+    },
+    "R/win-library/4.2/lifecycle/R/lifecycle.rdx": {
+      "checksum": "e3789ed0965628638b23a339fc09231a"
+    },
+    "R/win-library/4.2/lpSolve/DESCRIPTION": {
+      "checksum": "c8cc21438ceb4d119f479eb24167c83d"
+    },
+    "R/win-library/4.2/lpSolve/help/aliases.rds": {
+      "checksum": "8fd1c82b6ca5870443fb2af4821b2289"
+    },
+    "R/win-library/4.2/lpSolve/help/AnIndex": {
+      "checksum": "0ce127debd7b0326f1fb6296469bf5b8"
+    },
+    "R/win-library/4.2/lpSolve/help/lpSolve.rdb": {
+      "checksum": "43b4e4a72b42d55b027ee0604526f225"
+    },
+    "R/win-library/4.2/lpSolve/help/lpSolve.rdx": {
+      "checksum": "70506bdaeb34bf18555ebdf68abdfab2"
+    },
+    "R/win-library/4.2/lpSolve/help/paths.rds": {
+      "checksum": "021a19f32fda78492e82ca27b00a2021"
+    },
+    "R/win-library/4.2/lpSolve/html/00Index.html": {
+      "checksum": "fa7a3255d725a8459174b9b05f097c6d"
+    },
+    "R/win-library/4.2/lpSolve/html/R.css": {
+      "checksum": "3845aef6126cf18c45937f292f23508c"
+    },
+    "R/win-library/4.2/lpSolve/INDEX": {
+      "checksum": "84bfa34a55a019c1536724a7ca339c0e"
+    },
+    "R/win-library/4.2/lpSolve/libs/x64/lpSolve.dll": {
+      "checksum": "9d965a4501c25f70ef0a7164d328c3ba"
+    },
+    "R/win-library/4.2/lpSolve/libs/x64/symbols.rds": {
+      "checksum": "8e13b40dd9e2c04e63dde697287b17e8"
+    },
+    "R/win-library/4.2/lpSolve/MD5": {
+      "checksum": "89159772889ee174705991650ac16ee2"
+    },
+    "R/win-library/4.2/lpSolve/Meta/features.rds": {
+      "checksum": "9f7a4637f056aa0787fb29bc9c21a1ff"
+    },
+    "R/win-library/4.2/lpSolve/Meta/hsearch.rds": {
+      "checksum": "ffca514d3d98eeac531231affe03a89c"
+    },
+    "R/win-library/4.2/lpSolve/Meta/links.rds": {
+      "checksum": "7c871da5d61a31a27dbb7b2a06f172c3"
+    },
+    "R/win-library/4.2/lpSolve/Meta/nsInfo.rds": {
+      "checksum": "ac221e431529aa51150669b82ff3316c"
+    },
+    "R/win-library/4.2/lpSolve/Meta/package.rds": {
+      "checksum": "9ed75575ec9747d84254bb8930db4021"
+    },
+    "R/win-library/4.2/lpSolve/Meta/Rd.rds": {
+      "checksum": "d75a13f0705f8deb1cba6c48d90c4015"
+    },
+    "R/win-library/4.2/lpSolve/NAMESPACE": {
+      "checksum": "5d954745be287207485c9af3411e4a9d"
+    },
+    "R/win-library/4.2/lpSolve/R/lpSolve": {
+      "checksum": "d6c68f1fe41ced6e98a766a3757313da"
+    },
+    "R/win-library/4.2/lpSolve/R/lpSolve.rdb": {
+      "checksum": "22cfca94369a5e6898435349d61a2de1"
+    },
+    "R/win-library/4.2/lpSolve/R/lpSolve.rdx": {
+      "checksum": "6b5c79c45e902bb0d9856cdad6e39614"
+    },
+    "R/win-library/4.2/magrittr/DESCRIPTION": {
+      "checksum": "b0ac40b4b7b34c04d27181c145dfa702"
+    },
+    "R/win-library/4.2/magrittr/doc/index.html": {
+      "checksum": "26ccabca2affec17688ce34315191497"
+    },
+    "R/win-library/4.2/magrittr/doc/magrittr.html": {
+      "checksum": "a54471576785915e722e83cc96735845"
+    },
+    "R/win-library/4.2/magrittr/doc/magrittr.R": {
+      "checksum": "786d5e98d2db43ca57b1b05b6c98e262"
+    },
+    "R/win-library/4.2/magrittr/doc/magrittr.Rmd": {
+      "checksum": "ae2a5f945966923225eb4b7fd50e7834"
+    },
+    "R/win-library/4.2/magrittr/doc/tradeoffs.html": {
+      "checksum": "d842f8208444adc942eca16846ccfa88"
+    },
+    "R/win-library/4.2/magrittr/doc/tradeoffs.R": {
+      "checksum": "e6000bf0b0354a95dd0de7a3768c0ad0"
+    },
+    "R/win-library/4.2/magrittr/doc/tradeoffs.Rmd": {
+      "checksum": "ade5c863f8b1f237fcf3642076c00d3e"
+    },
+    "R/win-library/4.2/magrittr/help/aliases.rds": {
+      "checksum": "9f878388666d527229d68ffdef600ac2"
+    },
+    "R/win-library/4.2/magrittr/help/AnIndex": {
+      "checksum": "14e90a503b1f16b2b1a05badb377ebce"
+    },
+    "R/win-library/4.2/magrittr/help/figures/exposition-1.png": {
+      "checksum": "fd4ab3e55d76f18a21681c9d90e0a8de"
+    },
+    "R/win-library/4.2/magrittr/help/figures/logo.png": {
+      "checksum": "2a60de702f54976c2e9de39fa44a72f4"
+    },
+    "R/win-library/4.2/magrittr/help/magrittr.rdb": {
+      "checksum": "ed269f249c42aee183cfa269dfa2816b"
+    },
+    "R/win-library/4.2/magrittr/help/magrittr.rdx": {
+      "checksum": "461c96b54411e73d9a9cb61d4626a4d4"
+    },
+    "R/win-library/4.2/magrittr/help/paths.rds": {
+      "checksum": "fe378cef68145efd6fe422543d695c9c"
+    },
+    "R/win-library/4.2/magrittr/html/00Index.html": {
+      "checksum": "47120275bdf0aefdfdc95bd9bd7a214c"
+    },
+    "R/win-library/4.2/magrittr/html/R.css": {
+      "checksum": "3845aef6126cf18c45937f292f23508c"
+    },
+    "R/win-library/4.2/magrittr/INDEX": {
+      "checksum": "194532b269d5d209bd1292cac7296c29"
+    },
+    "R/win-library/4.2/magrittr/libs/x64/magrittr.dll": {
+      "checksum": "2f50c5e5ff2f61d4eab8af516e3a95ef"
+    },
+    "R/win-library/4.2/magrittr/libs/x64/symbols.rds": {
+      "checksum": "07fab2954d22ccc26ea490b999d2af32"
+    },
+    "R/win-library/4.2/magrittr/LICENSE": {
+      "checksum": "b1e40687f249a5e3b384b410b621f40a"
+    },
+    "R/win-library/4.2/magrittr/logo-hex.png": {
+      "checksum": "320671fcbeb26a1ad31a8be1b8259db1"
+    },
+    "R/win-library/4.2/magrittr/logo-hex.svg": {
+      "checksum": "49d0817fc5a43e2c1593194ab84fc1d1"
+    },
+    "R/win-library/4.2/magrittr/logo.png": {
+      "checksum": "d874c14ccdcddaeae92f28cd7c8097ca"
+    },
+    "R/win-library/4.2/magrittr/logo.svg": {
+      "checksum": "9c8e1ed8c5dad58b4f422ed25cb4bf6c"
+    },
+    "R/win-library/4.2/magrittr/MD5": {
+      "checksum": "f512d10846fa760a6bc4d4bf37ec77c6"
+    },
+    "R/win-library/4.2/magrittr/Meta/features.rds": {
+      "checksum": "9f7a4637f056aa0787fb29bc9c21a1ff"
+    },
+    "R/win-library/4.2/magrittr/Meta/hsearch.rds": {
+      "checksum": "331359c8f16ad39b191e23a5f2575648"
+    },
+    "R/win-library/4.2/magrittr/Meta/links.rds": {
+      "checksum": "6bb52d5b3f1ddb30056b2dc0de1f269d"
+    },
+    "R/win-library/4.2/magrittr/Meta/nsInfo.rds": {
+      "checksum": "9e390c53c88e706d15b77002fed3decd"
+    },
+    "R/win-library/4.2/magrittr/Meta/package.rds": {
+      "checksum": "a3b03c7e28589cf2f8095b4b05202296"
+    },
+    "R/win-library/4.2/magrittr/Meta/Rd.rds": {
+      "checksum": "fd5090cee6d1142f8d457aa9d4eeec7e"
+    },
+    "R/win-library/4.2/magrittr/Meta/vignette.rds": {
+      "checksum": "084078aa68b48964d1edd278e8860b0b"
+    },
+    "R/win-library/4.2/magrittr/NAMESPACE": {
+      "checksum": "6947759fe41ccdda4f5fd4759f68a4a8"
+    },
+    "R/win-library/4.2/magrittr/NEWS.md": {
+      "checksum": "631d52ef319ccec69a02e519dfe0a17a"
+    },
+    "R/win-library/4.2/magrittr/R/magrittr": {
+      "checksum": "d6c68f1fe41ced6e98a766a3757313da"
+    },
+    "R/win-library/4.2/magrittr/R/magrittr.rdb": {
+      "checksum": "81979a5d1f664deb6ba76e19f6b672fc"
+    },
+    "R/win-library/4.2/magrittr/R/magrittr.rdx": {
+      "checksum": "5ed1d921b5063638e2f32674a2e7cd05"
+    },
+    "R/win-library/4.2/mnormt/CITATION": {
+      "checksum": "12a90397b34d538159b13e704b457ddc"
+    },
+    "R/win-library/4.2/mnormt/DESCRIPTION": {
+      "checksum": "069f415146addc14886b61ba43ac3e23"
+    },
+    "R/win-library/4.2/mnormt/help/aliases.rds": {
+      "checksum": "7828735d2a9c68ae42ca79e54217e15e"
+    },
+    "R/win-library/4.2/mnormt/help/AnIndex": {
+      "checksum": "8ba1672d3313da1ec0824ece23435a87"
+    },
+    "R/win-library/4.2/mnormt/help/mnormt.rdb": {
+      "checksum": "b0b961d17f1202374fcaa0b9232584cc"
+    },
+    "R/win-library/4.2/mnormt/help/mnormt.rdx": {
+      "checksum": "d4ae2bf1d743027adb1a49e2eb1c3634"
+    },
+    "R/win-library/4.2/mnormt/help/paths.rds": {
+      "checksum": "c7326f7b942979194de83d28e314ce85"
+    },
+    "R/win-library/4.2/mnormt/html/00Index.html": {
+      "checksum": "e688b446af903dff387f577a0e793290"
+    },
+    "R/win-library/4.2/mnormt/html/R.css": {
+      "checksum": "3845aef6126cf18c45937f292f23508c"
+    },
+    "R/win-library/4.2/mnormt/INDEX": {
+      "checksum": "1dd2a7082fe30724bf4731703ff32395"
+    },
+    "R/win-library/4.2/mnormt/libs/x64/mnormt.dll": {
+      "checksum": "49074c88dd9d59afd76f6b1e8e78a020"
+    },
+    "R/win-library/4.2/mnormt/libs/x64/symbols.rds": {
+      "checksum": "5dcce128cba84bbc1e41ab29cd326972"
+    },
+    "R/win-library/4.2/mnormt/MD5": {
+      "checksum": "36d84639d3e0f8dd0b187d6ed57498f6"
+    },
+    "R/win-library/4.2/mnormt/Meta/features.rds": {
+      "checksum": "795ef1933dd6e5a92764af4150ef47ba"
+    },
+    "R/win-library/4.2/mnormt/Meta/hsearch.rds": {
+      "checksum": "afa0491762ca1287ef8b7ed923f2a0ac"
+    },
+    "R/win-library/4.2/mnormt/Meta/links.rds": {
+      "checksum": "233833f728fe57d2a9b2a01638536ea1"
+    },
+    "R/win-library/4.2/mnormt/Meta/nsInfo.rds": {
+      "checksum": "da4c7a78f14f24a42de011757721989a"
+    },
+    "R/win-library/4.2/mnormt/Meta/package.rds": {
+      "checksum": "8483d7a1286b6b3377aa2f661eae831b"
+    },
+    "R/win-library/4.2/mnormt/Meta/Rd.rds": {
+      "checksum": "34ea8aaaea95d7887bcd1b93f1f898c6"
+    },
+    "R/win-library/4.2/mnormt/NAMESPACE": {
+      "checksum": "9d3ccdff850039bd8b9d11f4b76b5804"
+    },
+    "R/win-library/4.2/mnormt/NEWS.Rd": {
+      "checksum": "f2899020010deeed2c4be2175915d736"
+    },
+    "R/win-library/4.2/mnormt/notice-Genz": {
+      "checksum": "906069c6ec69eff9cbbb7f4563815bba"
+    },
+    "R/win-library/4.2/mnormt/R/mnormt": {
+      "checksum": "d6c68f1fe41ced6e98a766a3757313da"
+    },
+    "R/win-library/4.2/mnormt/R/mnormt.rdb": {
+      "checksum": "025a14b3dfcf846fd18377ebe62c2641"
+    },
+    "R/win-library/4.2/mnormt/R/mnormt.rdx": {
+      "checksum": "10e89f54e0ec3c309f30e38aa3bcaed4"
+    },
+    "R/win-library/4.2/numDeriv/DESCRIPTION": {
+      "checksum": "c29cdcb83d83d2f7a021a9503f006c24"
+    },
+    "R/win-library/4.2/numDeriv/doc/Guide.pdf": {
+      "checksum": "5edf223d46876fa732fd47671492ecd8"
+    },
+    "R/win-library/4.2/numDeriv/doc/Guide.R": {
+      "checksum": "c216cb58cd7989e4db1a31e42f9976e9"
+    },
+    "R/win-library/4.2/numDeriv/doc/Guide.Stex": {
+      "checksum": "65ba7a8040ac6c9475a6ec23e9c5e3cd"
+    },
+    "R/win-library/4.2/numDeriv/doc/index.html": {
+      "checksum": "9acac52e11e1ddc8c23f48be24f37355"
+    },
+    "R/win-library/4.2/numDeriv/help/aliases.rds": {
+      "checksum": "e73b729831eb5f83cbc0c8ff2e9ec042"
+    },
+    "R/win-library/4.2/numDeriv/help/AnIndex": {
+      "checksum": "f1342c267c232965d8811aafee3a2ffc"
+    },
+    "R/win-library/4.2/numDeriv/help/numDeriv.rdb": {
+      "checksum": "bd1fcd8a2efb1ebdcf61e9414c06a8ea"
+    },
+    "R/win-library/4.2/numDeriv/help/numDeriv.rdx": {
+      "checksum": "96771fd2ae49d3388465f3735d3f7e8b"
+    },
+    "R/win-library/4.2/numDeriv/help/paths.rds": {
+      "checksum": "c562ba4889d0261fcefd868dd82285d2"
+    },
+    "R/win-library/4.2/numDeriv/html/00Index.html": {
+      "checksum": "39e9ee6ea0a33354e01218022b3c203e"
+    },
+    "R/win-library/4.2/numDeriv/html/R.css": {
+      "checksum": "3845aef6126cf18c45937f292f23508c"
+    },
+    "R/win-library/4.2/numDeriv/INDEX": {
+      "checksum": "c08f6152b468d218c5402b0360052b86"
+    },
+    "R/win-library/4.2/numDeriv/MD5": {
+      "checksum": "f0983280a23532eae748f4e06888ad54"
+    },
+    "R/win-library/4.2/numDeriv/Meta/features.rds": {
+      "checksum": "9c6fc9444f1d52dca2f8e75b612d7e36"
+    },
+    "R/win-library/4.2/numDeriv/Meta/hsearch.rds": {
+      "checksum": "b61b296a3db19cb22b760b374627c643"
+    },
+    "R/win-library/4.2/numDeriv/Meta/links.rds": {
+      "checksum": "a2a671e27a16fdebf03a557c0136eef6"
+    },
+    "R/win-library/4.2/numDeriv/Meta/nsInfo.rds": {
+      "checksum": "88fd8001ea8b951276bb419a2c8ba95d"
+    },
+    "R/win-library/4.2/numDeriv/Meta/package.rds": {
+      "checksum": "dfd3568a823bd11d51d6cf65aacb833a"
+    },
+    "R/win-library/4.2/numDeriv/Meta/Rd.rds": {
+      "checksum": "fad4269f383a388d43ab3bb856e5e951"
+    },
+    "R/win-library/4.2/numDeriv/Meta/vignette.rds": {
+      "checksum": "af67430eeb55f14116484cf8f14078a0"
+    },
+    "R/win-library/4.2/numDeriv/NAMESPACE": {
+      "checksum": "68a5918eb427271dd79f07d62fce33a7"
+    },
+    "R/win-library/4.2/numDeriv/NEWS": {
+      "checksum": "57f0f954f57be55d5ebca2eaa03d6894"
+    },
+    "R/win-library/4.2/numDeriv/R/numDeriv": {
+      "checksum": "d6c68f1fe41ced6e98a766a3757313da"
+    },
+    "R/win-library/4.2/numDeriv/R/numDeriv.rdb": {
+      "checksum": "cdf6b92b6272add03f786dd0abcc5f6d"
+    },
+    "R/win-library/4.2/numDeriv/R/numDeriv.rdx": {
+      "checksum": "9f38294463fb3ff047a14c03423621ec"
+    },
+    "R/win-library/4.2/pbivnorm/DESCRIPTION": {
+      "checksum": "21fe940fcecd8b4ad39b86e47de64e22"
+    },
+    "R/win-library/4.2/pbivnorm/help/aliases.rds": {
+      "checksum": "8175c1d7c10f33ce8e588eaddce3218b"
+    },
+    "R/win-library/4.2/pbivnorm/help/AnIndex": {
+      "checksum": "376330f1b79edfa9435173a700d0a8ea"
+    },
+    "R/win-library/4.2/pbivnorm/help/paths.rds": {
+      "checksum": "a59cd1f1fff854f01c2ed4502932e633"
+    },
+    "R/win-library/4.2/pbivnorm/help/pbivnorm.rdb": {
+      "checksum": "511dc54ba0a835256ebf37626c1a6766"
+    },
+    "R/win-library/4.2/pbivnorm/help/pbivnorm.rdx": {
+      "checksum": "732e0a94c5261d7d6ce2a680b78165de"
+    },
+    "R/win-library/4.2/pbivnorm/html/00Index.html": {
+      "checksum": "ffbd86c7ff45dbbff411bbe0cd043dd5"
+    },
+    "R/win-library/4.2/pbivnorm/html/R.css": {
+      "checksum": "3845aef6126cf18c45937f292f23508c"
+    },
+    "R/win-library/4.2/pbivnorm/INDEX": {
+      "checksum": "3102fbb8443408e4d6ca46bdfa6a3365"
+    },
+    "R/win-library/4.2/pbivnorm/libs/x64/pbivnorm.dll": {
+      "checksum": "3858d71f2d70bb850fabef06525a8562"
+    },
+    "R/win-library/4.2/pbivnorm/libs/x64/symbols.rds": {
+      "checksum": "7198a7b2a59474397895c15786afb539"
+    },
+    "R/win-library/4.2/pbivnorm/MD5": {
+      "checksum": "7e03f98b18eeb31d90b7f942db4a5ae3"
+    },
+    "R/win-library/4.2/pbivnorm/Meta/features.rds": {
+      "checksum": "9c6fc9444f1d52dca2f8e75b612d7e36"
+    },
+    "R/win-library/4.2/pbivnorm/Meta/hsearch.rds": {
+      "checksum": "f93c8e1bc3ba33f582f5ccc60d4da621"
+    },
+    "R/win-library/4.2/pbivnorm/Meta/links.rds": {
+      "checksum": "23822696da7282fc7daeee6711a7e658"
+    },
+    "R/win-library/4.2/pbivnorm/Meta/nsInfo.rds": {
+      "checksum": "d7934cf44b83013d2aefdbf3557a1c92"
+    },
+    "R/win-library/4.2/pbivnorm/Meta/package.rds": {
+      "checksum": "8123a8858c6ecb292485db739b6edb2f"
+    },
+    "R/win-library/4.2/pbivnorm/Meta/Rd.rds": {
+      "checksum": "f6202aefd3e2912b52dd257857c2f7cd"
+    },
+    "R/win-library/4.2/pbivnorm/NAMESPACE": {
+      "checksum": "1018a62776d0a8bf052744776cc1f8a4"
+    },
+    "R/win-library/4.2/pbivnorm/NEWS": {
+      "checksum": "3652b881cca3e186f91b093a4a2f1130"
+    },
+    "R/win-library/4.2/pbivnorm/R/pbivnorm": {
+      "checksum": "d6c68f1fe41ced6e98a766a3757313da"
+    },
+    "R/win-library/4.2/pbivnorm/R/pbivnorm.rdb": {
+      "checksum": "81c1010e8367392261ff91c0a5359ff2"
+    },
+    "R/win-library/4.2/pbivnorm/R/pbivnorm.rdx": {
+      "checksum": "a1d4c21bcf2ab56d4ff680cd09c992a0"
+    },
+    "R/win-library/4.2/pillar/DESCRIPTION": {
+      "checksum": "60ef023c38b79eafe324965b4109d5bb"
+    },
+    "R/win-library/4.2/pillar/doc/debugme.html": {
+      "checksum": "4d69d54e40d6279aa1594232391dba22"
+    },
+    "R/win-library/4.2/pillar/doc/debugme.R": {
+      "checksum": "fb245a56b91b44d54050a4aa56530e46"
+    },
+    "R/win-library/4.2/pillar/doc/debugme.Rmd": {
+      "checksum": "b48909c0117f9f2bb91f534e30d2a81f"
+    },
+    "R/win-library/4.2/pillar/doc/digits.html": {
+      "checksum": "3e6b40962ff47add9c935ac595642da3"
+    },
+    "R/win-library/4.2/pillar/doc/digits.Rmd": {
+      "checksum": "bf59bf74c5930c845e6b79b1508987c8"
+    },
+    "R/win-library/4.2/pillar/doc/extending.html": {
+      "checksum": "85db66b0ed9a420996ec490fca01f743"
+    },
+    "R/win-library/4.2/pillar/doc/extending.R": {
+      "checksum": "38eda5c30c6383ecf8de6e42c47f18c4"
+    },
+    "R/win-library/4.2/pillar/doc/extending.Rmd": {
+      "checksum": "22cde9cd7a5275ef4049ac9b8050a06a"
+    },
+    "R/win-library/4.2/pillar/doc/index.html": {
+      "checksum": "4c049094ac3dfd91291e1d851f8c5e86"
+    },
+    "R/win-library/4.2/pillar/doc/numbers.html": {
+      "checksum": "a66e0514b0bac0311fe9d13d96ff73a4"
+    },
+    "R/win-library/4.2/pillar/doc/numbers.R": {
+      "checksum": "1985f3e83f4bf20e1f87abf1e989b5fd"
+    },
+    "R/win-library/4.2/pillar/doc/numbers.Rmd": {
+      "checksum": "25e105de33b2b4beacdf53edbb5d6acb"
+    },
+    "R/win-library/4.2/pillar/doc/printing.html": {
+      "checksum": "f2ccd3e66c5e97bf469b235b75a31403"
+    },
+    "R/win-library/4.2/pillar/doc/printing.R": {
+      "checksum": "b9a07bf35d7e078a7518a9d8e0ef06a5"
+    },
+    "R/win-library/4.2/pillar/doc/printing.Rmd": {
+      "checksum": "a3d2092360ad13bfd0544a323a4b2d59"
+    },
+    "R/win-library/4.2/pillar/help/aliases.rds": {
+      "checksum": "f76d015131f26b46cd9761cfbe6e6a72"
+    },
+    "R/win-library/4.2/pillar/help/AnIndex": {
+      "checksum": "ed381f7f426bb97557c9f422e8a36a2d"
+    },
+    "R/win-library/4.2/pillar/help/figures/lifecycle-archived.svg": {
+      "checksum": "cb1e46f469cfbbbde29c8b5113e1d789"
+    },
+    "R/win-library/4.2/pillar/help/figures/lifecycle-defunct.svg": {
+      "checksum": "c0d2e5a54f1fa4ff02bf9533079dd1f7"
+    },
+    "R/win-library/4.2/pillar/help/figures/lifecycle-deprecated.svg": {
+      "checksum": "a1b8c987c676c16af790f563f96cbb1f"
+    },
+    "R/win-library/4.2/pillar/help/figures/lifecycle-experimental.svg": {
+      "checksum": "c3978703d8f40f2679795335715e98f4"
+    },
+    "R/win-library/4.2/pillar/help/figures/lifecycle-maturing.svg": {
+      "checksum": "952b59dc07b171b97d5d982924244f61"
+    },
+    "R/win-library/4.2/pillar/help/figures/lifecycle-questioning.svg": {
+      "checksum": "27b879bf3677ea76e3991d56ab324081"
+    },
+    "R/win-library/4.2/pillar/help/figures/lifecycle-soft-deprecated.svg": {
+      "checksum": "6902bbfaf963fbc4ed98b86bda80caa2"
+    },
+    "R/win-library/4.2/pillar/help/figures/lifecycle-stable.svg": {
+      "checksum": "53b3f893324260b737b3c46ed2a0e643"
+    },
+    "R/win-library/4.2/pillar/help/figures/lifecycle-superseded.svg": {
+      "checksum": "1c1fe7a759b86dc6dbcbe7797ab8246c"
+    },
+    "R/win-library/4.2/pillar/help/paths.rds": {
+      "checksum": "b923a66e33d9836cd9cd0bd61d6f8b36"
+    },
+    "R/win-library/4.2/pillar/help/pillar.rdb": {
+      "checksum": "5a371a2ffb5a80095e897074f12daf1c"
+    },
+    "R/win-library/4.2/pillar/help/pillar.rdx": {
+      "checksum": "6a6b0776de0ee84b57afbb3eedd0724e"
+    },
+    "R/win-library/4.2/pillar/html/00Index.html": {
+      "checksum": "05630d1b885dee098e4e65e73597fd47"
+    },
+    "R/win-library/4.2/pillar/html/R.css": {
+      "checksum": "3845aef6126cf18c45937f292f23508c"
+    },
+    "R/win-library/4.2/pillar/INDEX": {
+      "checksum": "f5f25446cc92ce4459983ae03fae2c6f"
+    },
+    "R/win-library/4.2/pillar/LICENSE": {
+      "checksum": "5f53097c35751d37fc3336e103bf8d82"
+    },
+    "R/win-library/4.2/pillar/Meta/features.rds": {
+      "checksum": "2fc7c8f33ded19611739c12d9aa85e03"
+    },
+    "R/win-library/4.2/pillar/Meta/hsearch.rds": {
+      "checksum": "515e931b41c55e85a9d338a08c62d271"
+    },
+    "R/win-library/4.2/pillar/Meta/links.rds": {
+      "checksum": "3c42d597dc01d4835320d76a514e05a2"
+    },
+    "R/win-library/4.2/pillar/Meta/nsInfo.rds": {
+      "checksum": "05843c42d61028048d481b37f7e4887a"
+    },
+    "R/win-library/4.2/pillar/Meta/package.rds": {
+      "checksum": "e62e8dd39f9f9cae55031c6ef0ad0aa7"
+    },
+    "R/win-library/4.2/pillar/Meta/Rd.rds": {
+      "checksum": "2eeac16f3e2564a5fedf55ac3013ca4e"
+    },
+    "R/win-library/4.2/pillar/Meta/vignette.rds": {
+      "checksum": "8ec005cd4be3431a231e05eb2b0d3be3"
+    },
+    "R/win-library/4.2/pillar/NAMESPACE": {
+      "checksum": "f8d15b23419a0e5bbd7434409aee1fda"
+    },
+    "R/win-library/4.2/pillar/NEWS.md": {
+      "checksum": "ae7473defff9a920b649701943a2e6ef"
+    },
+    "R/win-library/4.2/pillar/R/pillar": {
+      "checksum": "d6c68f1fe41ced6e98a766a3757313da"
+    },
+    "R/win-library/4.2/pillar/R/pillar.rdb": {
+      "checksum": "219d603059fe9bf230c1fab144a0dcf2"
+    },
+    "R/win-library/4.2/pillar/R/pillar.rdx": {
+      "checksum": "9927f719021f52834b927aa74154ec43"
+    },
+    "R/win-library/4.2/pillar/WORDLIST": {
+      "checksum": "be493f814da30b8ce0c8ffbae8f6c333"
+    },
+    "R/win-library/4.2/pkgconfig/DESCRIPTION": {
+      "checksum": "96a457cd1cc498146b56e27bb1e63b2c"
+    },
+    "R/win-library/4.2/pkgconfig/help/aliases.rds": {
+      "checksum": "a96a4284165126485a0f1744e5f24ee5"
+    },
+    "R/win-library/4.2/pkgconfig/help/AnIndex": {
+      "checksum": "b54d18cf41b25d3a921db150f41ff329"
+    },
+    "R/win-library/4.2/pkgconfig/help/paths.rds": {
+      "checksum": "b96dcaae61be21342714a599be08ecd4"
+    },
+    "R/win-library/4.2/pkgconfig/help/pkgconfig.rdb": {
+      "checksum": "d30a8b6b85678fd6d5273249467224e5"
+    },
+    "R/win-library/4.2/pkgconfig/help/pkgconfig.rdx": {
+      "checksum": "8002477cd16801853576b9fe8bde2624"
+    },
+    "R/win-library/4.2/pkgconfig/html/00Index.html": {
+      "checksum": "8e7acd9a338d13d7db3e7fc8b3f3428c"
+    },
+    "R/win-library/4.2/pkgconfig/html/R.css": {
+      "checksum": "3845aef6126cf18c45937f292f23508c"
+    },
+    "R/win-library/4.2/pkgconfig/INDEX": {
+      "checksum": "1763b66c0616d3966155bac572e14181"
+    },
+    "R/win-library/4.2/pkgconfig/LICENSE": {
+      "checksum": "4b7ff7c348e978f33981b2237200878d"
+    },
+    "R/win-library/4.2/pkgconfig/MD5": {
+      "checksum": "5142894b167c4ecda3973d39d879c1e5"
+    },
+    "R/win-library/4.2/pkgconfig/Meta/features.rds": {
+      "checksum": "9f7a4637f056aa0787fb29bc9c21a1ff"
+    },
+    "R/win-library/4.2/pkgconfig/Meta/hsearch.rds": {
+      "checksum": "8aadffd76e8fc2b9008980e5783786bd"
+    },
+    "R/win-library/4.2/pkgconfig/Meta/links.rds": {
+      "checksum": "f75eec137aa9a6dcfc2df2576a6519b0"
+    },
+    "R/win-library/4.2/pkgconfig/Meta/nsInfo.rds": {
+      "checksum": "305e2b5f9fcfe910f043759d7c5ae90f"
+    },
+    "R/win-library/4.2/pkgconfig/Meta/package.rds": {
+      "checksum": "383b016532ad334a2d8d0f2b60bddf50"
+    },
+    "R/win-library/4.2/pkgconfig/Meta/Rd.rds": {
+      "checksum": "6ec09c990beb13158cf7448389884b05"
+    },
+    "R/win-library/4.2/pkgconfig/NAMESPACE": {
+      "checksum": "cd8e0bb63bd54833fe1e01ad1a8647d6"
+    },
+    "R/win-library/4.2/pkgconfig/NEWS.markdown": {
+      "checksum": "5d7a6d9138c1f41b095a2a14717707b1"
+    },
+    "R/win-library/4.2/pkgconfig/R/pkgconfig": {
+      "checksum": "d6c68f1fe41ced6e98a766a3757313da"
+    },
+    "R/win-library/4.2/pkgconfig/R/pkgconfig.rdb": {
+      "checksum": "8bf88be25d22761fc2e6447e628a282a"
+    },
+    "R/win-library/4.2/pkgconfig/R/pkgconfig.rdx": {
+      "checksum": "06fac63f09c03e6a81a304f00905213e"
+    },
+    "R/win-library/4.2/pkgconfig/README.markdown": {
+      "checksum": "ebb4499fb7c8f05aed0f8809d5d654d9"
+    },
+    "R/win-library/4.2/pkgconfig/README.Rmd": {
+      "checksum": "ebb4499fb7c8f05aed0f8809d5d654d9"
+    },
+    "R/win-library/4.2/prettyunits/DESCRIPTION": {
+      "checksum": "9b66e84458f3bf84bdd74fd27ff0dc1c"
+    },
+    "R/win-library/4.2/prettyunits/help/aliases.rds": {
+      "checksum": "61519510cd4ff4d782b7e3c33ed05327"
+    },
+    "R/win-library/4.2/prettyunits/help/AnIndex": {
+      "checksum": "0d29b4d5837a857f320b9b168a8d8a87"
+    },
+    "R/win-library/4.2/prettyunits/help/paths.rds": {
+      "checksum": "49867321cf92aa92bfd2584ed475375c"
+    },
+    "R/win-library/4.2/prettyunits/help/prettyunits.rdb": {
+      "checksum": "08614447153cf35d2cddfae950e7c8ae"
+    },
+    "R/win-library/4.2/prettyunits/help/prettyunits.rdx": {
+      "checksum": "edaa0906f909bcc4a9e76a20aa344c09"
+    },
+    "R/win-library/4.2/prettyunits/html/00Index.html": {
+      "checksum": "86fba56730541525c7c28ffee7e04590"
+    },
+    "R/win-library/4.2/prettyunits/html/R.css": {
+      "checksum": "3845aef6126cf18c45937f292f23508c"
+    },
+    "R/win-library/4.2/prettyunits/INDEX": {
+      "checksum": "de083b6968cf4579b3f3f21c64e84f46"
+    },
+    "R/win-library/4.2/prettyunits/LICENSE": {
+      "checksum": "3d55ef9a10c04c95a867277c02d32bca"
+    },
+    "R/win-library/4.2/prettyunits/MD5": {
+      "checksum": "11112c3fb3060b1dfac107f2bc6b4ace"
+    },
+    "R/win-library/4.2/prettyunits/Meta/features.rds": {
+      "checksum": "9f7a4637f056aa0787fb29bc9c21a1ff"
+    },
+    "R/win-library/4.2/prettyunits/Meta/hsearch.rds": {
+      "checksum": "ff18f945a7276f54b77c1b7906840acd"
+    },
+    "R/win-library/4.2/prettyunits/Meta/links.rds": {
+      "checksum": "100d9ba44511495361d3166181874758"
+    },
+    "R/win-library/4.2/prettyunits/Meta/nsInfo.rds": {
+      "checksum": "3464b0403cb1d2f78b5a6d0003cbc4d4"
+    },
+    "R/win-library/4.2/prettyunits/Meta/package.rds": {
+      "checksum": "8045f5bb7cb3e975f965a108402ed892"
+    },
+    "R/win-library/4.2/prettyunits/Meta/Rd.rds": {
+      "checksum": "c1ab0b36f07bc4a853b68e27c561dfad"
+    },
+    "R/win-library/4.2/prettyunits/NAMESPACE": {
+      "checksum": "3fc42c77c184ee3ff3931e693ee5e3a4"
+    },
+    "R/win-library/4.2/prettyunits/NEWS.md": {
+      "checksum": "23fb85680175e310a4cdef794f1f8780"
+    },
+    "R/win-library/4.2/prettyunits/R/prettyunits": {
+      "checksum": "d6c68f1fe41ced6e98a766a3757313da"
+    },
+    "R/win-library/4.2/prettyunits/R/prettyunits.rdb": {
+      "checksum": "e3a60ca83d6842c534cbf7631875af82"
+    },
+    "R/win-library/4.2/prettyunits/R/prettyunits.rdx": {
+      "checksum": "447be51546c2d02ab896ef9696b71bd8"
+    },
+    "R/win-library/4.2/prettyunits/R/sysdata.rdb": {
+      "checksum": "bdf41de88b4886f4107312a45a7118de"
+    },
+    "R/win-library/4.2/prettyunits/R/sysdata.rdx": {
+      "checksum": "b4c5de0263bb1d9bead79ce66f7bb7de"
+    },
+    "R/win-library/4.2/progress/DESCRIPTION": {
+      "checksum": "bf8699ecf8d414e17f6ad1996c86ec6a"
+    },
+    "R/win-library/4.2/progress/help/aliases.rds": {
+      "checksum": "55a942d959b28e1466436835283c2151"
+    },
+    "R/win-library/4.2/progress/help/AnIndex": {
+      "checksum": "76f7a975fcc28acfd053f6f919f3bc39"
+    },
+    "R/win-library/4.2/progress/help/figures/logo.png": {
+      "checksum": "76f1f04c00cae388f24f4ff00636c2ae"
+    },
+    "R/win-library/4.2/progress/help/figures/logo.svg": {
+      "checksum": "4a607a53806f2e5afe5a834bcace11eb"
+    },
+    "R/win-library/4.2/progress/help/paths.rds": {
+      "checksum": "d2a0d36d33b9e8b08b5f6df44a5eff7e"
+    },
+    "R/win-library/4.2/progress/help/progress.rdb": {
+      "checksum": "7b568137c77671feb87c70df2e960ec5"
+    },
+    "R/win-library/4.2/progress/help/progress.rdx": {
+      "checksum": "10298c7f3f2b7d148f213aecd5aa22b7"
+    },
+    "R/win-library/4.2/progress/html/00Index.html": {
+      "checksum": "4c327ac982b5517d3225cd72b2329aec"
+    },
+    "R/win-library/4.2/progress/html/R.css": {
+      "checksum": "3845aef6126cf18c45937f292f23508c"
+    },
+    "R/win-library/4.2/progress/include/RProgress.h": {
+      "checksum": "a0515fd2f2cc1e1e123e0cf0d98df0b3"
+    },
+    "R/win-library/4.2/progress/INDEX": {
+      "checksum": "533db8aaae350976617a6923900e1fc0"
+    },
+    "R/win-library/4.2/progress/LICENSE": {
+      "checksum": "5a20935193b3a9d7647e38833c1e4e31"
+    },
+    "R/win-library/4.2/progress/MD5": {
+      "checksum": "bb6bf9a11909d71561c52388b001e72d"
+    },
+    "R/win-library/4.2/progress/Meta/features.rds": {
+      "checksum": "9f7a4637f056aa0787fb29bc9c21a1ff"
+    },
+    "R/win-library/4.2/progress/Meta/hsearch.rds": {
+      "checksum": "d98f37265115c87ebeda6350c63db633"
+    },
+    "R/win-library/4.2/progress/Meta/links.rds": {
+      "checksum": "4696fd36b85e534d5b23ffef41b59f16"
+    },
+    "R/win-library/4.2/progress/Meta/nsInfo.rds": {
+      "checksum": "0e90399ff2164edcd4ea0b8ad88b0888"
+    },
+    "R/win-library/4.2/progress/Meta/package.rds": {
+      "checksum": "4e93674e4421e09300ab2803d9e03166"
+    },
+    "R/win-library/4.2/progress/Meta/Rd.rds": {
+      "checksum": "b6eb8ba01741d1d45d0d0feb5522da65"
+    },
+    "R/win-library/4.2/progress/NAMESPACE": {
+      "checksum": "451fe80009d43151fe0886ae44115397"
+    },
+    "R/win-library/4.2/progress/NEWS.md": {
+      "checksum": "6123757dd068aaf865b141f58b854e5a"
+    },
+    "R/win-library/4.2/progress/R/progress": {
+      "checksum": "d6c68f1fe41ced6e98a766a3757313da"
+    },
+    "R/win-library/4.2/progress/R/progress.rdb": {
+      "checksum": "32d76d3ac1bcf69c6bdc42c800e53a19"
+    },
+    "R/win-library/4.2/progress/R/progress.rdx": {
+      "checksum": "f30fdb543286218024a1b3c49022b08b"
+    },
+    "R/win-library/4.2/psych/CITATION": {
+      "checksum": "6f8161b2a4e8407e468e3b6bcd28182a"
+    },
+    "R/win-library/4.2/psych/data/Rdata.rdb": {
+      "checksum": "90b95f487343a07013f28788649e8bd8"
+    },
+    "R/win-library/4.2/psych/data/Rdata.rds": {
+      "checksum": "6e5d021ff2c7ebfa26c42f099de99770"
+    },
+    "R/win-library/4.2/psych/data/Rdata.rdx": {
+      "checksum": "564a066ad9a2f1be408ccd87bb896d4b"
+    },
+    "R/win-library/4.2/psych/DESCRIPTION": {
+      "checksum": "741d0c90b19aafe28cf2939379c2c46f"
+    },
+    "R/win-library/4.2/psych/doc/index.html": {
+      "checksum": "da59a4efafae46198aef4fcb056251b2"
+    },
+    "R/win-library/4.2/psych/doc/scoring.pdf": {
+      "checksum": "af85dbd69515b2b24ee37e9afab347b9"
+    },
+    "R/win-library/4.2/psych/doc/scoring.R": {
+      "checksum": "a2b1388581e81db03be99aa3b7ef3b7b"
+    },
+    "R/win-library/4.2/psych/doc/scoring.Rnw": {
+      "checksum": "ad232a0c6fef9cd2ebb454e44b497a5c"
+    },
+    "R/win-library/4.2/psych/help/aliases.rds": {
+      "checksum": "b8ba00e43966dbc5774187e48231b815"
+    },
+    "R/win-library/4.2/psych/help/AnIndex": {
+      "checksum": "a92c02dfcd5a1bd59ba3f99faffeb94b"
+    },
+    "R/win-library/4.2/psych/help/paths.rds": {
+      "checksum": "f79fda7c3950bdf57adab03ed9305388"
+    },
+    "R/win-library/4.2/psych/help/psych.rdb": {
+      "checksum": "954e379f3a3716a07f49696cee7daf12"
+    },
+    "R/win-library/4.2/psych/help/psych.rdx": {
+      "checksum": "958207c4834300fe02e7525ff2fdbee2"
+    },
+    "R/win-library/4.2/psych/html/00Index.html": {
+      "checksum": "aee0539048b764e3cedf0c9e30c6f22a"
+    },
+    "R/win-library/4.2/psych/html/R.css": {
+      "checksum": "3845aef6126cf18c45937f292f23508c"
+    },
+    "R/win-library/4.2/psych/INDEX": {
+      "checksum": "24ea00d541a44b020293b0190ceab3b5"
+    },
+    "R/win-library/4.2/psych/Meta/data.rds": {
+      "checksum": "b3b3df3760033506b272ef04a6915fc5"
+    },
+    "R/win-library/4.2/psych/Meta/features.rds": {
+      "checksum": "2fc7c8f33ded19611739c12d9aa85e03"
+    },
+    "R/win-library/4.2/psych/Meta/hsearch.rds": {
+      "checksum": "b59297b8f12a15960db8123811d3bbe2"
+    },
+    "R/win-library/4.2/psych/Meta/links.rds": {
+      "checksum": "2082c5effe34d8eabf5a12a67c8bc8c7"
+    },
+    "R/win-library/4.2/psych/Meta/nsInfo.rds": {
+      "checksum": "c886e84c3b169557281953fb4fdacc3c"
+    },
+    "R/win-library/4.2/psych/Meta/package.rds": {
+      "checksum": "6c51c57157e4b6ef4348d73a9ba3dd10"
+    },
+    "R/win-library/4.2/psych/Meta/Rd.rds": {
+      "checksum": "7881ea8bcf13a08d4c3d227dbfac26ce"
+    },
+    "R/win-library/4.2/psych/Meta/vignette.rds": {
+      "checksum": "dd9e510fc6f98fc9e21afcb8a6e13e7e"
+    },
+    "R/win-library/4.2/psych/NAMESPACE": {
+      "checksum": "13082c2f026b41ad132409635ab791f6"
+    },
+    "R/win-library/4.2/psych/NEWS.Rd": {
+      "checksum": "4f405fe3cd57a9749c26dacba2d30743"
+    },
+    "R/win-library/4.2/psych/R/psych": {
+      "checksum": "d6c68f1fe41ced6e98a766a3757313da"
+    },
+    "R/win-library/4.2/psych/R/psych.rdb": {
+      "checksum": "493f539953065bde4e302b608bab80aa"
+    },
+    "R/win-library/4.2/psych/R/psych.rdx": {
+      "checksum": "e0d53ecdec8390ec8d4b604fcd05ca4a"
+    },
+    "R/win-library/4.2/quadprog/DESCRIPTION": {
+      "checksum": "4d78162eea74b0e253927fac8bb077a0"
+    },
+    "R/win-library/4.2/quadprog/help/aliases.rds": {
+      "checksum": "f5b483c8181a50679e73f4a0169415a4"
+    },
+    "R/win-library/4.2/quadprog/help/AnIndex": {
+      "checksum": "28cf44f3b59293c2f99b53c10e1574b3"
+    },
+    "R/win-library/4.2/quadprog/help/paths.rds": {
+      "checksum": "cf246df97627c4531d1d5fcb0020ade3"
+    },
+    "R/win-library/4.2/quadprog/help/quadprog.rdb": {
+      "checksum": "b1449b0f15227fc6e258405c0725ae88"
+    },
+    "R/win-library/4.2/quadprog/help/quadprog.rdx": {
+      "checksum": "582811c49c50ac4fe1f77940cb860e1f"
+    },
+    "R/win-library/4.2/quadprog/html/00Index.html": {
+      "checksum": "eeb1289af8ce8d7893f10a1b17a5b75e"
+    },
+    "R/win-library/4.2/quadprog/html/R.css": {
+      "checksum": "3845aef6126cf18c45937f292f23508c"
+    },
+    "R/win-library/4.2/quadprog/INDEX": {
+      "checksum": "aac74ce1f3138431cf752951869be16c"
+    },
+    "R/win-library/4.2/quadprog/libs/x64/quadprog.dll": {
+      "checksum": "6d4ddcd905e11b11d32945184b06430c"
+    },
+    "R/win-library/4.2/quadprog/libs/x64/symbols.rds": {
+      "checksum": "594885d2b5f7b34e8376d9aeb2cc749f"
+    },
+    "R/win-library/4.2/quadprog/MD5": {
+      "checksum": "6413ac0080d18840c3b9564c213d29e2"
+    },
+    "R/win-library/4.2/quadprog/Meta/features.rds": {
+      "checksum": "9c6fc9444f1d52dca2f8e75b612d7e36"
+    },
+    "R/win-library/4.2/quadprog/Meta/hsearch.rds": {
+      "checksum": "9364dfb39be97ae42c9353ab4edc1a80"
+    },
+    "R/win-library/4.2/quadprog/Meta/links.rds": {
+      "checksum": "0cafe9677105d9e83cbde33aed7dfdd0"
+    },
+    "R/win-library/4.2/quadprog/Meta/nsInfo.rds": {
+      "checksum": "78e4a5cdfd8ca0e2df395f0e324c888b"
+    },
+    "R/win-library/4.2/quadprog/Meta/package.rds": {
+      "checksum": "0b9dad935ee3fa5bead36bb56000f389"
+    },
+    "R/win-library/4.2/quadprog/Meta/Rd.rds": {
+      "checksum": "78a3f6baebb07c9cde46c11c1e560813"
+    },
+    "R/win-library/4.2/quadprog/NAMESPACE": {
+      "checksum": "2a73ddd624b9c14c555b6552f2247e13"
+    },
+    "R/win-library/4.2/quadprog/R/quadprog": {
+      "checksum": "d6c68f1fe41ced6e98a766a3757313da"
+    },
+    "R/win-library/4.2/quadprog/R/quadprog.rdb": {
+      "checksum": "1df4f7598526a8ce523f3c54e996e098"
+    },
+    "R/win-library/4.2/quadprog/R/quadprog.rdx": {
+      "checksum": "4ad6de1d928db62edf0abb45be4b07bf"
+    },
+    "R/win-library/4.2/R6/DESCRIPTION": {
+      "checksum": "f62317ef520d9b7b00caa21bc39567a4"
+    },
+    "R/win-library/4.2/R6/help/aliases.rds": {
+      "checksum": "e3861a879cb0c8a5f5c598d30a76319b"
+    },
+    "R/win-library/4.2/R6/help/AnIndex": {
+      "checksum": "765f7e3b69264574dc8b485e251452e0"
+    },
+    "R/win-library/4.2/R6/help/figures/logo.png": {
+      "checksum": "ea0913a482ce1aa926631dd7bb46e330"
+    },
+    "R/win-library/4.2/R6/help/figures/logo.svg": {
+      "checksum": "5f3ac92823b5ad4db8d362c634805c54"
+    },
+    "R/win-library/4.2/R6/help/paths.rds": {
+      "checksum": "eb4308c852fcee59f7e79d7c8a95907d"
+    },
+    "R/win-library/4.2/R6/help/R6.rdb": {
+      "checksum": "e619315a431d33e7feaebef19af834bb"
+    },
+    "R/win-library/4.2/R6/help/R6.rdx": {
+      "checksum": "93fb95a8cc55168aaa431272340582a2"
+    },
+    "R/win-library/4.2/R6/html/00Index.html": {
+      "checksum": "285e5a85eff3431bdd9d8213da8972f1"
+    },
+    "R/win-library/4.2/R6/html/R.css": {
+      "checksum": "3845aef6126cf18c45937f292f23508c"
+    },
+    "R/win-library/4.2/R6/INDEX": {
+      "checksum": "6f0895156f9d20d053c4f32f641dd9b6"
+    },
+    "R/win-library/4.2/R6/LICENSE": {
+      "checksum": "d6683a2afab33f1588738ac1ba8151d4"
+    },
+    "R/win-library/4.2/R6/Meta/features.rds": {
+      "checksum": "2fc7c8f33ded19611739c12d9aa85e03"
+    },
+    "R/win-library/4.2/R6/Meta/hsearch.rds": {
+      "checksum": "efd05936c0435ecb06e788b5d02f396c"
+    },
+    "R/win-library/4.2/R6/Meta/links.rds": {
+      "checksum": "a824b85341d606bebf14bde3272b6d3c"
+    },
+    "R/win-library/4.2/R6/Meta/nsInfo.rds": {
+      "checksum": "020ef1c9f86bdfeeb2141d30426253e2"
+    },
+    "R/win-library/4.2/R6/Meta/package.rds": {
+      "checksum": "16ee66d2563aedca15f24967ac79d00d"
+    },
+    "R/win-library/4.2/R6/Meta/Rd.rds": {
+      "checksum": "3a4159a89d2b1e808430e7638d3c1e28"
+    },
+    "R/win-library/4.2/R6/NAMESPACE": {
+      "checksum": "23693bb8b34da00f747c803b39b982a3"
+    },
+    "R/win-library/4.2/R6/NEWS.md": {
+      "checksum": "e82876657c660facb4181094f83e9830"
+    },
+    "R/win-library/4.2/R6/R/R6": {
+      "checksum": "d6c68f1fe41ced6e98a766a3757313da"
+    },
+    "R/win-library/4.2/R6/R/R6.rdb": {
+      "checksum": "cd064d5cba95b979231c63412d1b2f2a"
+    },
+    "R/win-library/4.2/R6/R/R6.rdx": {
+      "checksum": "9f010714b87d354f6eb50f237d82ff00"
+    },
+    "R/win-library/4.2/readr/DESCRIPTION": {
+      "checksum": "9bdb69885fcff0e9f2ae61dfebef844b"
+    },
+    "R/win-library/4.2/readr/doc/column-types.html": {
+      "checksum": "9a1a448304831b04072293dbcf81157b"
+    },
+    "R/win-library/4.2/readr/doc/column-types.R": {
+      "checksum": "5cc3e966211df74b79ab6673008b8c72"
+    },
+    "R/win-library/4.2/readr/doc/column-types.Rmd": {
+      "checksum": "7fa33a7676cfc63e3ebed6f998c105c3"
+    },
+    "R/win-library/4.2/readr/doc/index.html": {
+      "checksum": "1d4c90a68d175d497b54fbd5e8c57553"
+    },
+    "R/win-library/4.2/readr/doc/locales.html": {
+      "checksum": "60219dd172d9e0659862845a8f324733"
+    },
+    "R/win-library/4.2/readr/doc/locales.R": {
+      "checksum": "aac6ac562216aa4f4f090d8a425c7e6f"
+    },
+    "R/win-library/4.2/readr/doc/locales.Rmd": {
+      "checksum": "9f808ade76413bbe77863fbc24005e49"
+    },
+    "R/win-library/4.2/readr/doc/readr.html": {
+      "checksum": "a652c2f5373c74a17732b5ae9f693cc6"
+    },
+    "R/win-library/4.2/readr/doc/readr.R": {
+      "checksum": "45fb6b9a0a7c4778a9e252ae3eca6682"
+    },
+    "R/win-library/4.2/readr/doc/readr.Rmd": {
+      "checksum": "6314dcada7bf246a50adef898979ca0a"
+    },
+    "R/win-library/4.2/readr/extdata/challenge.csv": {
+      "checksum": "b05a668d9a4de93b5dd397cfde7905b1"
+    },
+    "R/win-library/4.2/readr/extdata/chickens.csv": {
+      "checksum": "0609bf64b5d30d1ad05edadde1b87b01"
+    },
+    "R/win-library/4.2/readr/extdata/epa78.txt": {
+      "checksum": "fa584bf0652806be23f04c9938ec0ec8"
+    },
+    "R/win-library/4.2/readr/extdata/example.log": {
+      "checksum": "9dc92f35a3293d75ce989e1e694a57c7"
+    },
+    "R/win-library/4.2/readr/extdata/fwf-sample.txt": {
+      "checksum": "891bca40aeba031848809c3e587b20d7"
+    },
+    "R/win-library/4.2/readr/extdata/massey-rating.txt": {
+      "checksum": "0e5e0f32575cc33876c3db780f327708"
+    },
+    "R/win-library/4.2/readr/extdata/mini-gapminder-africa.csv": {
+      "checksum": "d1865551a1e4363cebcfacf77917efc8"
+    },
+    "R/win-library/4.2/readr/extdata/mini-gapminder-americas.csv": {
+      "checksum": "e2608531de787cb9f0bbbdac3655898b"
+    },
+    "R/win-library/4.2/readr/extdata/mini-gapminder-asia.csv": {
+      "checksum": "9a0ce5032bdf9d0aca361c48d007aeb6"
+    },
+    "R/win-library/4.2/readr/extdata/mini-gapminder-europe.csv": {
+      "checksum": "38bce5365b60510ef33191bfdcff20be"
+    },
+    "R/win-library/4.2/readr/extdata/mini-gapminder-oceania.csv": {
+      "checksum": "cee4b608d76039bd3826ec08319448d7"
+    },
+    "R/win-library/4.2/readr/extdata/mtcars.csv": {
+      "checksum": "5143f7b8ed70e91698d432d721c11a63"
+    },
+    "R/win-library/4.2/readr/extdata/mtcars.csv.bz2": {
+      "checksum": "99100423693851c707ccdb228723ac83"
+    },
+    "R/win-library/4.2/readr/extdata/mtcars.csv.zip": {
+      "checksum": "d347f11bcaccca8806927c7a211a9640"
+    },
+    "R/win-library/4.2/readr/extdata/whitespace-sample.txt": {
+      "checksum": "96dec15369e6c514702251b8c36e67c4"
+    },
+    "R/win-library/4.2/readr/help/aliases.rds": {
+      "checksum": "eb9910d745cc4e6d44562de918fbc66e"
+    },
+    "R/win-library/4.2/readr/help/AnIndex": {
+      "checksum": "7c0cbbae2fd6483646a7cfec959a9bd4"
+    },
+    "R/win-library/4.2/readr/help/figures/lifecycle-archived.svg": {
+      "checksum": "a1cbaf3f328e8d74e747faacf640c7fc"
+    },
+    "R/win-library/4.2/readr/help/figures/lifecycle-defunct.svg": {
+      "checksum": "6f521fb1819410630e279d1abf88685a"
+    },
+    "R/win-library/4.2/readr/help/figures/lifecycle-deprecated.svg": {
+      "checksum": "391f696f961e28914508628a7af31b74"
+    },
+    "R/win-library/4.2/readr/help/figures/lifecycle-experimental.svg": {
+      "checksum": "691b1eb2aec9e1bec96b79d11ba5e631"
+    },
+    "R/win-library/4.2/readr/help/figures/lifecycle-maturing.svg": {
+      "checksum": "405e252e54a79b33522e9699e4e9051c"
+    },
+    "R/win-library/4.2/readr/help/figures/lifecycle-questioning.svg": {
+      "checksum": "f41ed996be135fb35afe00641621da61"
+    },
+    "R/win-library/4.2/readr/help/figures/lifecycle-soft-deprecated.svg": {
+      "checksum": "306bef67d1c636f209024cf2403846fd"
+    },
+    "R/win-library/4.2/readr/help/figures/lifecycle-stable.svg": {
+      "checksum": "ed42e3fbd7cc30bc6ca8fa9b658e24a8"
+    },
+    "R/win-library/4.2/readr/help/figures/lifecycle-superseded.svg": {
+      "checksum": "99f6e77d8cd1072e42e744a4950e143a"
+    },
+    "R/win-library/4.2/readr/help/figures/logo.png": {
+      "checksum": "a4859de3cd6dccad67b2c2568502f48a"
+    },
+    "R/win-library/4.2/readr/help/paths.rds": {
+      "checksum": "b1699c604b034a69556920cd75a566ff"
+    },
+    "R/win-library/4.2/readr/help/readr.rdb": {
+      "checksum": "02c4c259485744113fdd527a2ef65f7d"
+    },
+    "R/win-library/4.2/readr/help/readr.rdx": {
+      "checksum": "88aeca0674d1a42cc93b764572fe49cb"
+    },
+    "R/win-library/4.2/readr/html/00Index.html": {
+      "checksum": "fe2603d6abb94065fa801c65a32e5f53"
+    },
+    "R/win-library/4.2/readr/html/R.css": {
+      "checksum": "3845aef6126cf18c45937f292f23508c"
+    },
+    "R/win-library/4.2/readr/INDEX": {
+      "checksum": "07768ff663f0040667eb404242506cc7"
+    },
+    "R/win-library/4.2/readr/libs/x64/readr.dll": {
+      "checksum": "e5abf21d725510312ba8bc0d0be8e8e5"
+    },
+    "R/win-library/4.2/readr/libs/x64/symbols.rds": {
+      "checksum": "bc144c5c9e58c3b8fef2357a12ad260a"
+    },
+    "R/win-library/4.2/readr/LICENSE": {
+      "checksum": "5da5931c29930c5c2f246bdb6ac533d5"
+    },
+    "R/win-library/4.2/readr/MD5": {
+      "checksum": "0d327fb4978ef15dec375d747d208a76"
+    },
+    "R/win-library/4.2/readr/Meta/features.rds": {
+      "checksum": "9f7a4637f056aa0787fb29bc9c21a1ff"
+    },
+    "R/win-library/4.2/readr/Meta/hsearch.rds": {
+      "checksum": "d1daf4132a666194b4a8176475e33047"
+    },
+    "R/win-library/4.2/readr/Meta/links.rds": {
+      "checksum": "2519a54fcf51991fcf4b3df448b95a8f"
+    },
+    "R/win-library/4.2/readr/Meta/nsInfo.rds": {
+      "checksum": "0b2c5e5fd1027cfb8407325531306088"
+    },
+    "R/win-library/4.2/readr/Meta/package.rds": {
+      "checksum": "05c41db27bb90be8225918019ca7c1ef"
+    },
+    "R/win-library/4.2/readr/Meta/Rd.rds": {
+      "checksum": "324bf9438fedd7d7fe76d881c6782cdf"
+    },
+    "R/win-library/4.2/readr/Meta/vignette.rds": {
+      "checksum": "a253321154cc9823fdab6c72cc2f0907"
+    },
+    "R/win-library/4.2/readr/NAMESPACE": {
+      "checksum": "181390224b0751104ec490b388d80af4"
+    },
+    "R/win-library/4.2/readr/NEWS.md": {
+      "checksum": "5e8805a99fe11680b9727e84637e4155"
+    },
+    "R/win-library/4.2/readr/R/readr": {
+      "checksum": "d6c68f1fe41ced6e98a766a3757313da"
+    },
+    "R/win-library/4.2/readr/R/readr.rdb": {
+      "checksum": "bc2572edc66b110a89b10c0633d08cc1"
+    },
+    "R/win-library/4.2/readr/R/readr.rdx": {
+      "checksum": "66c6b71fd840942e0c13eb075b2e60e5"
+    },
+    "R/win-library/4.2/readr/R/sysdata.rdb": {
+      "checksum": "b6c0bc6048307df7d8d1affeebc1b8c8"
+    },
+    "R/win-library/4.2/readr/R/sysdata.rdx": {
+      "checksum": "8e11baec33c25404769bbc45d494801e"
+    },
+    "R/win-library/4.2/readr/WORDLIST": {
+      "checksum": "a6eb050437c2432a413c35d8b4686c51"
+    },
+    "R/win-library/4.2/rlang/backtrace-ver": {
+      "checksum": "ee7ab3e7e15d1e00ec001ca33b4571f1"
+    },
+    "R/win-library/4.2/rlang/DESCRIPTION": {
+      "checksum": "644cb5a47e42dc40cb2bfe3f91fba9b5"
+    },
+    "R/win-library/4.2/rlang/help/aliases.rds": {
+      "checksum": "93910e4aa40045f77e4dd96732bf3836"
+    },
+    "R/win-library/4.2/rlang/help/AnIndex": {
+      "checksum": "56c5233f67fa44a4d80fdc7438e0abdd"
+    },
+    "R/win-library/4.2/rlang/help/figures/lifecycle-archived.svg": {
+      "checksum": "cb1e46f469cfbbbde29c8b5113e1d789"
+    },
+    "R/win-library/4.2/rlang/help/figures/lifecycle-defunct.svg": {
+      "checksum": "c0d2e5a54f1fa4ff02bf9533079dd1f7"
+    },
+    "R/win-library/4.2/rlang/help/figures/lifecycle-deprecated.svg": {
+      "checksum": "a1b8c987c676c16af790f563f96cbb1f"
+    },
+    "R/win-library/4.2/rlang/help/figures/lifecycle-experimental.svg": {
+      "checksum": "c3978703d8f40f2679795335715e98f4"
+    },
+    "R/win-library/4.2/rlang/help/figures/lifecycle-maturing.svg": {
+      "checksum": "952b59dc07b171b97d5d982924244f61"
+    },
+    "R/win-library/4.2/rlang/help/figures/lifecycle-questioning.svg": {
+      "checksum": "27b879bf3677ea76e3991d56ab324081"
+    },
+    "R/win-library/4.2/rlang/help/figures/lifecycle-retired.svg": {
+      "checksum": "46de21252239c5a23d400eae83ec6b2d"
+    },
+    "R/win-library/4.2/rlang/help/figures/lifecycle-soft-deprecated.svg": {
+      "checksum": "6902bbfaf963fbc4ed98b86bda80caa2"
+    },
+    "R/win-library/4.2/rlang/help/figures/lifecycle-stable.svg": {
+      "checksum": "53b3f893324260b737b3c46ed2a0e643"
+    },
+    "R/win-library/4.2/rlang/help/figures/lifecycle-superseded.svg": {
+      "checksum": "1c1fe7a759b86dc6dbcbe7797ab8246c"
+    },
+    "R/win-library/4.2/rlang/help/figures/logo.png": {
+      "checksum": "42e90e0813fee26f77866a2f8025b3ba"
+    },
+    "R/win-library/4.2/rlang/help/paths.rds": {
+      "checksum": "5c0f6e251bcfc7d6222f792fae11644a"
+    },
+    "R/win-library/4.2/rlang/help/rlang.rdb": {
+      "checksum": "80819f8b9b59623e583917bbd22fdb0d"
+    },
+    "R/win-library/4.2/rlang/help/rlang.rdx": {
+      "checksum": "baab3c4dc7f57e89918e570ae492ffb4"
+    },
+    "R/win-library/4.2/rlang/html/00Index.html": {
+      "checksum": "ada8db109e9024f66eb266768b78d466"
+    },
+    "R/win-library/4.2/rlang/html/R.css": {
+      "checksum": "3845aef6126cf18c45937f292f23508c"
+    },
+    "R/win-library/4.2/rlang/INDEX": {
+      "checksum": "2c11ab8b6f81e1327ac4bb4ba1fc5680"
+    },
+    "R/win-library/4.2/rlang/libs/x64/rlang.dll": {
+      "checksum": "c2f09c7842e41c9ae7f070d7dcda9651"
+    },
+    "R/win-library/4.2/rlang/libs/x64/symbols.rds": {
+      "checksum": "ba118a3409af9a79456775df4a63009f"
+    },
+    "R/win-library/4.2/rlang/LICENSE": {
+      "checksum": "e6f43178fbfc71c5d0c6586954b66df1"
+    },
+    "R/win-library/4.2/rlang/MD5": {
+      "checksum": "b2f652a277677b6060487e549e0337b1"
+    },
+    "R/win-library/4.2/rlang/Meta/features.rds": {
+      "checksum": "9f7a4637f056aa0787fb29bc9c21a1ff"
+    },
+    "R/win-library/4.2/rlang/Meta/hsearch.rds": {
+      "checksum": "7a363538155614b84214ce8c2e51dc18"
+    },
+    "R/win-library/4.2/rlang/Meta/links.rds": {
+      "checksum": "105e87db7c0b1743da0ad395eea00c70"
+    },
+    "R/win-library/4.2/rlang/Meta/nsInfo.rds": {
+      "checksum": "dcc4d1c8a45020ef7d5f504c63281bd0"
+    },
+    "R/win-library/4.2/rlang/Meta/package.rds": {
+      "checksum": "d07c2ae1bd7ef4ccde0a0210c2e62412"
+    },
+    "R/win-library/4.2/rlang/Meta/Rd.rds": {
+      "checksum": "4e15b26a8c8e044b9168ffff19d2f378"
+    },
+    "R/win-library/4.2/rlang/NAMESPACE": {
+      "checksum": "8074975cae52b5fac2c1dca49d125429"
+    },
+    "R/win-library/4.2/rlang/NEWS.md": {
+      "checksum": "b85a2118c53c91d981d243e487730bdc"
+    },
+    "R/win-library/4.2/rlang/R/rlang": {
+      "checksum": "d6c68f1fe41ced6e98a766a3757313da"
+    },
+    "R/win-library/4.2/rlang/R/rlang.rdb": {
+      "checksum": "84361e3033e6bebb2d44aeccffa6fbf5"
+    },
+    "R/win-library/4.2/rlang/R/rlang.rdx": {
+      "checksum": "1078b7381dd1a2cce6c5b6f59ab985b8"
+    },
+    "R/win-library/4.2/tibble/DESCRIPTION": {
+      "checksum": "0da8fb4db4fdf6909cc4a516bc10a7e9"
+    },
+    "R/win-library/4.2/tibble/doc/digits.html": {
+      "checksum": "ea1aebf1ebf265044bb924815c9b9efb"
+    },
+    "R/win-library/4.2/tibble/doc/digits.R": {
+      "checksum": "4b3d5d1d801a3fc12b15f269bb7ba0dd"
+    },
+    "R/win-library/4.2/tibble/doc/digits.Rmd": {
+      "checksum": "c73870bdafa14576a97d801b49d8ff9f"
+    },
+    "R/win-library/4.2/tibble/doc/extending.html": {
+      "checksum": "c3748215a65165c388d6ac2b61409ff4"
+    },
+    "R/win-library/4.2/tibble/doc/extending.R": {
+      "checksum": "f92cf022d0cc1ee77ebf28d7c177cdad"
+    },
+    "R/win-library/4.2/tibble/doc/extending.Rmd": {
+      "checksum": "93814367756b8935676717ad9c34fab1"
+    },
+    "R/win-library/4.2/tibble/doc/formats.html": {
+      "checksum": "d290a38dbf8c267a9ecfcc4fd28043c6"
+    },
+    "R/win-library/4.2/tibble/doc/formats.R": {
+      "checksum": "9f46216d8a3e1851a119443787975d17"
+    },
+    "R/win-library/4.2/tibble/doc/formats.Rmd": {
+      "checksum": "67997d88f34301e69fa0f4df97f4ecaf"
+    },
+    "R/win-library/4.2/tibble/doc/index.html": {
+      "checksum": "d35f883a2975d90c7def1947ea3d025d"
+    },
+    "R/win-library/4.2/tibble/doc/invariants.html": {
+      "checksum": "efd892d1bbce87f94a587eeb8fdd385d"
+    },
+    "R/win-library/4.2/tibble/doc/invariants.R": {
+      "checksum": "7fae8e7b4739afc74a23cb051d2289d0"
+    },
+    "R/win-library/4.2/tibble/doc/invariants.Rmd": {
+      "checksum": "1d4b307a576275975bd3432aac12c800"
+    },
+    "R/win-library/4.2/tibble/doc/numbers.html": {
+      "checksum": "87336c471d66689559823a9c101f4913"
+    },
+    "R/win-library/4.2/tibble/doc/numbers.R": {
+      "checksum": "e953b1ce9602e4472e6c3b59a9e1fe4b"
+    },
+    "R/win-library/4.2/tibble/doc/numbers.Rmd": {
+      "checksum": "c4f421cb9a1e21f54b835386dc840821"
+    },
+    "R/win-library/4.2/tibble/doc/tibble.html": {
+      "checksum": "0703b269ce9c418ba9e030953e246cd1"
+    },
+    "R/win-library/4.2/tibble/doc/tibble.R": {
+      "checksum": "31110d5bdbc3cf014558d1cc0ff1031d"
+    },
+    "R/win-library/4.2/tibble/doc/tibble.Rmd": {
+      "checksum": "1c529ece54970f2f0a75b8ce75db6e08"
+    },
+    "R/win-library/4.2/tibble/doc/types.html": {
+      "checksum": "8a1eda4ae9c69b5240c707889d2653eb"
+    },
+    "R/win-library/4.2/tibble/doc/types.R": {
+      "checksum": "f77404efdec1daf51b5cf1424486c68a"
+    },
+    "R/win-library/4.2/tibble/doc/types.Rmd": {
+      "checksum": "d2b52ddb18629851be651beaba8010e1"
+    },
+    "R/win-library/4.2/tibble/help/aliases.rds": {
+      "checksum": "e440dfd794218e14b79112151e12a421"
+    },
+    "R/win-library/4.2/tibble/help/AnIndex": {
+      "checksum": "537f1c5154ee86ed5ee20ace8a761be3"
+    },
+    "R/win-library/4.2/tibble/help/figures/lifecycle-archived.svg": {
+      "checksum": "cb1e46f469cfbbbde29c8b5113e1d789"
+    },
+    "R/win-library/4.2/tibble/help/figures/lifecycle-defunct.svg": {
+      "checksum": "c0d2e5a54f1fa4ff02bf9533079dd1f7"
+    },
+    "R/win-library/4.2/tibble/help/figures/lifecycle-deprecated.svg": {
+      "checksum": "a1b8c987c676c16af790f563f96cbb1f"
+    },
+    "R/win-library/4.2/tibble/help/figures/lifecycle-experimental.svg": {
+      "checksum": "c3978703d8f40f2679795335715e98f4"
+    },
+    "R/win-library/4.2/tibble/help/figures/lifecycle-maturing.svg": {
+      "checksum": "952b59dc07b171b97d5d982924244f61"
+    },
+    "R/win-library/4.2/tibble/help/figures/lifecycle-questioning.svg": {
+      "checksum": "27b879bf3677ea76e3991d56ab324081"
+    },
+    "R/win-library/4.2/tibble/help/figures/lifecycle-soft-deprecated.svg": {
+      "checksum": "6902bbfaf963fbc4ed98b86bda80caa2"
+    },
+    "R/win-library/4.2/tibble/help/figures/lifecycle-stable.svg": {
+      "checksum": "53b3f893324260b737b3c46ed2a0e643"
+    },
+    "R/win-library/4.2/tibble/help/figures/lifecycle-superseded.svg": {
+      "checksum": "d519c3283da75955a8cbaec351380d28"
+    },
+    "R/win-library/4.2/tibble/help/figures/logo.png": {
+      "checksum": "2db3b0e7250ce7abb3301a26a21c743c"
+    },
+    "R/win-library/4.2/tibble/help/paths.rds": {
+      "checksum": "448c5b01673b879d3e76abfa2ea21d14"
+    },
+    "R/win-library/4.2/tibble/help/tibble.rdb": {
+      "checksum": "363d16f33b9aadcbe4693a52f62d0c4a"
+    },
+    "R/win-library/4.2/tibble/help/tibble.rdx": {
+      "checksum": "f66415b202f6ec82f043c61df5da745b"
+    },
+    "R/win-library/4.2/tibble/html/00Index.html": {
+      "checksum": "90113bf6b150bcbc58af100f668469a8"
+    },
+    "R/win-library/4.2/tibble/html/R.css": {
+      "checksum": "3845aef6126cf18c45937f292f23508c"
+    },
+    "R/win-library/4.2/tibble/INDEX": {
+      "checksum": "ebc15dd5be6129fb366650fcf8f319bf"
+    },
+    "R/win-library/4.2/tibble/libs/x64/symbols.rds": {
+      "checksum": "65841b4f05ef7b9a8ce44c4382f9d127"
+    },
+    "R/win-library/4.2/tibble/libs/x64/tibble.dll": {
+      "checksum": "1fdae245884871ebd79a239c7e46ecff"
+    },
+    "R/win-library/4.2/tibble/LICENSE": {
+      "checksum": "4ac396cdf32c44b3d07b7d6c9fd388d0"
+    },
+    "R/win-library/4.2/tibble/MD5": {
+      "checksum": "d19d9f666c12579226d729b352719da8"
+    },
+    "R/win-library/4.2/tibble/Meta/features.rds": {
+      "checksum": "9f7a4637f056aa0787fb29bc9c21a1ff"
+    },
+    "R/win-library/4.2/tibble/Meta/hsearch.rds": {
+      "checksum": "e9d183b9123962e2c93da0a578ac3ca6"
+    },
+    "R/win-library/4.2/tibble/Meta/links.rds": {
+      "checksum": "92e3c3d13ed61093db20b83fe01b436d"
+    },
+    "R/win-library/4.2/tibble/Meta/nsInfo.rds": {
+      "checksum": "c97e01b02e11a8b6c7b47b643bddc5bc"
+    },
+    "R/win-library/4.2/tibble/Meta/package.rds": {
+      "checksum": "9d26885653d65dd850afcc72b8acb35f"
+    },
+    "R/win-library/4.2/tibble/Meta/Rd.rds": {
+      "checksum": "846f0ec09f39f4856dfc313322850ead"
+    },
+    "R/win-library/4.2/tibble/Meta/vignette.rds": {
+      "checksum": "2a5b94237c377f2981732a08ea28043e"
+    },
+    "R/win-library/4.2/tibble/NAMESPACE": {
+      "checksum": "e189848f4dcd003a82e94fdd27c07789"
+    },
+    "R/win-library/4.2/tibble/NEWS.md": {
+      "checksum": "59ebf23969f8305403c24165b0a2cae7"
+    },
+    "R/win-library/4.2/tibble/R/tibble": {
+      "checksum": "d6c68f1fe41ced6e98a766a3757313da"
+    },
+    "R/win-library/4.2/tibble/R/tibble.rdb": {
+      "checksum": "ccc86bbad39bc3cb276b2da2dcd370b9"
+    },
+    "R/win-library/4.2/tibble/R/tibble.rdx": {
+      "checksum": "66a6a639ef654fbde360b30373add680"
+    },
+    "R/win-library/4.2/tidyselect/DESCRIPTION": {
+      "checksum": "4a3d33f5c4259a7259d27ce8623976ba"
+    },
+    "R/win-library/4.2/tidyselect/doc/index.html": {
+      "checksum": "03116e158ed798fd4681762d6626fa61"
+    },
+    "R/win-library/4.2/tidyselect/doc/syntax.html": {
+      "checksum": "c2f9fba4e81ce6457b994df84c9e2454"
+    },
+    "R/win-library/4.2/tidyselect/doc/syntax.R": {
+      "checksum": "065467c67f4fd9fa1a0eea46ca974860"
+    },
+    "R/win-library/4.2/tidyselect/doc/syntax.Rmd": {
+      "checksum": "7cf98e5a8509189bbbbaddd52107fef8"
+    },
+    "R/win-library/4.2/tidyselect/doc/tidyselect.html": {
+      "checksum": "193de1a3edd2ade05d164fc42d6dcdd3"
+    },
+    "R/win-library/4.2/tidyselect/doc/tidyselect.R": {
+      "checksum": "0693c151f0500827e816cff9b1e8ec4f"
+    },
+    "R/win-library/4.2/tidyselect/doc/tidyselect.Rmd": {
+      "checksum": "5ae925284f8746747be64518c509bf94"
+    },
+    "R/win-library/4.2/tidyselect/help/aliases.rds": {
+      "checksum": "7c63914513633f736e5efd5c0a53f536"
+    },
+    "R/win-library/4.2/tidyselect/help/AnIndex": {
+      "checksum": "742e9628f31f524831e7a5c158dd855f"
+    },
+    "R/win-library/4.2/tidyselect/help/paths.rds": {
+      "checksum": "c57f5212c4d85bd9ae159976e4695e9a"
+    },
+    "R/win-library/4.2/tidyselect/help/tidyselect.rdb": {
+      "checksum": "9feea657b209fc26eedb0e95f0d23cd0"
+    },
+    "R/win-library/4.2/tidyselect/help/tidyselect.rdx": {
+      "checksum": "3bf37a19177cefc90a5254ff4546ce52"
+    },
+    "R/win-library/4.2/tidyselect/html/00Index.html": {
+      "checksum": "288c678210a08416fa1e4d11dc80ab6f"
+    },
+    "R/win-library/4.2/tidyselect/html/R.css": {
+      "checksum": "3845aef6126cf18c45937f292f23508c"
+    },
+    "R/win-library/4.2/tidyselect/INDEX": {
+      "checksum": "583389aa0912c12d466ae405fb97995a"
+    },
+    "R/win-library/4.2/tidyselect/LICENSE": {
+      "checksum": "2d19204519c1403aa1c4d36dcbbd5a51"
+    },
+    "R/win-library/4.2/tidyselect/MD5": {
+      "checksum": "9767f63f0774d1d733f509f4206fad2a"
+    },
+    "R/win-library/4.2/tidyselect/Meta/features.rds": {
+      "checksum": "9f7a4637f056aa0787fb29bc9c21a1ff"
+    },
+    "R/win-library/4.2/tidyselect/Meta/hsearch.rds": {
+      "checksum": "564fc1ec447f89f6cd0dc858e1f9890e"
+    },
+    "R/win-library/4.2/tidyselect/Meta/links.rds": {
+      "checksum": "f17324f42633fc7867f37ba4deb96951"
+    },
+    "R/win-library/4.2/tidyselect/Meta/nsInfo.rds": {
+      "checksum": "4a397ba58eb8f61143eef40d08b3b0e3"
+    },
+    "R/win-library/4.2/tidyselect/Meta/package.rds": {
+      "checksum": "0513f14a51829ee6b7e848b1e7da62c8"
+    },
+    "R/win-library/4.2/tidyselect/Meta/Rd.rds": {
+      "checksum": "19bbfe442c97ed31752c4ed68dc18f5d"
+    },
+    "R/win-library/4.2/tidyselect/Meta/vignette.rds": {
+      "checksum": "52cae71d7afb350372541dba6d7bddc5"
+    },
+    "R/win-library/4.2/tidyselect/NAMESPACE": {
+      "checksum": "bb0487b56562a51a1ed2b1d6c6f6616f"
+    },
+    "R/win-library/4.2/tidyselect/NEWS.md": {
+      "checksum": "a823e2bbda331bd29469db7bc3475c09"
+    },
+    "R/win-library/4.2/tidyselect/R/tidyselect": {
+      "checksum": "d6c68f1fe41ced6e98a766a3757313da"
+    },
+    "R/win-library/4.2/tidyselect/R/tidyselect.rdb": {
+      "checksum": "d9b31a0c6c150ec9d2ba3c5969bca53e"
+    },
+    "R/win-library/4.2/tidyselect/R/tidyselect.rdx": {
+      "checksum": "139ce0019a3b9e38d84b43c2cd47d9dc"
+    },
+    "R/win-library/4.2/tzdb/DESCRIPTION": {
+      "checksum": "55cdce028fed38c9a3d00eb5bbe4a427"
+    },
+    "R/win-library/4.2/tzdb/help/aliases.rds": {
+      "checksum": "9757ffadf6a8124becf9e7c90d1d8116"
+    },
+    "R/win-library/4.2/tzdb/help/AnIndex": {
+      "checksum": "47ef25333c9d94558d085fa137d14c67"
+    },
+    "R/win-library/4.2/tzdb/help/paths.rds": {
+      "checksum": "3badb1d0c3a7d89bbf240fd9d1baee85"
+    },
+    "R/win-library/4.2/tzdb/help/tzdb.rdb": {
+      "checksum": "cd76b6146df6992c6bf5fbe9bcc337e6"
+    },
+    "R/win-library/4.2/tzdb/help/tzdb.rdx": {
+      "checksum": "fdd39a71f61ef8b5fec869ae9ad77e28"
+    },
+    "R/win-library/4.2/tzdb/html/00Index.html": {
+      "checksum": "e5109cf3fbbe50d38a42875ed0409a14"
+    },
+    "R/win-library/4.2/tzdb/html/R.css": {
+      "checksum": "3845aef6126cf18c45937f292f23508c"
+    },
+    "R/win-library/4.2/tzdb/include/date/chrono_io.h": {
+      "checksum": "17782665d3a7dfe6aa7a03b5a605abf8"
+    },
+    "R/win-library/4.2/tzdb/include/date/date.h": {
+      "checksum": "efc250e9b70050ac8971f0391670aa80"
+    },
+    "R/win-library/4.2/tzdb/include/date/ios.h": {
+      "checksum": "b6ca74e6f7137c05b97d27d43ef5188c"
+    },
+    "R/win-library/4.2/tzdb/include/date/islamic.h": {
+      "checksum": "f78efe7eb3c499caf89584227b94aa11"
+    },
+    "R/win-library/4.2/tzdb/include/date/iso_week.h": {
+      "checksum": "af35f2f116142cd12e75acf84b946e98"
+    },
+    "R/win-library/4.2/tzdb/include/date/julian.h": {
+      "checksum": "1aa337c752091d3f78e8300a7a28e763"
+    },
+    "R/win-library/4.2/tzdb/include/date/ptz.h": {
+      "checksum": "323de005fc3f69dc8b2202ceea7ebadf"
+    },
+    "R/win-library/4.2/tzdb/include/date/solar_hijri.h": {
+      "checksum": "626294d738643046ba6c33d462918e6b"
+    },
+    "R/win-library/4.2/tzdb/include/date/tz.h": {
+      "checksum": "d09259b20ba2977b464377af65901205"
+    },
+    "R/win-library/4.2/tzdb/include/date/tz_private.h": {
+      "checksum": "db5c6aad29600abf9bd4326c0a36755a"
+    },
+    "R/win-library/4.2/tzdb/include/tzdb/date.h": {
+      "checksum": "b4222566eac7d3174fc583c6eb81a90f"
+    },
+    "R/win-library/4.2/tzdb/include/tzdb/defines.h": {
+      "checksum": "4a9aac2acda3c0156d0c9df45c302c97"
+    },
+    "R/win-library/4.2/tzdb/include/tzdb/islamic.h": {
+      "checksum": "f5c0b5b8a3967cc2f2412c06c6f84778"
+    },
+    "R/win-library/4.2/tzdb/include/tzdb/iso_week.h": {
+      "checksum": "f8cc58aa4ed54d9e2bae5775d68fe7bc"
+    },
+    "R/win-library/4.2/tzdb/include/tzdb/julian.h": {
+      "checksum": "17b3f15d65add3d7e0a59a51865943b1"
+    },
+    "R/win-library/4.2/tzdb/include/tzdb/ptz.h": {
+      "checksum": "b79b797780618c75e6987da2722c1520"
+    },
+    "R/win-library/4.2/tzdb/include/tzdb/solar_hijri.h": {
+      "checksum": "1faab029dbadac16fab2a770abaf77ea"
+    },
+    "R/win-library/4.2/tzdb/include/tzdb/tz.h": {
+      "checksum": "9519a720bd6d0d0b26dfa91c9b6d82c1"
+    },
+    "R/win-library/4.2/tzdb/include/tzdb/tzdb.h": {
+      "checksum": "28b669883ac0a3c475572efc228e8e03"
+    },
+    "R/win-library/4.2/tzdb/INDEX": {
+      "checksum": "9f714b1fc5d3c4da0949b67403b30853"
+    },
+    "R/win-library/4.2/tzdb/libs/x64/symbols.rds": {
+      "checksum": "fbbc2384c2b0f47402ebc8b50eac68cf"
+    },
+    "R/win-library/4.2/tzdb/libs/x64/tzdb.dll": {
+      "checksum": "9d9b62ac770d55242d4d76e773eea031"
+    },
+    "R/win-library/4.2/tzdb/LICENSE": {
+      "checksum": "7161c37dfe7cbba21d2dbd1c2df4ab74"
+    },
+    "R/win-library/4.2/tzdb/MD5": {
+      "checksum": "eac46848d75f4fc9fe385d04adb93d64"
+    },
+    "R/win-library/4.2/tzdb/Meta/features.rds": {
+      "checksum": "9f7a4637f056aa0787fb29bc9c21a1ff"
+    },
+    "R/win-library/4.2/tzdb/Meta/hsearch.rds": {
+      "checksum": "f53ab945d0dd254cd467e4bdbf38f527"
+    },
+    "R/win-library/4.2/tzdb/Meta/links.rds": {
+      "checksum": "f73490e0caa6c69bf732ffb46a165475"
+    },
+    "R/win-library/4.2/tzdb/Meta/nsInfo.rds": {
+      "checksum": "f296578e6bb710c18acdbb5c76ee3c8f"
+    },
+    "R/win-library/4.2/tzdb/Meta/package.rds": {
+      "checksum": "c34adf2b0e5e17d7f41c4c4f2588b405"
+    },
+    "R/win-library/4.2/tzdb/Meta/Rd.rds": {
+      "checksum": "20c217a01052a916955ea29099b8f807"
+    },
+    "R/win-library/4.2/tzdb/NAMESPACE": {
+      "checksum": "670988a98f1e943dc85845f5eb62f507"
+    },
+    "R/win-library/4.2/tzdb/NEWS.md": {
+      "checksum": "d67fd9da86bfdec974314038f3ff588a"
+    },
+    "R/win-library/4.2/tzdb/R/tzdb": {
+      "checksum": "d6c68f1fe41ced6e98a766a3757313da"
+    },
+    "R/win-library/4.2/tzdb/R/tzdb.rdb": {
+      "checksum": "fbe598e042508d1e0dae2b16f97f76ed"
+    },
+    "R/win-library/4.2/tzdb/R/tzdb.rdx": {
+      "checksum": "31af214517222686785118bb900eb9f8"
+    },
+    "R/win-library/4.2/tzdb/tzdata/africa": {
+      "checksum": "740e7b858398359ae0616290c6729d9c"
+    },
+    "R/win-library/4.2/tzdb/tzdata/antarctica": {
+      "checksum": "324a530c1adb9d813248bef76eb3f750"
+    },
+    "R/win-library/4.2/tzdb/tzdata/asia": {
+      "checksum": "a1026a6117c052d1f73839a4cd8527aa"
+    },
+    "R/win-library/4.2/tzdb/tzdata/australasia": {
+      "checksum": "716447598527ba6862a48c36c72d16d1"
+    },
+    "R/win-library/4.2/tzdb/tzdata/backward": {
+      "checksum": "b5977680552002ee3303423c0517a2db"
+    },
+    "R/win-library/4.2/tzdb/tzdata/backzone": {
+      "checksum": "99b5a968fff1ae51a808c47404440bdb"
+    },
+    "R/win-library/4.2/tzdb/tzdata/calendars": {
+      "checksum": "8f026cad003375ab3aa343db3947ef91"
+    },
+    "R/win-library/4.2/tzdb/tzdata/checklinks.awk": {
+      "checksum": "8e924a4ae974671c9fed5540400b69da"
+    },
+    "R/win-library/4.2/tzdb/tzdata/checktab.awk": {
+      "checksum": "d88f96b8d911451f9de35cbfca03d724"
+    },
+    "R/win-library/4.2/tzdb/tzdata/CONTRIBUTING": {
+      "checksum": "179fb8ce891c6f51d096d7f6ad8ea8e2"
+    },
+    "R/win-library/4.2/tzdb/tzdata/etcetera": {
+      "checksum": "7981c3596644eea1ef4e25f97e8e1f3b"
+    },
+    "R/win-library/4.2/tzdb/tzdata/europe": {
+      "checksum": "4ac6da120d83e7cf058e09f035012eb8"
+    },
+    "R/win-library/4.2/tzdb/tzdata/factory": {
+      "checksum": "21056cf24bf9bab9a1d75fb3b2d796e1"
+    },
+    "R/win-library/4.2/tzdb/tzdata/iso3166.tab": {
+      "checksum": "66d6063d827238f5b8cc4773adc3f760"
+    },
+    "R/win-library/4.2/tzdb/tzdata/leap-seconds.list": {
+      "checksum": "2e19ca758e726fca40507cf5aedc412a"
+    },
+    "R/win-library/4.2/tzdb/tzdata/leapseconds": {
+      "checksum": "3d50c958a350d6cc9207f935bbe044a8"
+    },
+    "R/win-library/4.2/tzdb/tzdata/leapseconds.awk": {
+      "checksum": "c21be09de0ecf50c9e1728fe2858a493"
+    },
+    "R/win-library/4.2/tzdb/tzdata/LICENSE": {
+      "checksum": "c679c9d6b02bc2757b3eaf8f53c43fba"
+    },
+    "R/win-library/4.2/tzdb/tzdata/Makefile": {
+      "checksum": "bd2cb6508b8534b8455cd2e205fed247"
+    },
+    "R/win-library/4.2/tzdb/tzdata/NEWS": {
+      "checksum": "7a70af6c1d50da86ed58225eda39595b"
+    },
+    "R/win-library/4.2/tzdb/tzdata/northamerica": {
+      "checksum": "d3ed871c2c14b3e58f7ba960891db9d4"
+    },
+    "R/win-library/4.2/tzdb/tzdata/README": {
+      "checksum": "241dd746c26b3ced3bfefc7da5105838"
+    },
+    "R/win-library/4.2/tzdb/tzdata/SECURITY": {
+      "checksum": "627dca30f2d9c766e4ed84ed3ee4c441"
+    },
+    "R/win-library/4.2/tzdb/tzdata/southamerica": {
+      "checksum": "509da0867aa340d5b69cd0d17ae058de"
+    },
+    "R/win-library/4.2/tzdb/tzdata/theory.html": {
+      "checksum": "6fa11cbacdd3a951542fe2531eea9872"
+    },
+    "R/win-library/4.2/tzdb/tzdata/version": {
+      "checksum": "969c2450240d5f2a0f3c97b421fb196b"
+    },
+    "R/win-library/4.2/tzdb/tzdata/windowsZones.xml": {
+      "checksum": "d9572a120bebf5e7314e98c02e85193a"
+    },
+    "R/win-library/4.2/tzdb/tzdata/ziguard.awk": {
+      "checksum": "4773083f84bcbd9a30da0e8d016b1574"
+    },
+    "R/win-library/4.2/tzdb/tzdata/zishrink.awk": {
+      "checksum": "4a21c6cad24b9921f2036eaaf05c6972"
+    },
+    "R/win-library/4.2/tzdb/tzdata/zone.tab": {
+      "checksum": "9ab5f99a09a631ada8827a33a2e2a782"
+    },
+    "R/win-library/4.2/tzdb/tzdata/zone1970.tab": {
+      "checksum": "d01843f8141c7f9408bade7959ba40bc"
+    },
+    "R/win-library/4.2/tzdb/tzdata/zoneinfo2tdf.pl": {
+      "checksum": "5d714603d98417050cd3fcd4745146bc"
+    },
+    "R/win-library/4.2/utf8/DESCRIPTION": {
+      "checksum": "d0675c0c82ca4dc5cfb54d6581802bd7"
+    },
+    "R/win-library/4.2/utf8/doc/index.html": {
+      "checksum": "7315c668cbfb6ad763572c17ef4d90b2"
+    },
+    "R/win-library/4.2/utf8/doc/utf8.html": {
+      "checksum": "673728f44e1825d8f5849aeab51dc548"
+    },
+    "R/win-library/4.2/utf8/doc/utf8.Rmd": {
+      "checksum": "3d18f5ac90eaf6d379d9a43b161f5ba8"
+    },
+    "R/win-library/4.2/utf8/help/aliases.rds": {
+      "checksum": "da72a32125cf6c40ecb703a1265c53d8"
+    },
+    "R/win-library/4.2/utf8/help/AnIndex": {
+      "checksum": "a53b71fe5c5e8f551d16be1db708821b"
+    },
+    "R/win-library/4.2/utf8/help/paths.rds": {
+      "checksum": "8a25122c5c8c0607df8c04bf9a345163"
+    },
+    "R/win-library/4.2/utf8/help/utf8.rdb": {
+      "checksum": "e4dd1a99451e07c1a4d4811fcf010518"
+    },
+    "R/win-library/4.2/utf8/help/utf8.rdx": {
+      "checksum": "1601debb0cfde9f9c2c0e12ee69e1c6a"
+    },
+    "R/win-library/4.2/utf8/html/00Index.html": {
+      "checksum": "c151ed723d6b99539f0ae0350de13d2a"
+    },
+    "R/win-library/4.2/utf8/html/R.css": {
+      "checksum": "3845aef6126cf18c45937f292f23508c"
+    },
+    "R/win-library/4.2/utf8/INDEX": {
+      "checksum": "e4a0d8ce544294ce6f1c0eb8d198e01b"
+    },
+    "R/win-library/4.2/utf8/libs/x64/symbols.rds": {
+      "checksum": "dca6d8cdf3c6e515dc45b876cb4a9efd"
+    },
+    "R/win-library/4.2/utf8/libs/x64/utf8.dll": {
+      "checksum": "8eb1b21de74878cd1d803761d12b3f77"
+    },
+    "R/win-library/4.2/utf8/LICENSE": {
+      "checksum": "3b83ef96387f14655fc854ddc3c6bd57"
+    },
+    "R/win-library/4.2/utf8/MD5": {
+      "checksum": "215221f522271210776f5a5c8f150bd1"
+    },
+    "R/win-library/4.2/utf8/Meta/features.rds": {
+      "checksum": "9f7a4637f056aa0787fb29bc9c21a1ff"
+    },
+    "R/win-library/4.2/utf8/Meta/hsearch.rds": {
+      "checksum": "95e660cd8eaf66f2c3efba4c9901f13e"
+    },
+    "R/win-library/4.2/utf8/Meta/links.rds": {
+      "checksum": "5a2180664877310fc06cb92113291b53"
+    },
+    "R/win-library/4.2/utf8/Meta/nsInfo.rds": {
+      "checksum": "50a7f147b5f4e86aab2dcb2ba3c0f4c0"
+    },
+    "R/win-library/4.2/utf8/Meta/package.rds": {
+      "checksum": "2c442fb6318a2633c9168a25b1c6fb51"
+    },
+    "R/win-library/4.2/utf8/Meta/Rd.rds": {
+      "checksum": "5029da71ee0b09962b63cb00a5b2fba5"
+    },
+    "R/win-library/4.2/utf8/Meta/vignette.rds": {
+      "checksum": "448a012f08aeffda8a50df8370cb6454"
+    },
+    "R/win-library/4.2/utf8/NAMESPACE": {
+      "checksum": "9eb610e029fc704406b2e7ba88b2038a"
+    },
+    "R/win-library/4.2/utf8/R/utf8": {
+      "checksum": "d6c68f1fe41ced6e98a766a3757313da"
+    },
+    "R/win-library/4.2/utf8/R/utf8.rdb": {
+      "checksum": "c33941c074ef020555b568a2b5f06d48"
+    },
+    "R/win-library/4.2/utf8/R/utf8.rdx": {
+      "checksum": "50c281c42571654362bf0988cf4c38db"
+    },
+    "R/win-library/4.2/vctrs/DESCRIPTION": {
+      "checksum": "f5a51442578829280eed917e8a98bf95"
+    },
+    "R/win-library/4.2/vctrs/doc/index.html": {
+      "checksum": "374ee2b49766eaa26575f1c75518b4dd"
+    },
+    "R/win-library/4.2/vctrs/doc/pillar.html": {
+      "checksum": "accd5671c19c7c18ef5c7c31265f9a6e"
+    },
+    "R/win-library/4.2/vctrs/doc/pillar.R": {
+      "checksum": "91b665fdcc1e53bdb3313409cc1b80d7"
+    },
+    "R/win-library/4.2/vctrs/doc/pillar.Rmd": {
+      "checksum": "7dec628565582a504f5aa9744f865cd9"
+    },
+    "R/win-library/4.2/vctrs/doc/s3-vector.html": {
+      "checksum": "51fade1f0675b96b81bf7c7fd583ca5f"
+    },
+    "R/win-library/4.2/vctrs/doc/s3-vector.R": {
+      "checksum": "3ca34e986554454ab5a425f27931c9e6"
+    },
+    "R/win-library/4.2/vctrs/doc/s3-vector.Rmd": {
+      "checksum": "e9656a0f57974885a1cf61ebfba88fcb"
+    },
+    "R/win-library/4.2/vctrs/doc/stability.html": {
+      "checksum": "ea2f3ad3bb33363f7940691c15144e7e"
+    },
+    "R/win-library/4.2/vctrs/doc/stability.R": {
+      "checksum": "dc96a0b7cee74c68fb1d1c9dc5d7998d"
+    },
+    "R/win-library/4.2/vctrs/doc/stability.Rmd": {
+      "checksum": "4839ddd2a359470622d6edcca6c49edf"
+    },
+    "R/win-library/4.2/vctrs/doc/type-size.html": {
+      "checksum": "9124361676524fe75d9d624d85946a20"
+    },
+    "R/win-library/4.2/vctrs/doc/type-size.R": {
+      "checksum": "98d334b47a42c08133df1013daacc5bf"
+    },
+    "R/win-library/4.2/vctrs/doc/type-size.Rmd": {
+      "checksum": "317b475c17b8b2a70f68cca0402f9eb9"
+    },
+    "R/win-library/4.2/vctrs/help/aliases.rds": {
+      "checksum": "e5a2b0008bc81524b6a2210d9aca1a73"
+    },
+    "R/win-library/4.2/vctrs/help/AnIndex": {
+      "checksum": "ead05ca41dc15555e3b37ce8320808d8"
+    },
+    "R/win-library/4.2/vctrs/help/figures/cast.png": {
+      "checksum": "69eb638d262c60d5bd5ed2aa4717190c"
+    },
+    "R/win-library/4.2/vctrs/help/figures/coerce.png": {
+      "checksum": "f5627d4a9d3071aad2dec7dbd3d33eca"
+    },
+    "R/win-library/4.2/vctrs/help/figures/combined.png": {
+      "checksum": "e01d20997a9c8d069ef28e3c6013bd8c"
+    },
+    "R/win-library/4.2/vctrs/help/figures/lifecycle-archived.svg": {
+      "checksum": "cb1e46f469cfbbbde29c8b5113e1d789"
+    },
+    "R/win-library/4.2/vctrs/help/figures/lifecycle-defunct.svg": {
+      "checksum": "c0d2e5a54f1fa4ff02bf9533079dd1f7"
+    },
+    "R/win-library/4.2/vctrs/help/figures/lifecycle-deprecated.svg": {
+      "checksum": "a1b8c987c676c16af790f563f96cbb1f"
+    },
+    "R/win-library/4.2/vctrs/help/figures/lifecycle-experimental.svg": {
+      "checksum": "c3978703d8f40f2679795335715e98f4"
+    },
+    "R/win-library/4.2/vctrs/help/figures/lifecycle-maturing.svg": {
+      "checksum": "952b59dc07b171b97d5d982924244f61"
+    },
+    "R/win-library/4.2/vctrs/help/figures/lifecycle-questioning.svg": {
+      "checksum": "27b879bf3677ea76e3991d56ab324081"
+    },
+    "R/win-library/4.2/vctrs/help/figures/lifecycle-soft-deprecated.svg": {
+      "checksum": "6902bbfaf963fbc4ed98b86bda80caa2"
+    },
+    "R/win-library/4.2/vctrs/help/figures/lifecycle-stable.svg": {
+      "checksum": "53b3f893324260b737b3c46ed2a0e643"
+    },
+    "R/win-library/4.2/vctrs/help/figures/lifecycle-superseded.svg": {
+      "checksum": "1c1fe7a759b86dc6dbcbe7797ab8246c"
+    },
+    "R/win-library/4.2/vctrs/help/figures/logo.png": {
+      "checksum": "865c1e8576113b430bcb2d69bfdb0e76"
+    },
+    "R/win-library/4.2/vctrs/help/figures/sizes-recycling.png": {
+      "checksum": "25e2f330cc7176f22ad3cc5a3ba4dc22"
+    },
+    "R/win-library/4.2/vctrs/help/figures/vec-count-deps.png": {
+      "checksum": "0c3de09d34b6b7e94e7671c08e9df3f8"
+    },
+    "R/win-library/4.2/vctrs/help/figures/vec-count-deps.svg": {
+      "checksum": "2995e7508f8f053600f8e21cec6b60c3"
+    },
+    "R/win-library/4.2/vctrs/help/paths.rds": {
+      "checksum": "4ac3bd2d38fc92525a67073d07853c86"
+    },
+    "R/win-library/4.2/vctrs/help/vctrs.rdb": {
+      "checksum": "53202ed8fc44f660a1ed45a95ed8af79"
+    },
+    "R/win-library/4.2/vctrs/help/vctrs.rdx": {
+      "checksum": "e070e163f2e29790508c0eb324729e10"
+    },
+    "R/win-library/4.2/vctrs/html/00Index.html": {
+      "checksum": "fc9ffd99e8fccd691e185871a815893c"
+    },
+    "R/win-library/4.2/vctrs/html/R.css": {
+      "checksum": "3845aef6126cf18c45937f292f23508c"
+    },
+    "R/win-library/4.2/vctrs/include/vctrs.c": {
+      "checksum": "23d206cd5b3ad3c4a357ddb6551fcd35"
+    },
+    "R/win-library/4.2/vctrs/include/vctrs.h": {
+      "checksum": "67efd743e1f714d4fdb6a27898469147"
+    },
+    "R/win-library/4.2/vctrs/INDEX": {
+      "checksum": "ca575f564c1567bdcab2ff48c2514592"
+    },
+    "R/win-library/4.2/vctrs/libs/x64/symbols.rds": {
+      "checksum": "24020a93022e651eea481257281d1d17"
+    },
+    "R/win-library/4.2/vctrs/libs/x64/vctrs.dll": {
+      "checksum": "26882bff9c9386bd1ccace1093e22480"
+    },
+    "R/win-library/4.2/vctrs/LICENSE": {
+      "checksum": "bb38d60fdc799f700b0f8537f9fc4110"
+    },
+    "R/win-library/4.2/vctrs/MD5": {
+      "checksum": "b02dd3c9eae4d381d883a7a8b6d85ef8"
+    },
+    "R/win-library/4.2/vctrs/Meta/features.rds": {
+      "checksum": "9f7a4637f056aa0787fb29bc9c21a1ff"
+    },
+    "R/win-library/4.2/vctrs/Meta/hsearch.rds": {
+      "checksum": "a831f374cda8faca2e86d453141a5591"
+    },
+    "R/win-library/4.2/vctrs/Meta/links.rds": {
+      "checksum": "97ae15cbbb0aba33429722146763efd4"
+    },
+    "R/win-library/4.2/vctrs/Meta/nsInfo.rds": {
+      "checksum": "83c2b77c1ab6c4fe40aadc5dcb2c7330"
+    },
+    "R/win-library/4.2/vctrs/Meta/package.rds": {
+      "checksum": "6458b6d02cd374254e8491d18fc22b30"
+    },
+    "R/win-library/4.2/vctrs/Meta/Rd.rds": {
+      "checksum": "a0edcfa243c7ad54257ec96fe7374b4a"
+    },
+    "R/win-library/4.2/vctrs/Meta/vignette.rds": {
+      "checksum": "5ae3013a5bcc115e7832c3bf993e6ce6"
+    },
+    "R/win-library/4.2/vctrs/NAMESPACE": {
+      "checksum": "b29d26a3acc8fc3be7b570b00281774d"
+    },
+    "R/win-library/4.2/vctrs/NEWS.md": {
+      "checksum": "44c69d677da4b4ca0ded4029fe6412a1"
+    },
+    "R/win-library/4.2/vctrs/R/vctrs": {
+      "checksum": "d6c68f1fe41ced6e98a766a3757313da"
+    },
+    "R/win-library/4.2/vctrs/R/vctrs.rdb": {
+      "checksum": "bd40a9142775cece164f1e7a8d5e7a46"
+    },
+    "R/win-library/4.2/vctrs/R/vctrs.rdx": {
+      "checksum": "edba3037f1f91b083fb4c2e8b1fc574e"
+    },
+    "R/win-library/4.2/vctrs/WORDLIST": {
+      "checksum": "43cc81e569685f0ede8af83150d4f016"
+    },
+    "R/win-library/4.2/vroom/bench/all_character-long.tsv": {
+      "checksum": "962d06b985e9e8193a542aa49664461d"
+    },
+    "R/win-library/4.2/vroom/bench/all_character-long/data.table-data.table.R": {
+      "checksum": "adb19a2ad5f8df1a425c3f141bbb1ca6"
+    },
+    "R/win-library/4.2/vroom/bench/all_character-long/input.R": {
+      "checksum": "dc62df65db108c3edf6b5a5e01f3c0a2"
+    },
+    "R/win-library/4.2/vroom/bench/all_character-long/read.delim-base.R": {
+      "checksum": "b7e86e3149030918d62d9085c9dadd04"
+    },
+    "R/win-library/4.2/vroom/bench/all_character-long/readr-dplyr.R": {
+      "checksum": "f019cf85f14ec96e800472b1352fffde"
+    },
+    "R/win-library/4.2/vroom/bench/all_character-long/vroom-base.R": {
+      "checksum": "6217f8f584aceb27f04ce2cab2302e98"
+    },
+    "R/win-library/4.2/vroom/bench/all_character-long/vroom-dplyr.R": {
+      "checksum": "85de11b01605e56086180437bdb0ca45"
+    },
+    "R/win-library/4.2/vroom/bench/all_character-long/vroom_no_altrep-dplyr.R": {
+      "checksum": "b58b6986b69cf07ac7964270c94dbb8b"
+    },
+    "R/win-library/4.2/vroom/bench/all_character-wide.tsv": {
+      "checksum": "d2c0a521f2f5a23609e93c8ba945c3ac"
+    },
+    "R/win-library/4.2/vroom/bench/all_character-wide/data.table-data.table.R": {
+      "checksum": "adb19a2ad5f8df1a425c3f141bbb1ca6"
+    },
+    "R/win-library/4.2/vroom/bench/all_character-wide/input.R": {
+      "checksum": "dc62df65db108c3edf6b5a5e01f3c0a2"
+    },
+    "R/win-library/4.2/vroom/bench/all_character-wide/read.delim-base.R": {
+      "checksum": "b7e86e3149030918d62d9085c9dadd04"
+    },
+    "R/win-library/4.2/vroom/bench/all_character-wide/readr-dplyr.R": {
+      "checksum": "f019cf85f14ec96e800472b1352fffde"
+    },
+    "R/win-library/4.2/vroom/bench/all_character-wide/vroom-base.R": {
+      "checksum": "6217f8f584aceb27f04ce2cab2302e98"
+    },
+    "R/win-library/4.2/vroom/bench/all_character-wide/vroom-dplyr.R": {
+      "checksum": "85de11b01605e56086180437bdb0ca45"
+    },
+    "R/win-library/4.2/vroom/bench/all_character-wide/vroom_no_altrep-dplyr.R": {
+      "checksum": "b58b6986b69cf07ac7964270c94dbb8b"
+    },
+    "R/win-library/4.2/vroom/bench/all_numeric-long.tsv": {
+      "checksum": "6191cb718a65d44c0daa2a68a26678be"
+    },
+    "R/win-library/4.2/vroom/bench/all_numeric-long/data.table-data.table.R": {
+      "checksum": "75d64c09a3c43c1217bf1c3d9c98d290"
+    },
+    "R/win-library/4.2/vroom/bench/all_numeric-long/input.R": {
+      "checksum": "e91cda9b9eb6f49a2548549ecf9ed467"
+    },
+    "R/win-library/4.2/vroom/bench/all_numeric-long/read.delim-base.R": {
+      "checksum": "da8f45a2672500ed9ecb2c9b59ea2a64"
+    },
+    "R/win-library/4.2/vroom/bench/all_numeric-long/readr-dplyr.R": {
+      "checksum": "9a9f4b4f35b233b38814c243c3f1815f"
+    },
+    "R/win-library/4.2/vroom/bench/all_numeric-long/vroom-base.R": {
+      "checksum": "123685f2b589d8f51662fc63681d23d9"
+    },
+    "R/win-library/4.2/vroom/bench/all_numeric-long/vroom-dplyr.R": {
+      "checksum": "4648ea621c2e2938d7823aa4119e16c1"
+    },
+    "R/win-library/4.2/vroom/bench/all_numeric-long/vroom_no_altrep-base.R": {
+      "checksum": "81f9b037b915cc475618706f6b710979"
+    },
+    "R/win-library/4.2/vroom/bench/all_numeric-long/vroom_no_altrep-dplyr.R": {
+      "checksum": "9a6290051b3b157163bd6afc61efa4ea"
+    },
+    "R/win-library/4.2/vroom/bench/all_numeric-wide.tsv": {
+      "checksum": "53814663e32460a5ecc75aad6c23ad11"
+    },
+    "R/win-library/4.2/vroom/bench/all_numeric-wide/data.table-data.table.R": {
+      "checksum": "75d64c09a3c43c1217bf1c3d9c98d290"
+    },
+    "R/win-library/4.2/vroom/bench/all_numeric-wide/input.R": {
+      "checksum": "e91cda9b9eb6f49a2548549ecf9ed467"
+    },
+    "R/win-library/4.2/vroom/bench/all_numeric-wide/read.delim-base.R": {
+      "checksum": "da8f45a2672500ed9ecb2c9b59ea2a64"
+    },
+    "R/win-library/4.2/vroom/bench/all_numeric-wide/readr-dplyr.R": {
+      "checksum": "9a9f4b4f35b233b38814c243c3f1815f"
+    },
+    "R/win-library/4.2/vroom/bench/all_numeric-wide/vroom-base.R": {
+      "checksum": "123685f2b589d8f51662fc63681d23d9"
+    },
+    "R/win-library/4.2/vroom/bench/all_numeric-wide/vroom-dplyr.R": {
+      "checksum": "4648ea621c2e2938d7823aa4119e16c1"
+    },
+    "R/win-library/4.2/vroom/bench/all_numeric-wide/vroom_no_altrep-base.R": {
+      "checksum": "81f9b037b915cc475618706f6b710979"
+    },
+    "R/win-library/4.2/vroom/bench/all_numeric-wide/vroom_no_altrep-dplyr.R": {
+      "checksum": "9a6290051b3b157163bd6afc61efa4ea"
+    },
+    "R/win-library/4.2/vroom/bench/download-data.sh": {
+      "checksum": "6684603ba8dd737f4c3cbef4afbef69f"
+    },
+    "R/win-library/4.2/vroom/bench/fwf.tsv": {
+      "checksum": "272eb2473e8927f9a70985f4baae314a"
+    },
+    "R/win-library/4.2/vroom/bench/fwf/read.delim-base.R": {
+      "checksum": "5ff8c048c6a2857e100f759acce6f57d"
+    },
+    "R/win-library/4.2/vroom/bench/fwf/readr-dplyr.R": {
+      "checksum": "13fee535654a32c302044cc380400811"
+    },
+    "R/win-library/4.2/vroom/bench/fwf/vroom-base.R": {
+      "checksum": "e4a0bc2e0e47fa3a14f02ce7fa4005dd"
+    },
+    "R/win-library/4.2/vroom/bench/fwf/vroom-dplyr.R": {
+      "checksum": "7c846584c6e0e5e4c2fb1f27af3d6d9e"
+    },
+    "R/win-library/4.2/vroom/bench/fwf/vroom_no_altrep-dplyr.R": {
+      "checksum": "72faf515d2a3e87a140b15203a51422d"
+    },
+    "R/win-library/4.2/vroom/bench/GNUmakefile": {
+      "checksum": "079547f9bdda65602ec9546b56591cd9"
+    },
+    "R/win-library/4.2/vroom/bench/README.md": {
+      "checksum": "81b65cd5dafc0ef9280e7012a96eb28f"
+    },
+    "R/win-library/4.2/vroom/bench/run-bench-fwf.R": {
+      "checksum": "a9bef83722c563c8889b1ecaec91073f"
+    },
+    "R/win-library/4.2/vroom/bench/run-bench.R": {
+      "checksum": "46fe1a77f4af4bb647c17b1e5b3f6d0e"
+    },
+    "R/win-library/4.2/vroom/bench/script.sh": {
+      "checksum": "cb525dd7d173f28932d6620e1e7aaf4e"
+    },
+    "R/win-library/4.2/vroom/bench/session_info.R": {
+      "checksum": "8aa4f38f904c3623e9b916907f77474e"
+    },
+    "R/win-library/4.2/vroom/bench/session_info.tsv": {
+      "checksum": "739020b62d11d339fcd031adcc51fdb8"
+    },
+    "R/win-library/4.2/vroom/bench/summarise-benchmarks.R": {
+      "checksum": "4ab3d6b59a213b29ba612815a83678bf"
+    },
+    "R/win-library/4.2/vroom/bench/taxi.tsv": {
+      "checksum": "26e194ad5ae7130a5ee491b7629d33a4"
+    },
+    "R/win-library/4.2/vroom/bench/taxi/data.table-data.table.R": {
+      "checksum": "67993afdf5abbc57c367492e103d98b2"
+    },
+    "R/win-library/4.2/vroom/bench/taxi/read.delim-base.R": {
+      "checksum": "a932ed0ffbeacde593f5a6065cac8762"
+    },
+    "R/win-library/4.2/vroom/bench/taxi/readr-dplyr.R": {
+      "checksum": "2416b4a645cdc93327c0d7cc3aee1b32"
+    },
+    "R/win-library/4.2/vroom/bench/taxi/vroom-base.R": {
+      "checksum": "94ac2bea499d537469f3ab25af03a6bf"
+    },
+    "R/win-library/4.2/vroom/bench/taxi/vroom-dplyr.R": {
+      "checksum": "ed53d4dc02d668ccfe4f826a5817131d"
+    },
+    "R/win-library/4.2/vroom/bench/taxi/vroom_no_altrep-dplyr.R": {
+      "checksum": "2f5c39593ca034162f7a804b792ecb2d"
+    },
+    "R/win-library/4.2/vroom/bench/taxi_multiple.tsv": {
+      "checksum": "1e41ec0c73e72d2259961877f5e60030"
+    },
+    "R/win-library/4.2/vroom/bench/taxi_multiple/data.table-data.table.R": {
+      "checksum": "aeff388f7d649d76028e1238270d6483"
+    },
+    "R/win-library/4.2/vroom/bench/taxi_multiple/readr-dplyr.R": {
+      "checksum": "ac9b0e14211305511911366bc7f39b53"
+    },
+    "R/win-library/4.2/vroom/bench/taxi_multiple/vroom-base.R": {
+      "checksum": "5f45cc33ee2da55da015df6f4e42eaca"
+    },
+    "R/win-library/4.2/vroom/bench/taxi_multiple/vroom-dplyr.R": {
+      "checksum": "df54197ddbcc59fc2bfce4fc27d9284c"
+    },
+    "R/win-library/4.2/vroom/bench/taxi_multiple/vroom_no_altrep-dplyr.R": {
+      "checksum": "486f016a15d9ca9f859b08fa0fa1ca3f"
+    },
+    "R/win-library/4.2/vroom/bench/taxi_writing.tsv": {
+      "checksum": "1a269cc94a87f78d77b5460ef7f0f92e"
+    },
+    "R/win-library/4.2/vroom/bench/taxi_writing/base-gzip.R": {
+      "checksum": "bce900b3729f5169c2a0e3ff69066e2f"
+    },
+    "R/win-library/4.2/vroom/bench/taxi_writing/base-multithreaded_gzip.R": {
+      "checksum": "ec78a353534aac0dc72f34de7817d365"
+    },
+    "R/win-library/4.2/vroom/bench/taxi_writing/base-uncompressed.R": {
+      "checksum": "59aa3d11d4e89fe086c6653160733ce0"
+    },
+    "R/win-library/4.2/vroom/bench/taxi_writing/base-zstandard.R": {
+      "checksum": "65d54f18d2ae928dc35113b7d83c9724"
+    },
+    "R/win-library/4.2/vroom/bench/taxi_writing/data.table-gzip.R": {
+      "checksum": "2452746d818a560078b619f58eef2585"
+    },
+    "R/win-library/4.2/vroom/bench/taxi_writing/data.table-multithreaded_gzip.R": {
+      "checksum": "08acfab7dc00869e0802968c6232e688"
+    },
+    "R/win-library/4.2/vroom/bench/taxi_writing/data.table-uncompressed.R": {
+      "checksum": "5e403204b04f1164999719aa31041ba5"
+    },
+    "R/win-library/4.2/vroom/bench/taxi_writing/readr-gzip.R": {
+      "checksum": "220bb0e090cde9eebd6c36d204804d7c"
+    },
+    "R/win-library/4.2/vroom/bench/taxi_writing/readr-multithreaded_gzip.R": {
+      "checksum": "ba6b5437d3646624706c6480272e4e40"
+    },
+    "R/win-library/4.2/vroom/bench/taxi_writing/readr-uncompressed.R": {
+      "checksum": "2e67ae5451b9016d0ceb5fe54478ca71"
+    },
+    "R/win-library/4.2/vroom/bench/taxi_writing/readr-zstandard.R": {
+      "checksum": "f36cf746c35c0938ed1ce52fc682f9fc"
+    },
+    "R/win-library/4.2/vroom/bench/taxi_writing/vroom-gzip.R": {
+      "checksum": "f55501606ca8159731a842638a5dc782"
+    },
+    "R/win-library/4.2/vroom/bench/taxi_writing/vroom-multithreaded_gzip.R": {
+      "checksum": "d66a90ed9df1fab170da6bbfeb3dac1b"
+    },
+    "R/win-library/4.2/vroom/bench/taxi_writing/vroom-uncompressed.R": {
+      "checksum": "11eaebca3f055e57e42ee3c56916e9f2"
+    },
+    "R/win-library/4.2/vroom/bench/taxi_writing/vroom-zstandard.R": {
+      "checksum": "50e91970e6b3ab9c44280d973cdc8a93"
+    },
+    "R/win-library/4.2/vroom/COPYRIGHTS": {
+      "checksum": "f66fad5f29df5d746eba05092f5db402"
+    },
+    "R/win-library/4.2/vroom/DESCRIPTION": {
+      "checksum": "53c04cdd5bd04bf7ddab36f4376d4327"
+    },
+    "R/win-library/4.2/vroom/doc/benchmarks.html": {
+      "checksum": "ea4525bfa0ce83165c1406741ab5a040"
+    },
+    "R/win-library/4.2/vroom/doc/benchmarks.R": {
+      "checksum": "f3a20df6512f61f766d0f4f398cd9e39"
+    },
+    "R/win-library/4.2/vroom/doc/benchmarks.Rmd": {
+      "checksum": "2c7711d2eefe67f23fb9d488b8456f6a"
+    },
+    "R/win-library/4.2/vroom/doc/index.html": {
+      "checksum": "acee96e30b4703421fed7d4bf75b731f"
+    },
+    "R/win-library/4.2/vroom/doc/vroom.html": {
+      "checksum": "3128de7c6db8c05831569148de286380"
+    },
+    "R/win-library/4.2/vroom/doc/vroom.R": {
+      "checksum": "83a154f6a8e2c356793514dee99378c8"
+    },
+    "R/win-library/4.2/vroom/doc/vroom.Rmd": {
+      "checksum": "5588eb1f7eaf8d22de3f0fc5d6bcf408"
+    },
+    "R/win-library/4.2/vroom/extdata/fwf-sample.txt": {
+      "checksum": "891bca40aeba031848809c3e587b20d7"
+    },
+    "R/win-library/4.2/vroom/extdata/mtcars-4.csv": {
+      "checksum": "c25b678e1bf7c33f1438853930348b5f"
+    },
+    "R/win-library/4.2/vroom/extdata/mtcars-6.csv": {
+      "checksum": "2a4acab046ab5735b2589365a29888fa"
+    },
+    "R/win-library/4.2/vroom/extdata/mtcars-8.csv": {
+      "checksum": "86fea77ddd827fa7a394d1a20736920f"
+    },
+    "R/win-library/4.2/vroom/extdata/mtcars-multi-cyl.zip": {
+      "checksum": "c25e0f1ec4043e2839e1a64743844c48"
+    },
+    "R/win-library/4.2/vroom/extdata/mtcars.csv": {
+      "checksum": "c502359c26a0931eef53b2207b2344f9"
+    },
+    "R/win-library/4.2/vroom/extdata/mtcars.csv.bz2": {
+      "checksum": "397ea2199f10f07a4a0c49800f24d4a5"
+    },
+    "R/win-library/4.2/vroom/extdata/mtcars.csv.gz": {
+      "checksum": "fe1d9b4a0c1eb859115f6b9a8ff7f5f7"
+    },
+    "R/win-library/4.2/vroom/extdata/mtcars.csv.xz": {
+      "checksum": "0dfbcad9416210addd8b23f740e3ae72"
+    },
+    "R/win-library/4.2/vroom/extdata/mtcars.csv.zip": {
+      "checksum": "c2636e23318e78960fafbcab4b7b5a97"
+    },
+    "R/win-library/4.2/vroom/help/aliases.rds": {
+      "checksum": "cb43f8c879f3411a16f30984b859b091"
+    },
+    "R/win-library/4.2/vroom/help/AnIndex": {
+      "checksum": "dc64ed5f4f9f0442e99a30bce52a0407"
+    },
+    "R/win-library/4.2/vroom/help/figures/lifecycle-archived.svg": {
+      "checksum": "a1cbaf3f328e8d74e747faacf640c7fc"
+    },
+    "R/win-library/4.2/vroom/help/figures/lifecycle-defunct.svg": {
+      "checksum": "6f521fb1819410630e279d1abf88685a"
+    },
+    "R/win-library/4.2/vroom/help/figures/lifecycle-deprecated.svg": {
+      "checksum": "391f696f961e28914508628a7af31b74"
+    },
+    "R/win-library/4.2/vroom/help/figures/lifecycle-experimental.svg": {
+      "checksum": "691b1eb2aec9e1bec96b79d11ba5e631"
+    },
+    "R/win-library/4.2/vroom/help/figures/lifecycle-maturing.svg": {
+      "checksum": "405e252e54a79b33522e9699e4e9051c"
+    },
+    "R/win-library/4.2/vroom/help/figures/lifecycle-questioning.svg": {
+      "checksum": "f41ed996be135fb35afe00641621da61"
+    },
+    "R/win-library/4.2/vroom/help/figures/lifecycle-retired.svg": {
+      "checksum": "46de21252239c5a23d400eae83ec6b2d"
+    },
+    "R/win-library/4.2/vroom/help/figures/lifecycle-soft-deprecated.svg": {
+      "checksum": "306bef67d1c636f209024cf2403846fd"
+    },
+    "R/win-library/4.2/vroom/help/figures/lifecycle-stable.svg": {
+      "checksum": "ed42e3fbd7cc30bc6ca8fa9b658e24a8"
+    },
+    "R/win-library/4.2/vroom/help/figures/lifecycle-superseded.svg": {
+      "checksum": "99f6e77d8cd1072e42e744a4950e143a"
+    },
+    "R/win-library/4.2/vroom/help/figures/logo.png": {
+      "checksum": "273b88eb801722e06ecf3e14e8aad67e"
+    },
+    "R/win-library/4.2/vroom/help/paths.rds": {
+      "checksum": "16668233c99a2ffbc7f5538fd8d2ad25"
+    },
+    "R/win-library/4.2/vroom/help/vroom.rdb": {
+      "checksum": "c7f11b3155eac1d38f1cb5d7f3c20bb3"
+    },
+    "R/win-library/4.2/vroom/help/vroom.rdx": {
+      "checksum": "ae3b64eae2c5ab94d298c8eaf53166ed"
+    },
+    "R/win-library/4.2/vroom/html/00Index.html": {
+      "checksum": "bac726ac6814fbeba461cc0fed23f9a6"
+    },
+    "R/win-library/4.2/vroom/html/R.css": {
+      "checksum": "3845aef6126cf18c45937f292f23508c"
+    },
+    "R/win-library/4.2/vroom/INDEX": {
+      "checksum": "f465d17e364e33b3f763e88374415498"
+    },
+    "R/win-library/4.2/vroom/libs/x64/symbols.rds": {
+      "checksum": "85cae994503fafb473f5aa6b45fd28c9"
+    },
+    "R/win-library/4.2/vroom/libs/x64/vroom.dll": {
+      "checksum": "90aa585ad588521ead80d6bcf383c1c8"
+    },
+    "R/win-library/4.2/vroom/LICENSE": {
+      "checksum": "39e66b68a353a8b8fe293fcb134b0bd6"
+    },
+    "R/win-library/4.2/vroom/MD5": {
+      "checksum": "18b4087b5080f1fc9d3e7d8c38dd4c05"
+    },
+    "R/win-library/4.2/vroom/Meta/features.rds": {
+      "checksum": "9f7a4637f056aa0787fb29bc9c21a1ff"
+    },
+    "R/win-library/4.2/vroom/Meta/hsearch.rds": {
+      "checksum": "0bab6d55b0253a7a356df5349cfaba45"
+    },
+    "R/win-library/4.2/vroom/Meta/links.rds": {
+      "checksum": "320a39c1bd35086177b3b1b2fb25bc54"
+    },
+    "R/win-library/4.2/vroom/Meta/nsInfo.rds": {
+      "checksum": "8ef3595b538db85ba5fb3058d384558d"
+    },
+    "R/win-library/4.2/vroom/Meta/package.rds": {
+      "checksum": "9107370143ed1365590c3c71522b0d98"
+    },
+    "R/win-library/4.2/vroom/Meta/Rd.rds": {
+      "checksum": "21e6c308fa0c3bf594a9d6ad1e390a45"
+    },
+    "R/win-library/4.2/vroom/Meta/vignette.rds": {
+      "checksum": "cff00164e4a0aac3f60fa53ab62cf1c7"
+    },
+    "R/win-library/4.2/vroom/NAMESPACE": {
+      "checksum": "b264f8f06659cefbcc4bd49a48ba4f9b"
+    },
+    "R/win-library/4.2/vroom/NEWS.md": {
+      "checksum": "8b6e5a561a8d0a6d80000fffad3d87ca"
+    },
+    "R/win-library/4.2/vroom/R/sysdata.rdb": {
+      "checksum": "dca803a8b276daeaa0e707a9c29a67e4"
+    },
+    "R/win-library/4.2/vroom/R/sysdata.rdx": {
+      "checksum": "f9e4c6c71ca072ec56717bf3232acd64"
+    },
+    "R/win-library/4.2/vroom/R/vroom": {
+      "checksum": "d6c68f1fe41ced6e98a766a3757313da"
+    },
+    "R/win-library/4.2/vroom/R/vroom.rdb": {
+      "checksum": "5e55b3479ed1be29adbf2d665bb89cb9"
+    },
+    "R/win-library/4.2/vroom/R/vroom.rdx": {
+      "checksum": "97dc5bb76df7f4e39b701502e7faad61"
+    },
+    "R/win-library/4.2/vroom/WORDLIST": {
+      "checksum": "606d5b9a74cb921587b7d8b380c014db"
+    },
+    "R/win-library/4.2/vroom/words/adjectives.txt": {
+      "checksum": "dacabb877353b4cc5ca46d51f3a980f8"
+    },
+    "R/win-library/4.2/vroom/words/animals.txt": {
+      "checksum": "031ecab52f8891f5939ba4ffdc46aa8b"
+    },
+    "R/win-library/4.2/withr/DESCRIPTION": {
+      "checksum": "eb1361776be0e009d9ea2a13a561bb56"
+    },
+    "R/win-library/4.2/withr/doc/index.html": {
+      "checksum": "bf271e9edeb6917fcc341946cb75c1f4"
+    },
+    "R/win-library/4.2/withr/doc/withr.html": {
+      "checksum": "aef42ea8baef4cfd822ca2f30fa419f6"
+    },
+    "R/win-library/4.2/withr/doc/withr.R": {
+      "checksum": "26e0ef04f11f6b1aa40d643af75c605b"
+    },
+    "R/win-library/4.2/withr/doc/withr.Rmd": {
+      "checksum": "b10477a6f03e99ee996e41cebb6027ca"
+    },
+    "R/win-library/4.2/withr/help/aliases.rds": {
+      "checksum": "cf6356f5720a20bfc176cdac0f2eb651"
+    },
+    "R/win-library/4.2/withr/help/AnIndex": {
+      "checksum": "800cb60c39a8f9dd2f7fbaa2737c4bf3"
+    },
+    "R/win-library/4.2/withr/help/figures/lifecycle-archived.svg": {
+      "checksum": "a1cbaf3f328e8d74e747faacf640c7fc"
+    },
+    "R/win-library/4.2/withr/help/figures/lifecycle-defunct.svg": {
+      "checksum": "6f521fb1819410630e279d1abf88685a"
+    },
+    "R/win-library/4.2/withr/help/figures/lifecycle-deprecated.svg": {
+      "checksum": "391f696f961e28914508628a7af31b74"
+    },
+    "R/win-library/4.2/withr/help/figures/lifecycle-experimental.svg": {
+      "checksum": "691b1eb2aec9e1bec96b79d11ba5e631"
+    },
+    "R/win-library/4.2/withr/help/figures/lifecycle-maturing.svg": {
+      "checksum": "405e252e54a79b33522e9699e4e9051c"
+    },
+    "R/win-library/4.2/withr/help/figures/lifecycle-questioning.svg": {
+      "checksum": "f41ed996be135fb35afe00641621da61"
+    },
+    "R/win-library/4.2/withr/help/figures/lifecycle-soft-deprecated.svg": {
+      "checksum": "306bef67d1c636f209024cf2403846fd"
+    },
+    "R/win-library/4.2/withr/help/figures/lifecycle-stable.svg": {
+      "checksum": "ed42e3fbd7cc30bc6ca8fa9b658e24a8"
+    },
+    "R/win-library/4.2/withr/help/figures/lifecycle-superseded.svg": {
+      "checksum": "bf2f1ad432ecccee3400afe533404113"
+    },
+    "R/win-library/4.2/withr/help/figures/logo.png": {
+      "checksum": "ab471e54cdcde1b00fbfb165e9c3639b"
+    },
+    "R/win-library/4.2/withr/help/figures/README-unnamed-chunk-3-1.png": {
+      "checksum": "40af1efbfdf130062a304c44632ac021"
+    },
+    "R/win-library/4.2/withr/help/paths.rds": {
+      "checksum": "768bb36725130cc711269768fde74bfe"
+    },
+    "R/win-library/4.2/withr/help/withr.rdb": {
+      "checksum": "d29a5dfec9acfbfb4a6f4f41a451cf00"
+    },
+    "R/win-library/4.2/withr/help/withr.rdx": {
+      "checksum": "3545b617f147b4e9d1100a8e0f6be251"
+    },
+    "R/win-library/4.2/withr/html/00Index.html": {
+      "checksum": "961d90bc4b3bce358829315de643d0ec"
+    },
+    "R/win-library/4.2/withr/html/R.css": {
+      "checksum": "3845aef6126cf18c45937f292f23508c"
+    },
+    "R/win-library/4.2/withr/INDEX": {
+      "checksum": "916c7dd5ed692050a065831473234a03"
+    },
+    "R/win-library/4.2/withr/LICENSE": {
+      "checksum": "6d8b003cc83b1dfced7bd996b18429dc"
+    },
+    "R/win-library/4.2/withr/Meta/features.rds": {
+      "checksum": "2fc7c8f33ded19611739c12d9aa85e03"
+    },
+    "R/win-library/4.2/withr/Meta/hsearch.rds": {
+      "checksum": "cf37acb12b30ed3762a373f00fdd33cf"
+    },
+    "R/win-library/4.2/withr/Meta/links.rds": {
+      "checksum": "e5e43d6ea5c19dcea7d6d00ad63412c2"
+    },
+    "R/win-library/4.2/withr/Meta/nsInfo.rds": {
+      "checksum": "79d6659fe891bfae3b8d6938bc2f4a5a"
+    },
+    "R/win-library/4.2/withr/Meta/package.rds": {
+      "checksum": "75a4aa089c31a3bdc8e907a1db66b4ca"
+    },
+    "R/win-library/4.2/withr/Meta/Rd.rds": {
+      "checksum": "3c2e7e3211122b5a9a861e7ecc4bb577"
+    },
+    "R/win-library/4.2/withr/Meta/vignette.rds": {
+      "checksum": "ab608bd7cb06366f03e641f9c24a5a3e"
+    },
+    "R/win-library/4.2/withr/NAMESPACE": {
+      "checksum": "3604c48113b02b685fdd0eba1ee3e4d9"
+    },
+    "R/win-library/4.2/withr/NEWS.md": {
+      "checksum": "dff3bed7dedb078604c1710adcc3291e"
+    },
+    "R/win-library/4.2/withr/R/withr": {
+      "checksum": "d6c68f1fe41ced6e98a766a3757313da"
+    },
+    "R/win-library/4.2/withr/R/withr.rdb": {
+      "checksum": "daecfa6a342d5b54435d4b3a43871229"
+    },
+    "R/win-library/4.2/withr/R/withr.rdx": {
+      "checksum": "16a18434ef30f77be048eba79cb849c7"
+    }
+  },
+  "users": null
+}
