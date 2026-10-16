@@ -1,5 +1,8 @@
-# OBOB
+**OBOB**
 Observation By means Of Buttons - a format created by Marieke Boelhouwer, adapted for R by Marte Poelstra.
 This instrument is completely free of use, but please cite use if you do:
 
 Marte Poelstra, Elisa Kupers, Christy Tenback, Hannah Odink, Anke de Boer, Paul van Geert, & Marieke Boelhouwer. (2026). KLIK: the OBOB Shiny App (v1.0.0). github.com/martepoelstra/OBOB  
+
+
+If you want to simply use the app without installing R, you can do so online at https://martepoelstra-obob.share.connect.posit.cloud/
