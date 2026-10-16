@@ -19,7 +19,7 @@ ui <- fluidPage(
     tags$style(HTML("
       .big-button {
         width: 100%;
-        height: 100px;
+        height: 80px;
         font-size: 20px;
         font-weight: bold;
         align-items: center !important;
@@ -38,7 +38,23 @@ ui <- fluidPage(
         right: 20px;
         z-index: 9999;
       }
+      
+      #logo {
+      position: fixed;
+      top: 10px;
+      left: 10px;
+      width: 140px;
+      height: auto;
+      z-index: 9999;
+      }
     "))
+  ),
+  
+  # logo
+  tags$img(
+    src = "logo.png",
+    id = "logo",
+    alt = "Logo"
   ),
   
   # reminder and timer
@@ -120,9 +136,9 @@ server <- function(input, output, session) {
     hide("start") # As soon as the start button is clicked, this button disappears and the timer starts.
     
     # The line below ensures that the data is saved under a fixed filename,
-    # in the format "observations_day-month-year-hour-minute".
+    # in the format "observation_day-month-year-hour-minute".
     file(
-      paste0("observations_", format(Sys.time(), "%d-%m-%Y_%H-%M"), ".csv")
+      paste0("observation_", format(Sys.time(), "%d-%m-%Y_%H-%M"), ".csv")
     )
   })
   
@@ -138,7 +154,7 @@ server <- function(input, output, session) {
     minutes <- floor(timer_sec() / 60)
     seconds <- timer_sec() %% 60
     span(sprintf("%02d:%02d", minutes, seconds),
-         style="font-weight:bold; font-size:72px; position:fixed; bottom:20px; left:20px;")
+         style="font-weight:bold; font-size:62px; position:fixed; bottom:20px; left:20px;")
   })
   
   format_timer <- function(sec) {
@@ -157,6 +173,8 @@ server <- function(input, output, session) {
       time = character(),
       studentbehavior = numeric(),
       teacherbehavior = numeric(),
+      teacher_control = numeric(),
+      teacher_closeness = numeric(),
       notes = character(),
       backgroundinfo = character(),
       stringsAsFactors = FALSE
@@ -194,6 +212,8 @@ server <- function(input, output, session) {
         time = NA_character_,
         studentbehavior = NA,
         teacherbehavior = NA,
+        teacher_control = NA,
+        teacher_closeness = NA,
         notes = NA_character_,
         backgroundinfo = NA_character_,
         stringsAsFactors = FALSE
@@ -249,6 +269,12 @@ server <- function(input, output, session) {
       df$time[row] <- format_timer(timer_sec())
       df$studentbehavior[row] <- g
       df$teacherbehavior[row] <- i
+      
+      # Recoding: first number = control, second number = closeness
+      df$teacher_control[row] <- as.numeric(substr(as.character(i), 1, 1))
+      df$teacher_closeness[row] <- as.numeric(substr(as.character(i), 2, 2))
+      
+      
       data(df)
       
       # Create a CSV file with the recorded data.
@@ -280,10 +306,10 @@ server <- function(input, output, session) {
     tags$div(
       style = "
       position: fixed;
-      bottom: 110px;
+      bottom: 100px;
       left: 20px;
       background-color: #f0f0f0;
-      padding: 10px;
+      padding: 5px;
       border-radius: 8px;
       font-size: 20px;
     ",
