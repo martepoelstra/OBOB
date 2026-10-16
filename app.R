@@ -4,9 +4,7 @@
 
 # Install and load shiny and shinyjs, this is the basis of the app.
 
-install.packages("shiny")
 library(shiny)
-install.packages("shinyjs")
 library(shinyjs)
 
 
@@ -77,17 +75,18 @@ ui <- fluidPage(
   
   # Below, the details of the buttons are defined. The titles of the buttons and the 
   # columns can be adjusted here, as well as the colors.
-  
+  div(
+    style = "padding-top: 60px;",
   fluidRow(
     column(3,
-           h3("Student: Behavior Class"),
+           h3("Student: Behavior Class"), style = "color: #005eb8",
            actionButton("g1", "Assertive behavior", class = "big-button", style = "background-color:#2BB512;"),
            actionButton("g2", "Overassertive behavior", class = "big-button", style = "background-color:#F5DB18;"),
            actionButton("g3", "Threatening behavior", class = "big-button", style = "background-color:#F57818;"),
            actionButton("g4", "Violent behavior", class = "big-button", style = "background-color:#F53D18;")
     ),
     column(3,
-           h3("Teacher: Warm"),
+           h3("Teacher: Warm"), style = "color: #005eb8",
            actionButton("i11", "Student in control", class = "big-button", style = "background-color:#2BB512;"),
            actionButton("i21", "Shared control", class = "big-button", style = "background-color:#F5DB18;"),
            actionButton("i31", "Teacher takeover", class = "big-button", style = "background-color:#F57818;"),
@@ -95,7 +94,7 @@ ui <- fluidPage(
            
     ),
     column(3,
-           h3("Teacher: Cold"),
+           h3("Teacher: Cold"), style = "color: #005eb8",
            actionButton("i12", "Student in control", class = "big-button", style = "background-color:#155709;"),
            actionButton("i22", "Shared control", class = "big-button", style = "background-color:#dbc416;"),
            actionButton("i32", "Teacher takeover", class = "big-button", style = "background-color:#b15711;"),
@@ -113,7 +112,7 @@ ui <- fluidPage(
     )
   )
 )
-
+)
 
 # ---- SERVER ----
 # This part covers the actual functionality of the app.
